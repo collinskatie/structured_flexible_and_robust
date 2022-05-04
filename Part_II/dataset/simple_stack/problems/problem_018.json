@@ -1,0 +1,83 @@
+{
+    "goal_board": [
+        [
+            "mouse pad",
+            "tv remote",
+            "phonebook"
+        ],
+        [
+            "laptop"
+        ]
+    ],
+    "init_board": [
+        [
+            "tv remote"
+        ],
+        [
+            "laptop"
+        ],
+        [
+            "phonebook",
+            "mouse pad"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "phonebook"
+            ],
+            [
+                "mid",
+                "phonebook",
+                "tv remote"
+            ],
+            [
+                "bot",
+                "mouse pad",
+                null
+            ],
+            [
+                "bot",
+                "laptop",
+                null
+            ],
+            [
+                "mid",
+                "tv remote",
+                "mouse pad"
+            ],
+            [
+                "top",
+                null,
+                "laptop"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "phonebook"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "phonebook"
+            ],
+            [
+                "mid",
+                "phonebook",
+                "tv remote"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "laptop": "shovel",
+        "mouse pad": "toilet seat",
+        "phonebook": "dress shirt",
+        "tv remote": "dryer sheets"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "goal_board": [
+        [
+            "photo album",
+            "tissue box",
+            "ipad",
+            "drawing book"
+        ]
+    ],
+    "init_board": [
+        [
+            "drawing book",
+            "photo album"
+        ],
+        [
+            "ipad"
+        ],
+        [
+            "tissue box"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "tissue box",
+                "photo album"
+            ],
+            [
+                "bot",
+                "photo album",
+                null
+            ],
+            [
+                "top",
+                null,
+                "drawing book"
+            ],
+            [
+                "mid",
+                "ipad",
+                "tissue box"
+            ],
+            [
+                "mid",
+                "drawing book",
+                "ipad"
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "tissue box",
+                "photo album"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "tissue box",
+                "photo album"
+            ],
+            [
+                "bot",
+                "photo album",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "drawing book": "triangle",
+        "ipad": "rake",
+        "photo album": "corduroy pants",
+        "tissue box": "hacksaw"
+    }
+}

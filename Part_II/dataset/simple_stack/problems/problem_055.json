@@ -1,0 +1,88 @@
+{
+    "goal_board": [
+        [
+            "clipboard"
+        ],
+        [
+            "binder"
+        ],
+        [
+            "phonebook",
+            "newspaper"
+        ]
+    ],
+    "init_board": [
+        [
+            "binder",
+            "phonebook"
+        ],
+        [
+            "newspaper",
+            "clipboard"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "bot",
+                "clipboard",
+                null
+            ],
+            [
+                "top",
+                null,
+                "clipboard"
+            ],
+            [
+                "top",
+                null,
+                "newspaper"
+            ],
+            [
+                "bot",
+                "phonebook",
+                null
+            ],
+            [
+                "bot",
+                "binder",
+                null
+            ],
+            [
+                "mid",
+                "newspaper",
+                "phonebook"
+            ],
+            [
+                "top",
+                null,
+                "binder"
+            ]
+        ],
+        "one": [
+            [
+                "bot",
+                "clipboard",
+                null
+            ]
+        ],
+        "two": [
+            [
+                "bot",
+                "clipboard",
+                null
+            ],
+            [
+                "top",
+                null,
+                "clipboard"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "binder": "accordion",
+        "clipboard": "table tennis paddle",
+        "newspaper": "neck tie",
+        "phonebook": "chainsaw"
+    }
+}

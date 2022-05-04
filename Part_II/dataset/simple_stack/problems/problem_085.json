@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "envelope",
+            "notebook"
+        ],
+        [
+            "plate",
+            "newspaper"
+        ]
+    ],
+    "init_board": [
+        [
+            "notebook",
+            "newspaper"
+        ],
+        [
+            "envelope",
+            "plate"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "bot",
+                "envelope",
+                null
+            ],
+            [
+                "bot",
+                "plate",
+                null
+            ],
+            [
+                "top",
+                null,
+                "notebook"
+            ],
+            [
+                "mid",
+                "notebook",
+                "envelope"
+            ],
+            [
+                "top",
+                null,
+                "newspaper"
+            ],
+            [
+                "mid",
+                "newspaper",
+                "plate"
+            ]
+        ],
+        "one": [
+            [
+                "bot",
+                "envelope",
+                null
+            ]
+        ],
+        "two": [
+            [
+                "bot",
+                "envelope",
+                null
+            ],
+            [
+                "bot",
+                "plate",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "envelope": "measuring tape",
+        "newspaper": "turtleneck",
+        "notebook": "meteorite",
+        "plate": "cardigan"
+    }
+}

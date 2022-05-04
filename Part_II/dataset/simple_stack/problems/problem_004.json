@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "map",
+            "pizza box",
+            "calculator"
+        ],
+        [
+            "textbook"
+        ]
+    ],
+    "init_board": [
+        [
+            "pizza box",
+            "map",
+            "calculator"
+        ],
+        [
+            "textbook"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "calculator"
+            ],
+            [
+                "bot",
+                "map",
+                null
+            ],
+            [
+                "top",
+                null,
+                "textbook"
+            ],
+            [
+                "mid",
+                "calculator",
+                "pizza box"
+            ],
+            [
+                "mid",
+                "pizza box",
+                "map"
+            ],
+            [
+                "bot",
+                "textbook",
+                null
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "calculator"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "calculator"
+            ],
+            [
+                "bot",
+                "map",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "calculator": "rake",
+        "map": "sponge",
+        "pizza box": "jeans",
+        "textbook": "triangle"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "goal_board": [
+        [
+            "writing pad",
+            "laptop"
+        ],
+        [
+            "photo album"
+        ],
+        [
+            "ipad"
+        ]
+    ],
+    "init_board": [
+        [
+            "photo album"
+        ],
+        [
+            "writing pad",
+            "laptop",
+            "ipad"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "laptop",
+                "writing pad"
+            ],
+            [
+                "top",
+                null,
+                "ipad"
+            ],
+            [
+                "bot",
+                "photo album",
+                null
+            ],
+            [
+                "top",
+                null,
+                "laptop"
+            ],
+            [
+                "bot",
+                "ipad",
+                null
+            ],
+            [
+                "top",
+                null,
+                "photo album"
+            ],
+            [
+                "bot",
+                "writing pad",
+                null
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "laptop",
+                "writing pad"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "laptop",
+                "writing pad"
+            ],
+            [
+                "top",
+                null,
+                "ipad"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "ipad": "sweatshirt",
+        "laptop": "meteorite",
+        "photo album": "corduroy pants",
+        "writing pad": "ukelele"
+    }
+}

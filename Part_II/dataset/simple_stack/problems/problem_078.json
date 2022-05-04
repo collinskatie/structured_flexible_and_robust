@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "binder",
+            "plate"
+        ],
+        [
+            "calculator",
+            "keyboard"
+        ]
+    ],
+    "init_board": [
+        [
+            "keyboard",
+            "binder",
+            "plate"
+        ],
+        [
+            "calculator"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "plate"
+            ],
+            [
+                "mid",
+                "keyboard",
+                "calculator"
+            ],
+            [
+                "mid",
+                "plate",
+                "binder"
+            ],
+            [
+                "bot",
+                "binder",
+                null
+            ],
+            [
+                "top",
+                null,
+                "keyboard"
+            ],
+            [
+                "bot",
+                "calculator",
+                null
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "plate"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "plate"
+            ],
+            [
+                "mid",
+                "keyboard",
+                "calculator"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "binder": "brick",
+        "calculator": "tire",
+        "keyboard": "rake",
+        "plate": "rubbish bin lid"
+    }
+}

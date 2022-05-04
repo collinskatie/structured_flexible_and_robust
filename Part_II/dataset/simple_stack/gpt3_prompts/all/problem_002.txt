@@ -1,0 +1,21 @@
+Initially:
+The raincoat rests on the table.
+There is nothing on the raincoat.
+The hacksaw rests on the table.
+There is nothing on the hacksaw.
+The saucepan rests on the table.
+The mouse pad is on the saucepan.
+There is nothing on the mouse pad.
+
+Goal:
+The mouse pad rests on the table.
+The saucepan rests on the table.
+There is nothing on the hacksaw.
+The raincoat is on the mouse pad.
+The hacksaw is on the raincoat.
+There is nothing on the saucepan.
+
+Actions:
+Move the mouse pad onto the table.
+Move the raincoat onto the mouse pad.
+Move the hacksaw onto the raincoat.

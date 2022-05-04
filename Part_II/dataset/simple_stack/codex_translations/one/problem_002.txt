@@ -1,0 +1,14 @@
+;The laptop rests on the table.
+;There is nothing on the laptop.
+;The notebook rests on the table.
+;The mouse pad is on the notebook.
+;There is nothing on the mouse pad.
+;The plate rests on the table.
+;There is nothing on the plate.
+(ontable laptop)
+(clear laptop)
+(ontable notebook)
+(on mouse-pad notebook)
+(clear mouse-pad)
+(ontable plate)
+(clear plate)

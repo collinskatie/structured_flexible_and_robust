@@ -1,0 +1,76 @@
+{
+    "goal_board": [
+        [
+            "novel",
+            "calculator",
+            "ipad",
+            "clipboard"
+        ]
+    ],
+    "init_board": [
+        [
+            "clipboard",
+            "ipad"
+        ],
+        [
+            "novel"
+        ],
+        [
+            "calculator"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "clipboard",
+                "ipad"
+            ],
+            [
+                "top",
+                null,
+                "clipboard"
+            ],
+            [
+                "mid",
+                "calculator",
+                "novel"
+            ],
+            [
+                "bot",
+                "novel",
+                null
+            ],
+            [
+                "mid",
+                "ipad",
+                "calculator"
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "clipboard",
+                "ipad"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "clipboard",
+                "ipad"
+            ],
+            [
+                "top",
+                null,
+                "clipboard"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "calculator": "corduroy pants",
+        "clipboard": "shovel",
+        "ipad": "meteorite",
+        "novel": "frisbee"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "goal_board": [
+        [
+            "calculator",
+            "sticky notes"
+        ],
+        [
+            "phonebook"
+        ],
+        [
+            "novel"
+        ]
+    ],
+    "init_board": [
+        [
+            "novel",
+            "sticky notes",
+            "phonebook"
+        ],
+        [
+            "calculator"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "sticky notes",
+                "calculator"
+            ],
+            [
+                "bot",
+                "phonebook",
+                null
+            ],
+            [
+                "bot",
+                "novel",
+                null
+            ],
+            [
+                "top",
+                null,
+                "phonebook"
+            ],
+            [
+                "bot",
+                "calculator",
+                null
+            ],
+            [
+                "top",
+                null,
+                "novel"
+            ],
+            [
+                "top",
+                null,
+                "sticky notes"
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "sticky notes",
+                "calculator"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "sticky notes",
+                "calculator"
+            ],
+            [
+                "bot",
+                "phonebook",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "calculator": "brick",
+        "novel": "table tennis paddle",
+        "phonebook": "badminton racket",
+        "sticky notes": "pillow"
+    }
+}

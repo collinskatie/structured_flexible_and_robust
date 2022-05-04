@@ -1,0 +1,88 @@
+{
+    "goal_board": [
+        [
+            "map"
+        ],
+        [
+            "tv remote"
+        ],
+        [
+            "mouse pad",
+            "tablet"
+        ]
+    ],
+    "init_board": [
+        [
+            "mouse pad",
+            "tv remote",
+            "map"
+        ],
+        [
+            "tablet"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "bot",
+                "mouse pad",
+                null
+            ],
+            [
+                "top",
+                null,
+                "tv remote"
+            ],
+            [
+                "bot",
+                "tv remote",
+                null
+            ],
+            [
+                "mid",
+                "tablet",
+                "mouse pad"
+            ],
+            [
+                "bot",
+                "map",
+                null
+            ],
+            [
+                "top",
+                null,
+                "tablet"
+            ],
+            [
+                "top",
+                null,
+                "map"
+            ]
+        ],
+        "one": [
+            [
+                "bot",
+                "mouse pad",
+                null
+            ]
+        ],
+        "two": [
+            [
+                "bot",
+                "mouse pad",
+                null
+            ],
+            [
+                "top",
+                null,
+                "tv remote"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "map": "dryer sheets",
+        "mouse pad": "peacoat",
+        "tablet": "raincoat",
+        "tv remote": "accordion"
+    }
+}

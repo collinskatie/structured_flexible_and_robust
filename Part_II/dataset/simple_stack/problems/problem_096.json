@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "sticky notes",
+            "notebook",
+            "pizza box"
+        ],
+        [
+            "binder"
+        ]
+    ],
+    "init_board": [
+        [
+            "notebook"
+        ],
+        [
+            "sticky notes",
+            "pizza box",
+            "binder"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "bot",
+                "binder",
+                null
+            ],
+            [
+                "top",
+                null,
+                "binder"
+            ],
+            [
+                "mid",
+                "pizza box",
+                "notebook"
+            ],
+            [
+                "top",
+                null,
+                "pizza box"
+            ],
+            [
+                "mid",
+                "notebook",
+                "sticky notes"
+            ],
+            [
+                "bot",
+                "sticky notes",
+                null
+            ]
+        ],
+        "one": [
+            [
+                "bot",
+                "binder",
+                null
+            ]
+        ],
+        "two": [
+            [
+                "bot",
+                "binder",
+                null
+            ],
+            [
+                "top",
+                null,
+                "binder"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "binder": "corduroy pants",
+        "notebook": "tire",
+        "pizza box": "triangle",
+        "sticky notes": "carpet"
+    }
+}

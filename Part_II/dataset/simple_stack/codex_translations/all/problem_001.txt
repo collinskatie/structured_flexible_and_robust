@@ -1,0 +1,12 @@
+;The peacoat rests on the table.
+;There is nothing on the peacoat.
+;The accordion rests on the table.
+;The newspaper is on the accordion.
+;The saucepan is on the newspaper.
+;There is nothing on the saucepan.
+(ontable peacoat)
+(clear peacoat)
+(ontable accordion)
+(on newspaper accordion)
+(on saucepan newspaper)
+(clear saucepan)

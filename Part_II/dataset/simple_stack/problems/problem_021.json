@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "diary",
+            "mouse pad"
+        ],
+        [
+            "plate",
+            "pizza box"
+        ]
+    ],
+    "init_board": [
+        [
+            "diary"
+        ],
+        [
+            "plate",
+            "mouse pad",
+            "pizza box"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "mouse pad"
+            ],
+            [
+                "mid",
+                "pizza box",
+                "plate"
+            ],
+            [
+                "bot",
+                "diary",
+                null
+            ],
+            [
+                "top",
+                null,
+                "pizza box"
+            ],
+            [
+                "mid",
+                "mouse pad",
+                "diary"
+            ],
+            [
+                "bot",
+                "plate",
+                null
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "mouse pad"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "mouse pad"
+            ],
+            [
+                "mid",
+                "pizza box",
+                "plate"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "diary": "bath towel",
+        "mouse pad": "rubbish bin lid",
+        "pizza box": "dryer sheets",
+        "plate": "raincoat"
+    }
+}

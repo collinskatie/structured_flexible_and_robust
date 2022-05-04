@@ -1,0 +1,76 @@
+{
+    "goal_board": [
+        [
+            "writing pad",
+            "tablet",
+            "pizza box",
+            "phone"
+        ]
+    ],
+    "init_board": [
+        [
+            "tablet"
+        ],
+        [
+            "pizza box"
+        ],
+        [
+            "phone",
+            "writing pad"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "bot",
+                "writing pad",
+                null
+            ],
+            [
+                "top",
+                null,
+                "phone"
+            ],
+            [
+                "mid",
+                "pizza box",
+                "tablet"
+            ],
+            [
+                "mid",
+                "tablet",
+                "writing pad"
+            ],
+            [
+                "mid",
+                "phone",
+                "pizza box"
+            ]
+        ],
+        "one": [
+            [
+                "bot",
+                "writing pad",
+                null
+            ]
+        ],
+        "two": [
+            [
+                "bot",
+                "writing pad",
+                null
+            ],
+            [
+                "top",
+                null,
+                "phone"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "phone": "badminton racket",
+        "pizza box": "saucepan",
+        "tablet": "blouse",
+        "writing pad": "sneakers"
+    }
+}

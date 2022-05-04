@@ -1,0 +1,86 @@
+{
+    "goal_board": [
+        [
+            "notebook"
+        ],
+        [
+            "diary",
+            "clipboard"
+        ],
+        [
+            "protractor"
+        ]
+    ],
+    "init_board": [
+        [
+            "notebook",
+            "protractor",
+            "clipboard",
+            "diary"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "clipboard",
+                "diary"
+            ],
+            [
+                "top",
+                null,
+                "clipboard"
+            ],
+            [
+                "bot",
+                "notebook",
+                null
+            ],
+            [
+                "bot",
+                "diary",
+                null
+            ],
+            [
+                "bot",
+                "protractor",
+                null
+            ],
+            [
+                "top",
+                null,
+                "protractor"
+            ],
+            [
+                "top",
+                null,
+                "notebook"
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "clipboard",
+                "diary"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "clipboard",
+                "diary"
+            ],
+            [
+                "top",
+                null,
+                "clipboard"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "clipboard": "table tennis paddle",
+        "diary": "toilet seat",
+        "notebook": "rubbish bin lid",
+        "protractor": "meteorite"
+    }
+}

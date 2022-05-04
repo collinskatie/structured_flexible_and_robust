@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "letter",
+            "writing pad"
+        ],
+        [
+            "map",
+            "sketchbook"
+        ]
+    ],
+    "init_board": [
+        [
+            "map",
+            "letter"
+        ],
+        [
+            "writing pad",
+            "sketchbook"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "bot",
+                "letter",
+                null
+            ],
+            [
+                "top",
+                null,
+                "sketchbook"
+            ],
+            [
+                "top",
+                null,
+                "writing pad"
+            ],
+            [
+                "mid",
+                "sketchbook",
+                "map"
+            ],
+            [
+                "mid",
+                "writing pad",
+                "letter"
+            ],
+            [
+                "bot",
+                "map",
+                null
+            ]
+        ],
+        "one": [
+            [
+                "bot",
+                "letter",
+                null
+            ]
+        ],
+        "two": [
+            [
+                "bot",
+                "letter",
+                null
+            ],
+            [
+                "top",
+                null,
+                "sketchbook"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "letter": "dryer sheets",
+        "map": "hand warmers",
+        "sketchbook": "scarf",
+        "writing pad": "corduroy pants"
+    }
+}

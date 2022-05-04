@@ -1,0 +1,86 @@
+{
+    "goal_board": [
+        [
+            "sketchbook"
+        ],
+        [
+            "laptop"
+        ],
+        [
+            "protractor",
+            "pizza box"
+        ]
+    ],
+    "init_board": [
+        [
+            "sketchbook",
+            "laptop",
+            "pizza box",
+            "protractor"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "laptop"
+            ],
+            [
+                "bot",
+                "sketchbook",
+                null
+            ],
+            [
+                "bot",
+                "laptop",
+                null
+            ],
+            [
+                "top",
+                null,
+                "sketchbook"
+            ],
+            [
+                "mid",
+                "pizza box",
+                "protractor"
+            ],
+            [
+                "bot",
+                "protractor",
+                null
+            ],
+            [
+                "top",
+                null,
+                "pizza box"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "laptop"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "laptop"
+            ],
+            [
+                "bot",
+                "sketchbook",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "laptop": "sweatshirt",
+        "pizza box": "rake",
+        "protractor": "sneakers",
+        "sketchbook": "flower pot"
+    }
+}

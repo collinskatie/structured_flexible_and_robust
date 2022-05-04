@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "phonebook",
+            "sketchbook",
+            "writing pad"
+        ],
+        [
+            "calculator"
+        ]
+    ],
+    "init_board": [
+        [
+            "writing pad"
+        ],
+        [
+            "phonebook",
+            "calculator",
+            "sketchbook"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "bot",
+                "phonebook",
+                null
+            ],
+            [
+                "top",
+                null,
+                "writing pad"
+            ],
+            [
+                "mid",
+                "sketchbook",
+                "phonebook"
+            ],
+            [
+                "bot",
+                "calculator",
+                null
+            ],
+            [
+                "mid",
+                "writing pad",
+                "sketchbook"
+            ],
+            [
+                "top",
+                null,
+                "calculator"
+            ]
+        ],
+        "one": [
+            [
+                "bot",
+                "phonebook",
+                null
+            ]
+        ],
+        "two": [
+            [
+                "bot",
+                "phonebook",
+                null
+            ],
+            [
+                "top",
+                null,
+                "writing pad"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "calculator": "flower pot",
+        "phonebook": "tennis racket",
+        "sketchbook": "sponge",
+        "writing pad": "monkey wrench"
+    }
+}

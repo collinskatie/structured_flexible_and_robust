@@ -1,0 +1,83 @@
+{
+    "goal_board": [
+        [
+            "tv remote",
+            "novel",
+            "phonebook"
+        ],
+        [
+            "tissue box"
+        ]
+    ],
+    "init_board": [
+        [
+            "phonebook"
+        ],
+        [
+            "tissue box",
+            "novel"
+        ],
+        [
+            "tv remote"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "phonebook"
+            ],
+            [
+                "bot",
+                "tv remote",
+                null
+            ],
+            [
+                "bot",
+                "tissue box",
+                null
+            ],
+            [
+                "mid",
+                "phonebook",
+                "novel"
+            ],
+            [
+                "top",
+                null,
+                "tissue box"
+            ],
+            [
+                "mid",
+                "novel",
+                "tv remote"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "phonebook"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "phonebook"
+            ],
+            [
+                "bot",
+                "tv remote",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "novel": "hacksaw",
+        "phonebook": "rug",
+        "tissue box": "flower pot",
+        "tv remote": "brick"
+    }
+}

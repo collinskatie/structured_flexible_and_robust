@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "notebook"
+        ],
+        [
+            "binder",
+            "map",
+            "drawing book"
+        ]
+    ],
+    "init_board": [
+        [
+            "binder",
+            "drawing book"
+        ],
+        [
+            "map",
+            "notebook"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "bot",
+                "notebook",
+                null
+            ],
+            [
+                "top",
+                null,
+                "notebook"
+            ],
+            [
+                "bot",
+                "binder",
+                null
+            ],
+            [
+                "top",
+                null,
+                "drawing book"
+            ],
+            [
+                "mid",
+                "map",
+                "binder"
+            ],
+            [
+                "mid",
+                "drawing book",
+                "map"
+            ]
+        ],
+        "one": [
+            [
+                "bot",
+                "notebook",
+                null
+            ]
+        ],
+        "two": [
+            [
+                "bot",
+                "notebook",
+                null
+            ],
+            [
+                "top",
+                null,
+                "notebook"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "binder": "accordion",
+        "drawing book": "hand warmers",
+        "map": "sweatshirt",
+        "notebook": "triangle"
+    }
+}

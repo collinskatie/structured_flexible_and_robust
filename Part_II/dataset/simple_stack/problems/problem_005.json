@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "notebook"
+        ],
+        [
+            "clipboard",
+            "ipad",
+            "sketchbook"
+        ]
+    ],
+    "init_board": [
+        [
+            "sketchbook",
+            "notebook"
+        ],
+        [
+            "clipboard",
+            "ipad"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "notebook"
+            ],
+            [
+                "bot",
+                "clipboard",
+                null
+            ],
+            [
+                "mid",
+                "sketchbook",
+                "ipad"
+            ],
+            [
+                "top",
+                null,
+                "sketchbook"
+            ],
+            [
+                "bot",
+                "notebook",
+                null
+            ],
+            [
+                "mid",
+                "ipad",
+                "clipboard"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "notebook"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "notebook"
+            ],
+            [
+                "bot",
+                "clipboard",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "clipboard": "turtleneck",
+        "ipad": "shovel",
+        "notebook": "triangle",
+        "sketchbook": "sneakers"
+    }
+}

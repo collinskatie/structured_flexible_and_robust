@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "diary"
+        ],
+        [
+            "plate",
+            "pizza box",
+            "phonebook"
+        ]
+    ],
+    "init_board": [
+        [
+            "plate"
+        ],
+        [
+            "diary",
+            "phonebook",
+            "pizza box"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "pizza box",
+                "plate"
+            ],
+            [
+                "bot",
+                "plate",
+                null
+            ],
+            [
+                "bot",
+                "diary",
+                null
+            ],
+            [
+                "top",
+                null,
+                "diary"
+            ],
+            [
+                "mid",
+                "phonebook",
+                "pizza box"
+            ],
+            [
+                "top",
+                null,
+                "phonebook"
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "pizza box",
+                "plate"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "pizza box",
+                "plate"
+            ],
+            [
+                "bot",
+                "plate",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "diary": "tennis racket",
+        "phonebook": "saucepan",
+        "pizza box": "ukelele",
+        "plate": "brick"
+    }
+}

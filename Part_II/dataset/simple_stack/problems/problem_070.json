@@ -1,0 +1,79 @@
+{
+    "goal_board": [
+        [
+            "letter",
+            "writing pad",
+            "diary"
+        ],
+        [
+            "sticky notes"
+        ]
+    ],
+    "init_board": [
+        [
+            "sticky notes",
+            "diary",
+            "letter",
+            "writing pad"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "bot",
+                "sticky notes",
+                null
+            ],
+            [
+                "mid",
+                "writing pad",
+                "letter"
+            ],
+            [
+                "top",
+                null,
+                "diary"
+            ],
+            [
+                "mid",
+                "diary",
+                "writing pad"
+            ],
+            [
+                "bot",
+                "letter",
+                null
+            ],
+            [
+                "top",
+                null,
+                "sticky notes"
+            ]
+        ],
+        "one": [
+            [
+                "bot",
+                "sticky notes",
+                null
+            ]
+        ],
+        "two": [
+            [
+                "bot",
+                "sticky notes",
+                null
+            ],
+            [
+                "mid",
+                "writing pad",
+                "letter"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "diary": "accordion",
+        "letter": "rake",
+        "sticky notes": "scarf",
+        "writing pad": "sponge"
+    }
+}

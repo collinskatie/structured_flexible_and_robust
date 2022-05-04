@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "laptop",
+            "map"
+        ],
+        [
+            "newspaper",
+            "drawing book"
+        ]
+    ],
+    "init_board": [
+        [
+            "drawing book",
+            "newspaper",
+            "map"
+        ],
+        [
+            "laptop"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "drawing book"
+            ],
+            [
+                "bot",
+                "newspaper",
+                null
+            ],
+            [
+                "mid",
+                "map",
+                "laptop"
+            ],
+            [
+                "mid",
+                "drawing book",
+                "newspaper"
+            ],
+            [
+                "bot",
+                "laptop",
+                null
+            ],
+            [
+                "top",
+                null,
+                "map"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "drawing book"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "drawing book"
+            ],
+            [
+                "bot",
+                "newspaper",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "drawing book": "cymbal",
+        "laptop": "corduroy pants",
+        "map": "table tennis paddle",
+        "newspaper": "tire"
+    }
+}

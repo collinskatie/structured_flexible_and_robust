@@ -1,0 +1,16 @@
+Initially:
+The sketchbook rests on the table.
+The sweatshirt is on the sketchbook.
+The keyboard is on the sweatshirt.
+The novel is on the keyboard.
+There is nothing on the novel.
+
+Goal:
+The keyboard is on the sketchbook.
+The sweatshirt rests on the table.
+
+Actions:
+Move the novel onto the table.
+Move the keyboard onto the novel.
+Move the sweatshirt onto the table.
+Move the keyboard onto the sketchbook.

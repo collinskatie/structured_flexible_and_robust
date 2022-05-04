@@ -1,0 +1,72 @@
+{
+    "goal_board": [
+        [
+            "novel",
+            "diary",
+            "tissue box",
+            "tablet"
+        ]
+    ],
+    "init_board": [
+        [
+            "tissue box",
+            "tablet",
+            "diary",
+            "novel"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "tablet"
+            ],
+            [
+                "mid",
+                "tissue box",
+                "diary"
+            ],
+            [
+                "mid",
+                "diary",
+                "novel"
+            ],
+            [
+                "bot",
+                "novel",
+                null
+            ],
+            [
+                "mid",
+                "tablet",
+                "tissue box"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "tablet"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "tablet"
+            ],
+            [
+                "mid",
+                "tissue box",
+                "diary"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "diary": "tennis racket",
+        "novel": "detergent",
+        "tablet": "coveralls",
+        "tissue box": "polo shirt"
+    }
+}

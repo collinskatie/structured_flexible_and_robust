@@ -1,0 +1,79 @@
+{
+    "goal_board": [
+        [
+            "pamphlet",
+            "sketchbook",
+            "diary"
+        ],
+        [
+            "mouse pad"
+        ]
+    ],
+    "init_board": [
+        [
+            "mouse pad",
+            "sketchbook",
+            "pamphlet",
+            "diary"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "sketchbook",
+                "pamphlet"
+            ],
+            [
+                "mid",
+                "diary",
+                "sketchbook"
+            ],
+            [
+                "bot",
+                "pamphlet",
+                null
+            ],
+            [
+                "top",
+                null,
+                "diary"
+            ],
+            [
+                "top",
+                null,
+                "mouse pad"
+            ],
+            [
+                "bot",
+                "mouse pad",
+                null
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "sketchbook",
+                "pamphlet"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "sketchbook",
+                "pamphlet"
+            ],
+            [
+                "mid",
+                "diary",
+                "sketchbook"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "diary": "cymbal",
+        "mouse pad": "tennis racket",
+        "pamphlet": "hacksaw",
+        "sketchbook": "jeans"
+    }
+}

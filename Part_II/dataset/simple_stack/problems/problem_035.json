@@ -1,0 +1,76 @@
+{
+    "goal_board": [
+        [
+            "keyboard",
+            "mouse pad",
+            "letter",
+            "ipad"
+        ]
+    ],
+    "init_board": [
+        [
+            "letter"
+        ],
+        [
+            "ipad"
+        ],
+        [
+            "keyboard",
+            "mouse pad"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "ipad"
+            ],
+            [
+                "mid",
+                "mouse pad",
+                "keyboard"
+            ],
+            [
+                "bot",
+                "keyboard",
+                null
+            ],
+            [
+                "mid",
+                "ipad",
+                "letter"
+            ],
+            [
+                "mid",
+                "letter",
+                "mouse pad"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "ipad"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "ipad"
+            ],
+            [
+                "mid",
+                "mouse pad",
+                "keyboard"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "ipad": "tire",
+        "keyboard": "jeans",
+        "letter": "ukelele",
+        "mouse pad": "hawaiian shirt"
+    }
+}

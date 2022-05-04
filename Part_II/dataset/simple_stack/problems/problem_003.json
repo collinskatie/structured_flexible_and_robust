@@ -1,0 +1,76 @@
+{
+    "goal_board": [
+        [
+            "tablet",
+            "protractor",
+            "clipboard",
+            "ipad"
+        ]
+    ],
+    "init_board": [
+        [
+            "ipad",
+            "protractor"
+        ],
+        [
+            "tablet"
+        ],
+        [
+            "clipboard"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "ipad"
+            ],
+            [
+                "mid",
+                "ipad",
+                "clipboard"
+            ],
+            [
+                "mid",
+                "clipboard",
+                "protractor"
+            ],
+            [
+                "bot",
+                "tablet",
+                null
+            ],
+            [
+                "mid",
+                "protractor",
+                "tablet"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "ipad"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "ipad"
+            ],
+            [
+                "mid",
+                "ipad",
+                "clipboard"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "clipboard": "tennis racket",
+        "ipad": "pillow",
+        "protractor": "carpet",
+        "tablet": "meteorite"
+    }
+}

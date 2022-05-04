@@ -1,0 +1,90 @@
+{
+    "goal_board": [
+        [
+            "calculator",
+            "pamphlet"
+        ],
+        [
+            "pizza box"
+        ],
+        [
+            "keyboard"
+        ]
+    ],
+    "init_board": [
+        [
+            "pizza box",
+            "pamphlet"
+        ],
+        [
+            "keyboard"
+        ],
+        [
+            "calculator"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "keyboard"
+            ],
+            [
+                "bot",
+                "calculator",
+                null
+            ],
+            [
+                "top",
+                null,
+                "pamphlet"
+            ],
+            [
+                "bot",
+                "keyboard",
+                null
+            ],
+            [
+                "mid",
+                "pamphlet",
+                "calculator"
+            ],
+            [
+                "top",
+                null,
+                "pizza box"
+            ],
+            [
+                "bot",
+                "pizza box",
+                null
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "keyboard"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "keyboard"
+            ],
+            [
+                "bot",
+                "calculator",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "calculator": "rake",
+        "keyboard": "squash racket",
+        "pamphlet": "rubbish bin lid",
+        "pizza box": "tire"
+    }
+}

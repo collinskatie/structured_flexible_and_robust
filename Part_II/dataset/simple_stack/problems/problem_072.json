@@ -1,0 +1,88 @@
+{
+    "goal_board": [
+        [
+            "tissue box",
+            "notebook"
+        ],
+        [
+            "tablet"
+        ],
+        [
+            "tv remote"
+        ]
+    ],
+    "init_board": [
+        [
+            "tv remote",
+            "tissue box",
+            "tablet"
+        ],
+        [
+            "notebook"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "notebook"
+            ],
+            [
+                "bot",
+                "tissue box",
+                null
+            ],
+            [
+                "top",
+                null,
+                "tablet"
+            ],
+            [
+                "mid",
+                "notebook",
+                "tissue box"
+            ],
+            [
+                "bot",
+                "tv remote",
+                null
+            ],
+            [
+                "top",
+                null,
+                "tv remote"
+            ],
+            [
+                "bot",
+                "tablet",
+                null
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "notebook"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "notebook"
+            ],
+            [
+                "bot",
+                "tissue box",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "notebook": "cymbal",
+        "tablet": "flower pot",
+        "tissue box": "triangle",
+        "tv remote": "toilet seat"
+    }
+}

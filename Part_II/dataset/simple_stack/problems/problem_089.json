@@ -1,0 +1,76 @@
+{
+    "goal_board": [
+        [
+            "photo album",
+            "mouse pad",
+            "binder",
+            "diary"
+        ]
+    ],
+    "init_board": [
+        [
+            "photo album"
+        ],
+        [
+            "mouse pad"
+        ],
+        [
+            "binder",
+            "diary"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "diary",
+                "binder"
+            ],
+            [
+                "mid",
+                "mouse pad",
+                "photo album"
+            ],
+            [
+                "bot",
+                "photo album",
+                null
+            ],
+            [
+                "top",
+                null,
+                "diary"
+            ],
+            [
+                "mid",
+                "binder",
+                "mouse pad"
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "diary",
+                "binder"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "diary",
+                "binder"
+            ],
+            [
+                "mid",
+                "mouse pad",
+                "photo album"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "binder": "jeans",
+        "diary": "triangle",
+        "mouse pad": "pillow",
+        "photo album": "table tennis paddle"
+    }
+}

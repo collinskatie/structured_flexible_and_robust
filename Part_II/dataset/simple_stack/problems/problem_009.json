@@ -1,0 +1,72 @@
+{
+    "goal_board": [
+        [
+            "tissue box",
+            "binder",
+            "diary",
+            "sketchbook"
+        ]
+    ],
+    "init_board": [
+        [
+            "diary",
+            "binder",
+            "sketchbook",
+            "tissue box"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "sketchbook",
+                "diary"
+            ],
+            [
+                "mid",
+                "binder",
+                "tissue box"
+            ],
+            [
+                "mid",
+                "diary",
+                "binder"
+            ],
+            [
+                "top",
+                null,
+                "sketchbook"
+            ],
+            [
+                "bot",
+                "tissue box",
+                null
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "sketchbook",
+                "diary"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "sketchbook",
+                "diary"
+            ],
+            [
+                "mid",
+                "binder",
+                "tissue box"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "binder": "pillow",
+        "diary": "bath towel",
+        "sketchbook": "detergent",
+        "tissue box": "rug"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "goal_board": [
+        [
+            "drawing book"
+        ],
+        [
+            "map",
+            "phone"
+        ],
+        [
+            "pizza box"
+        ]
+    ],
+    "init_board": [
+        [
+            "map",
+            "phone",
+            "drawing book",
+            "pizza box"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "pizza box"
+            ],
+            [
+                "top",
+                null,
+                "phone"
+            ],
+            [
+                "bot",
+                "pizza box",
+                null
+            ],
+            [
+                "mid",
+                "phone",
+                "map"
+            ],
+            [
+                "bot",
+                "map",
+                null
+            ],
+            [
+                "top",
+                null,
+                "drawing book"
+            ],
+            [
+                "bot",
+                "drawing book",
+                null
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "pizza box"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "pizza box"
+            ],
+            [
+                "top",
+                null,
+                "phone"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "drawing book": "tank top",
+        "map": "dress shirt",
+        "phone": "hawaiian shirt",
+        "pizza box": "measuring tape"
+    }
+}

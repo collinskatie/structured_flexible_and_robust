@@ -1,0 +1,74 @@
+{
+    "goal_board": [
+        [
+            "letter",
+            "drawing book",
+            "protractor",
+            "novel"
+        ]
+    ],
+    "init_board": [
+        [
+            "letter",
+            "novel",
+            "protractor"
+        ],
+        [
+            "drawing book"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "bot",
+                "letter",
+                null
+            ],
+            [
+                "top",
+                null,
+                "novel"
+            ],
+            [
+                "mid",
+                "protractor",
+                "drawing book"
+            ],
+            [
+                "mid",
+                "novel",
+                "protractor"
+            ],
+            [
+                "mid",
+                "drawing book",
+                "letter"
+            ]
+        ],
+        "one": [
+            [
+                "bot",
+                "letter",
+                null
+            ]
+        ],
+        "two": [
+            [
+                "bot",
+                "letter",
+                null
+            ],
+            [
+                "top",
+                null,
+                "novel"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "drawing book": "accordion",
+        "letter": "triangle",
+        "novel": "jeans",
+        "protractor": "bath towel"
+    }
+}

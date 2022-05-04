@@ -1,0 +1,79 @@
+{
+    "goal_board": [
+        [
+            "envelope",
+            "novel",
+            "pizza box"
+        ],
+        [
+            "writing pad"
+        ]
+    ],
+    "init_board": [
+        [
+            "pizza box",
+            "envelope",
+            "writing pad",
+            "novel"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "novel",
+                "envelope"
+            ],
+            [
+                "bot",
+                "envelope",
+                null
+            ],
+            [
+                "bot",
+                "writing pad",
+                null
+            ],
+            [
+                "top",
+                null,
+                "pizza box"
+            ],
+            [
+                "mid",
+                "pizza box",
+                "novel"
+            ],
+            [
+                "top",
+                null,
+                "writing pad"
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "novel",
+                "envelope"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "novel",
+                "envelope"
+            ],
+            [
+                "bot",
+                "envelope",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "envelope": "brick",
+        "novel": "sponge",
+        "pizza box": "monkey wrench",
+        "writing pad": "sneakers"
+    }
+}

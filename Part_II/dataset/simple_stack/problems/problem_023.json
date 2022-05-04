@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "laptop",
+            "clipboard"
+        ],
+        [
+            "diary",
+            "pizza box"
+        ]
+    ],
+    "init_board": [
+        [
+            "diary",
+            "laptop"
+        ],
+        [
+            "pizza box",
+            "clipboard"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "clipboard"
+            ],
+            [
+                "mid",
+                "pizza box",
+                "diary"
+            ],
+            [
+                "bot",
+                "laptop",
+                null
+            ],
+            [
+                "mid",
+                "clipboard",
+                "laptop"
+            ],
+            [
+                "bot",
+                "diary",
+                null
+            ],
+            [
+                "top",
+                null,
+                "pizza box"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "clipboard"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "clipboard"
+            ],
+            [
+                "mid",
+                "pizza box",
+                "diary"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "clipboard": "toilet seat",
+        "diary": "jeans",
+        "laptop": "sweatshirt",
+        "pizza box": "neck tie"
+    }
+}

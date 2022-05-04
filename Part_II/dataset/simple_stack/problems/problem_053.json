@@ -1,0 +1,79 @@
+{
+    "goal_board": [
+        [
+            "sketchbook",
+            "letter",
+            "novel"
+        ],
+        [
+            "phone"
+        ]
+    ],
+    "init_board": [
+        [
+            "phone",
+            "novel",
+            "sketchbook",
+            "letter"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "letter",
+                "sketchbook"
+            ],
+            [
+                "mid",
+                "novel",
+                "letter"
+            ],
+            [
+                "top",
+                null,
+                "phone"
+            ],
+            [
+                "bot",
+                "phone",
+                null
+            ],
+            [
+                "top",
+                null,
+                "novel"
+            ],
+            [
+                "bot",
+                "sketchbook",
+                null
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "letter",
+                "sketchbook"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "letter",
+                "sketchbook"
+            ],
+            [
+                "mid",
+                "novel",
+                "letter"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "letter": "tank top",
+        "novel": "peacoat",
+        "phone": "rug",
+        "sketchbook": "tire"
+    }
+}

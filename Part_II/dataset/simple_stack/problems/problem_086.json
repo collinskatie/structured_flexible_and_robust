@@ -1,0 +1,88 @@
+{
+    "goal_board": [
+        [
+            "tissue box",
+            "writing pad"
+        ],
+        [
+            "textbook"
+        ],
+        [
+            "pizza box"
+        ]
+    ],
+    "init_board": [
+        [
+            "tissue box",
+            "pizza box",
+            "writing pad"
+        ],
+        [
+            "textbook"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "writing pad",
+                "tissue box"
+            ],
+            [
+                "bot",
+                "tissue box",
+                null
+            ],
+            [
+                "bot",
+                "textbook",
+                null
+            ],
+            [
+                "top",
+                null,
+                "textbook"
+            ],
+            [
+                "bot",
+                "pizza box",
+                null
+            ],
+            [
+                "top",
+                null,
+                "writing pad"
+            ],
+            [
+                "top",
+                null,
+                "pizza box"
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "writing pad",
+                "tissue box"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "writing pad",
+                "tissue box"
+            ],
+            [
+                "bot",
+                "tissue box",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "pizza box": "tank top",
+        "textbook": "dress shirt",
+        "tissue box": "rake",
+        "writing pad": "sweatpants"
+    }
+}

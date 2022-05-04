@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "binder",
+            "phone",
+            "sketchbook"
+        ],
+        [
+            "sticky notes"
+        ]
+    ],
+    "init_board": [
+        [
+            "sticky notes",
+            "sketchbook",
+            "binder"
+        ],
+        [
+            "phone"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "sticky notes"
+            ],
+            [
+                "top",
+                null,
+                "sketchbook"
+            ],
+            [
+                "bot",
+                "sticky notes",
+                null
+            ],
+            [
+                "mid",
+                "sketchbook",
+                "phone"
+            ],
+            [
+                "bot",
+                "binder",
+                null
+            ],
+            [
+                "mid",
+                "phone",
+                "binder"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "sticky notes"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "sticky notes"
+            ],
+            [
+                "top",
+                null,
+                "sketchbook"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "binder": "squash racket",
+        "phone": "monkey wrench",
+        "sketchbook": "saucepan",
+        "sticky notes": "hawaiian shirt"
+    }
+}

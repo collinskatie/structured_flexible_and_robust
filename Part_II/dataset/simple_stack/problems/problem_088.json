@@ -1,0 +1,79 @@
+{
+    "goal_board": [
+        [
+            "letter",
+            "plate"
+        ],
+        [
+            "tablet",
+            "envelope"
+        ]
+    ],
+    "init_board": [
+        [
+            "plate",
+            "tablet",
+            "letter",
+            "envelope"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "bot",
+                "letter",
+                null
+            ],
+            [
+                "top",
+                null,
+                "envelope"
+            ],
+            [
+                "mid",
+                "plate",
+                "letter"
+            ],
+            [
+                "bot",
+                "tablet",
+                null
+            ],
+            [
+                "top",
+                null,
+                "plate"
+            ],
+            [
+                "mid",
+                "envelope",
+                "tablet"
+            ]
+        ],
+        "one": [
+            [
+                "bot",
+                "letter",
+                null
+            ]
+        ],
+        "two": [
+            [
+                "bot",
+                "letter",
+                null
+            ],
+            [
+                "top",
+                null,
+                "envelope"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "envelope": "brick",
+        "letter": "scarf",
+        "plate": "toilet seat",
+        "tablet": "hacksaw"
+    }
+}

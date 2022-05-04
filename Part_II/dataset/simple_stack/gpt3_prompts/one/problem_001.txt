@@ -1,0 +1,13 @@
+Initially:
+The mouse pad rests on the table.
+The newspaper is on the mouse pad.
+The writing pad is on the newspaper.
+There is nothing on the writing pad.
+The keyboard rests on the table.
+There is nothing on the keyboard.
+
+Goal:
+There is nothing on the newspaper.
+
+Actions:
+Move the writing pad onto the keyboard.

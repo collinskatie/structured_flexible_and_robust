@@ -1,0 +1,39 @@
+;The sketchbook rests on the table.
+;The sweatshirt is on the sketchbook.
+;The keyboard is on the sweatshirt.
+;The novel is on the keyboard.
+;There is nothing on the novel.
+(ontable sketchbook)
+(on sweatshirt sketchbook)
+(on keyboard sweatshirt)
+(on novel keyboard)
+(clear novel)
+
+;The accordion rests on the table.
+;The newspaper is on the accordion.
+;The writing pad is on the newspaper.
+;There is nothing on the writing pad.
+;The keyboard rests on the table.
+;There is nothing on the keyboard.
+(ontable accordion)
+(on newspaper accordion)
+(on writing-pad newspaper)
+(clear writing-pad)
+(ontable keyboard)
+(clear keyboard)
+
+;The laptop rests on the table.
+;There is nothing on the laptop.
+;The saucepan rests on the table.
+;The mouse pad is on the saucepan.
+;There is nothing on the mouse pad.
+;The plate rests on the table.
+;There is nothing on the plate.
+(ontable laptop)
+(clear laptop)
+(ontable saucepan)
+(on mouse-pad saucepan)
+(clear mouse-pad)
+(ontable plate)
+(clear plate)
+

@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "calculator",
+            "photo album"
+        ],
+        [
+            "phone",
+            "pizza box"
+        ]
+    ],
+    "init_board": [
+        [
+            "pizza box",
+            "calculator"
+        ],
+        [
+            "phone",
+            "photo album"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "photo album",
+                "calculator"
+            ],
+            [
+                "bot",
+                "phone",
+                null
+            ],
+            [
+                "top",
+                null,
+                "pizza box"
+            ],
+            [
+                "mid",
+                "pizza box",
+                "phone"
+            ],
+            [
+                "top",
+                null,
+                "photo album"
+            ],
+            [
+                "bot",
+                "calculator",
+                null
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "photo album",
+                "calculator"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "photo album",
+                "calculator"
+            ],
+            [
+                "bot",
+                "phone",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "calculator": "squash racket",
+        "phone": "ukelele",
+        "photo album": "hawaiian shirt",
+        "pizza box": "xylophone"
+    }
+}

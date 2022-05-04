@@ -1,0 +1,21 @@
+Initially:
+The sketchbook rests on the table.
+The sweatshirt is on the sketchbook.
+The keyboard is on the sweatshirt.
+The accordion is on the keyboard.
+There is nothing on the accordion.
+
+Goal:
+The keyboard is on the sketchbook.
+The sweatshirt rests on the table.
+The accordion is on the sweatshirt.
+There is nothing on the keyboard.
+The sketchbook is on the accordion.
+
+Actions:
+Move the accordion onto the table.
+Move the keyboard onto the table.
+Move the sweatshirt onto the table.
+Move the accordion onto the sweatshirt.
+Move the sketchbook onto the accordion.
+Move the keyboard onto the sketchbook.

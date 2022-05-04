@@ -1,0 +1,88 @@
+{
+    "goal_board": [
+        [
+            "laptop",
+            "keyboard"
+        ],
+        [
+            "ipad"
+        ],
+        [
+            "letter"
+        ]
+    ],
+    "init_board": [
+        [
+            "laptop",
+            "ipad",
+            "letter"
+        ],
+        [
+            "keyboard"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "keyboard"
+            ],
+            [
+                "bot",
+                "letter",
+                null
+            ],
+            [
+                "bot",
+                "laptop",
+                null
+            ],
+            [
+                "bot",
+                "ipad",
+                null
+            ],
+            [
+                "top",
+                null,
+                "letter"
+            ],
+            [
+                "top",
+                null,
+                "ipad"
+            ],
+            [
+                "mid",
+                "keyboard",
+                "laptop"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "keyboard"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "keyboard"
+            ],
+            [
+                "bot",
+                "letter",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "ipad": "triangle",
+        "keyboard": "polo shirt",
+        "laptop": "monkey wrench",
+        "letter": "tennis racket"
+    }
+}

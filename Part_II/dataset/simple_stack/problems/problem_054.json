@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "letter"
+        ],
+        [
+            "sticky notes",
+            "tablet",
+            "textbook"
+        ]
+    ],
+    "init_board": [
+        [
+            "tablet"
+        ],
+        [
+            "letter",
+            "textbook",
+            "sticky notes"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "textbook",
+                "tablet"
+            ],
+            [
+                "bot",
+                "sticky notes",
+                null
+            ],
+            [
+                "bot",
+                "letter",
+                null
+            ],
+            [
+                "top",
+                null,
+                "textbook"
+            ],
+            [
+                "top",
+                null,
+                "letter"
+            ],
+            [
+                "mid",
+                "tablet",
+                "sticky notes"
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "textbook",
+                "tablet"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "textbook",
+                "tablet"
+            ],
+            [
+                "bot",
+                "sticky notes",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "letter": "xylophone",
+        "sticky notes": "rug",
+        "tablet": "sneakers",
+        "textbook": "shovel"
+    }
+}

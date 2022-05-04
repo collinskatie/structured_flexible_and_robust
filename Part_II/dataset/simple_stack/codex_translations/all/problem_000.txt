@@ -1,0 +1,10 @@
+;The sketchbook rests on the table.
+;The sweatshirt is on the sketchbook.
+;The keyboard is on the sweatshirt.
+;The accordion is on the keyboard.
+;There is nothing on the accordion.
+(ontable sketchbook)
+(on sweatshirt sketchbook)
+(on keyboard sweatshirt)
+(on accordion keyboard)
+(clear accordion)

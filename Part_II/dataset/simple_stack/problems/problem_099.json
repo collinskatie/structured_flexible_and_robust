@@ -1,0 +1,79 @@
+{
+    "goal_board": [
+        [
+            "map",
+            "sticky notes",
+            "plate"
+        ],
+        [
+            "sketchbook"
+        ]
+    ],
+    "init_board": [
+        [
+            "map",
+            "sticky notes",
+            "plate",
+            "sketchbook"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "sketchbook"
+            ],
+            [
+                "top",
+                null,
+                "plate"
+            ],
+            [
+                "bot",
+                "map",
+                null
+            ],
+            [
+                "bot",
+                "sketchbook",
+                null
+            ],
+            [
+                "mid",
+                "plate",
+                "sticky notes"
+            ],
+            [
+                "mid",
+                "sticky notes",
+                "map"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "sketchbook"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "sketchbook"
+            ],
+            [
+                "top",
+                null,
+                "plate"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "map": "shovel",
+        "plate": "sweatpants",
+        "sketchbook": "table tennis paddle",
+        "sticky notes": "monkey wrench"
+    }
+}

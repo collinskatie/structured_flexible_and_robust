@@ -1,0 +1,88 @@
+{
+    "goal_board": [
+        [
+            "photo album"
+        ],
+        [
+            "envelope",
+            "pamphlet"
+        ],
+        [
+            "binder"
+        ]
+    ],
+    "init_board": [
+        [
+            "photo album"
+        ],
+        [
+            "pamphlet",
+            "envelope",
+            "binder"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "pamphlet"
+            ],
+            [
+                "mid",
+                "pamphlet",
+                "envelope"
+            ],
+            [
+                "bot",
+                "photo album",
+                null
+            ],
+            [
+                "top",
+                null,
+                "photo album"
+            ],
+            [
+                "bot",
+                "envelope",
+                null
+            ],
+            [
+                "bot",
+                "binder",
+                null
+            ],
+            [
+                "top",
+                null,
+                "binder"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "pamphlet"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "pamphlet"
+            ],
+            [
+                "mid",
+                "pamphlet",
+                "envelope"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "binder": "chainsaw",
+        "envelope": "table tennis paddle",
+        "pamphlet": "shovel",
+        "photo album": "yoga mat"
+    }
+}

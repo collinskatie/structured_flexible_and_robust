@@ -1,0 +1,14 @@
+;The hacksaw rests on the table.
+;There is nothing on the hacksaw.
+;The saucepan rests on the table.
+;The mouse pad is on the saucepan.
+;There is nothing on the mouse pad.
+;The raincoat rests on the table.
+;There is nothing on the raincoat.
+(ontable hacksaw)
+(clear hacksaw)
+(ontable saucepan)
+(on mouse-pad saucepan)
+(clear mouse-pad)
+(ontable raincoat)
+(clear raincoat)

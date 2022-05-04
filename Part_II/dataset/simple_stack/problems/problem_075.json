@@ -1,0 +1,88 @@
+{
+    "goal_board": [
+        [
+            "newspaper"
+        ],
+        [
+            "photo album"
+        ],
+        [
+            "pizza box",
+            "writing pad"
+        ]
+    ],
+    "init_board": [
+        [
+            "pizza box",
+            "newspaper"
+        ],
+        [
+            "photo album",
+            "writing pad"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "writing pad",
+                "pizza box"
+            ],
+            [
+                "bot",
+                "photo album",
+                null
+            ],
+            [
+                "top",
+                null,
+                "photo album"
+            ],
+            [
+                "bot",
+                "newspaper",
+                null
+            ],
+            [
+                "top",
+                null,
+                "newspaper"
+            ],
+            [
+                "top",
+                null,
+                "writing pad"
+            ],
+            [
+                "bot",
+                "pizza box",
+                null
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "writing pad",
+                "pizza box"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "writing pad",
+                "pizza box"
+            ],
+            [
+                "bot",
+                "photo album",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "newspaper": "rug",
+        "photo album": "hand warmers",
+        "pizza box": "flower pot",
+        "writing pad": "meteorite"
+    }
+}

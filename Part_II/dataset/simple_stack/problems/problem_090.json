@@ -1,0 +1,83 @@
+{
+    "goal_board": [
+        [
+            "map",
+            "pizza box",
+            "photo album"
+        ],
+        [
+            "binder"
+        ]
+    ],
+    "init_board": [
+        [
+            "map",
+            "binder"
+        ],
+        [
+            "photo album"
+        ],
+        [
+            "pizza box"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "bot",
+                "map",
+                null
+            ],
+            [
+                "mid",
+                "photo album",
+                "pizza box"
+            ],
+            [
+                "mid",
+                "pizza box",
+                "map"
+            ],
+            [
+                "top",
+                null,
+                "binder"
+            ],
+            [
+                "bot",
+                "binder",
+                null
+            ],
+            [
+                "top",
+                null,
+                "photo album"
+            ]
+        ],
+        "one": [
+            [
+                "bot",
+                "map",
+                null
+            ]
+        ],
+        "two": [
+            [
+                "bot",
+                "map",
+                null
+            ],
+            [
+                "mid",
+                "photo album",
+                "pizza box"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "binder": "table tennis paddle",
+        "map": "meteorite",
+        "photo album": "bath towel",
+        "pizza box": "carpet"
+    }
+}

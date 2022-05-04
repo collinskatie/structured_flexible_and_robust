@@ -1,0 +1,83 @@
+{
+    "goal_board": [
+        [
+            "phone"
+        ],
+        [
+            "letter",
+            "map",
+            "ipad"
+        ]
+    ],
+    "init_board": [
+        [
+            "map",
+            "letter"
+        ],
+        [
+            "phone"
+        ],
+        [
+            "ipad"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "bot",
+                "letter",
+                null
+            ],
+            [
+                "top",
+                null,
+                "phone"
+            ],
+            [
+                "bot",
+                "phone",
+                null
+            ],
+            [
+                "mid",
+                "ipad",
+                "map"
+            ],
+            [
+                "mid",
+                "map",
+                "letter"
+            ],
+            [
+                "top",
+                null,
+                "ipad"
+            ]
+        ],
+        "one": [
+            [
+                "bot",
+                "letter",
+                null
+            ]
+        ],
+        "two": [
+            [
+                "bot",
+                "letter",
+                null
+            ],
+            [
+                "top",
+                null,
+                "phone"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "ipad": "shovel",
+        "letter": "badminton racket",
+        "map": "coveralls",
+        "phone": "blouse"
+    }
+}

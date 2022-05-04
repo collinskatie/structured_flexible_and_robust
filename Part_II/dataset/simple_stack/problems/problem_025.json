@@ -1,0 +1,74 @@
+{
+    "goal_board": [
+        [
+            "newspaper",
+            "phonebook",
+            "tissue box",
+            "drawing book"
+        ]
+    ],
+    "init_board": [
+        [
+            "drawing book",
+            "phonebook",
+            "newspaper"
+        ],
+        [
+            "tissue box"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "drawing book"
+            ],
+            [
+                "bot",
+                "newspaper",
+                null
+            ],
+            [
+                "mid",
+                "drawing book",
+                "tissue box"
+            ],
+            [
+                "mid",
+                "tissue box",
+                "phonebook"
+            ],
+            [
+                "mid",
+                "phonebook",
+                "newspaper"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "drawing book"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "drawing book"
+            ],
+            [
+                "bot",
+                "newspaper",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "drawing book": "xylophone",
+        "newspaper": "pillow",
+        "phonebook": "scarf",
+        "tissue box": "tank top"
+    }
+}

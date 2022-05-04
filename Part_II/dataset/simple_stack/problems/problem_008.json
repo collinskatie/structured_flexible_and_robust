@@ -1,0 +1,76 @@
+{
+    "goal_board": [
+        [
+            "pamphlet",
+            "protractor",
+            "notebook",
+            "calculator"
+        ]
+    ],
+    "init_board": [
+        [
+            "notebook",
+            "calculator"
+        ],
+        [
+            "pamphlet"
+        ],
+        [
+            "protractor"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "bot",
+                "pamphlet",
+                null
+            ],
+            [
+                "mid",
+                "calculator",
+                "notebook"
+            ],
+            [
+                "top",
+                null,
+                "calculator"
+            ],
+            [
+                "mid",
+                "protractor",
+                "pamphlet"
+            ],
+            [
+                "mid",
+                "notebook",
+                "protractor"
+            ]
+        ],
+        "one": [
+            [
+                "bot",
+                "pamphlet",
+                null
+            ]
+        ],
+        "two": [
+            [
+                "bot",
+                "pamphlet",
+                null
+            ],
+            [
+                "mid",
+                "calculator",
+                "notebook"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "calculator": "table tennis paddle",
+        "notebook": "monkey wrench",
+        "pamphlet": "rug",
+        "protractor": "sweatshirt"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "goal_board": [
+        [
+            "drawing book",
+            "photo album"
+        ],
+        [
+            "tissue box",
+            "pizza box"
+        ]
+    ],
+    "init_board": [
+        [
+            "photo album"
+        ],
+        [
+            "tissue box",
+            "pizza box"
+        ],
+        [
+            "drawing book"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "photo album"
+            ],
+            [
+                "mid",
+                "pizza box",
+                "tissue box"
+            ],
+            [
+                "top",
+                null,
+                "pizza box"
+            ],
+            [
+                "bot",
+                "drawing book",
+                null
+            ],
+            [
+                "bot",
+                "tissue box",
+                null
+            ],
+            [
+                "mid",
+                "photo album",
+                "drawing book"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "photo album"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "photo album"
+            ],
+            [
+                "mid",
+                "pizza box",
+                "tissue box"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "drawing book": "pillow",
+        "photo album": "bath towel",
+        "pizza box": "axe",
+        "tissue box": "dress shirt"
+    }
+}

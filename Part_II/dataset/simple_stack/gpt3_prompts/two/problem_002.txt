@@ -1,0 +1,15 @@
+Initially:
+The laptop rests on the table.
+There is nothing on the laptop.
+The saucepan rests on the table.
+The mouse pad is on the saucepan.
+There is nothing on the mouse pad.
+The plate rests on the table.
+There is nothing on the plate.
+
+Goal:
+The mouse pad rests on the table.
+The saucepan rests on the table.
+
+Actions:
+Move the mouse pad onto the table.

@@ -1,0 +1,83 @@
+{
+    "goal_board": [
+        [
+            "pamphlet",
+            "textbook"
+        ],
+        [
+            "map",
+            "newspaper"
+        ]
+    ],
+    "init_board": [
+        [
+            "map"
+        ],
+        [
+            "textbook",
+            "pamphlet"
+        ],
+        [
+            "newspaper"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "textbook"
+            ],
+            [
+                "top",
+                null,
+                "newspaper"
+            ],
+            [
+                "bot",
+                "pamphlet",
+                null
+            ],
+            [
+                "mid",
+                "newspaper",
+                "map"
+            ],
+            [
+                "bot",
+                "map",
+                null
+            ],
+            [
+                "mid",
+                "textbook",
+                "pamphlet"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "textbook"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "textbook"
+            ],
+            [
+                "top",
+                null,
+                "newspaper"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "map": "accordion",
+        "newspaper": "neck tie",
+        "pamphlet": "sweatshirt",
+        "textbook": "jeans"
+    }
+}

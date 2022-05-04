@@ -1,0 +1,79 @@
+{
+    "goal_board": [
+        [
+            "map"
+        ],
+        [
+            "tv remote",
+            "pizza box",
+            "notebook"
+        ]
+    ],
+    "init_board": [
+        [
+            "map",
+            "pizza box",
+            "tv remote",
+            "notebook"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "map"
+            ],
+            [
+                "bot",
+                "map",
+                null
+            ],
+            [
+                "top",
+                null,
+                "notebook"
+            ],
+            [
+                "bot",
+                "tv remote",
+                null
+            ],
+            [
+                "mid",
+                "pizza box",
+                "tv remote"
+            ],
+            [
+                "mid",
+                "notebook",
+                "pizza box"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "map"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "map"
+            ],
+            [
+                "bot",
+                "map",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "map": "brick",
+        "notebook": "sweatpants",
+        "pizza box": "pillow",
+        "tv remote": "hawaiian shirt"
+    }
+}

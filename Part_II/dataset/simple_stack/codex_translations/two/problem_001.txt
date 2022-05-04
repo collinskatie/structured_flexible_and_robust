@@ -1,0 +1,12 @@
+;The accordion rests on the table.
+;The newspaper is on the accordion.
+;The writing pad is on the newspaper.
+;There is nothing on the writing pad.
+;The keyboard rests on the table.
+;There is nothing on the keyboard.
+(ontable accordion)
+(on newspaper accordion)
+(on writing-pad newspaper)
+(clear writing-pad)
+(ontable keyboard)
+(clear keyboard)

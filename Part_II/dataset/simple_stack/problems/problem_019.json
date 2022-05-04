@@ -1,0 +1,88 @@
+{
+    "goal_board": [
+        [
+            "letter",
+            "keyboard"
+        ],
+        [
+            "drawing book"
+        ],
+        [
+            "sketchbook"
+        ]
+    ],
+    "init_board": [
+        [
+            "letter",
+            "sketchbook",
+            "drawing book"
+        ],
+        [
+            "keyboard"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "bot",
+                "drawing book",
+                null
+            ],
+            [
+                "bot",
+                "sketchbook",
+                null
+            ],
+            [
+                "bot",
+                "letter",
+                null
+            ],
+            [
+                "top",
+                null,
+                "sketchbook"
+            ],
+            [
+                "mid",
+                "keyboard",
+                "letter"
+            ],
+            [
+                "top",
+                null,
+                "keyboard"
+            ],
+            [
+                "top",
+                null,
+                "drawing book"
+            ]
+        ],
+        "one": [
+            [
+                "bot",
+                "drawing book",
+                null
+            ]
+        ],
+        "two": [
+            [
+                "bot",
+                "drawing book",
+                null
+            ],
+            [
+                "bot",
+                "sketchbook",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "drawing book": "rubbish bin lid",
+        "keyboard": "sneakers",
+        "letter": "squash racket",
+        "sketchbook": "measuring tape"
+    }
+}

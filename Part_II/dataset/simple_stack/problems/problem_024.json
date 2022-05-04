@@ -1,0 +1,74 @@
+{
+    "goal_board": [
+        [
+            "mouse pad",
+            "sticky notes",
+            "pizza box",
+            "tv remote"
+        ]
+    ],
+    "init_board": [
+        [
+            "tv remote",
+            "sticky notes",
+            "mouse pad"
+        ],
+        [
+            "pizza box"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "tv remote"
+            ],
+            [
+                "mid",
+                "sticky notes",
+                "mouse pad"
+            ],
+            [
+                "bot",
+                "mouse pad",
+                null
+            ],
+            [
+                "mid",
+                "pizza box",
+                "sticky notes"
+            ],
+            [
+                "mid",
+                "tv remote",
+                "pizza box"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "tv remote"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "tv remote"
+            ],
+            [
+                "mid",
+                "sticky notes",
+                "mouse pad"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "mouse pad": "blouse",
+        "pizza box": "squash racket",
+        "sticky notes": "pillow",
+        "tv remote": "chainsaw"
+    }
+}

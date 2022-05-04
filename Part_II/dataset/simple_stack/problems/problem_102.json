@@ -1,0 +1,90 @@
+{
+    "goal_board": [
+        [
+            "keyboard",
+            "protractor"
+        ],
+        [
+            "tablet"
+        ],
+        [
+            "sketchbook"
+        ]
+    ],
+    "init_board": [
+        [
+            "tablet"
+        ],
+        [
+            "protractor",
+            "sketchbook"
+        ],
+        [
+            "keyboard"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "tablet"
+            ],
+            [
+                "mid",
+                "protractor",
+                "keyboard"
+            ],
+            [
+                "bot",
+                "keyboard",
+                null
+            ],
+            [
+                "bot",
+                "tablet",
+                null
+            ],
+            [
+                "top",
+                null,
+                "sketchbook"
+            ],
+            [
+                "top",
+                null,
+                "protractor"
+            ],
+            [
+                "bot",
+                "sketchbook",
+                null
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "tablet"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "tablet"
+            ],
+            [
+                "mid",
+                "protractor",
+                "keyboard"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "keyboard": "badminton racket",
+        "protractor": "dryer sheets",
+        "sketchbook": "peacoat",
+        "tablet": "hacksaw"
+    }
+}

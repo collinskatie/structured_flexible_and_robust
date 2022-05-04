@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "writing pad"
+        ],
+        [
+            "clipboard",
+            "pamphlet",
+            "laptop"
+        ]
+    ],
+    "init_board": [
+        [
+            "writing pad"
+        ],
+        [
+            "laptop",
+            "clipboard",
+            "pamphlet"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "writing pad"
+            ],
+            [
+                "bot",
+                "writing pad",
+                null
+            ],
+            [
+                "top",
+                null,
+                "laptop"
+            ],
+            [
+                "bot",
+                "clipboard",
+                null
+            ],
+            [
+                "mid",
+                "pamphlet",
+                "clipboard"
+            ],
+            [
+                "mid",
+                "laptop",
+                "pamphlet"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "writing pad"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "writing pad"
+            ],
+            [
+                "bot",
+                "writing pad",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "clipboard": "bath towel",
+        "laptop": "sneakers",
+        "pamphlet": "squash racket",
+        "writing pad": "yoga mat"
+    }
+}

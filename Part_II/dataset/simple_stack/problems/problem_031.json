@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "envelope",
+            "notebook"
+        ],
+        [
+            "map",
+            "ipad"
+        ]
+    ],
+    "init_board": [
+        [
+            "ipad",
+            "envelope"
+        ],
+        [
+            "map",
+            "notebook"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "bot",
+                "envelope",
+                null
+            ],
+            [
+                "top",
+                null,
+                "notebook"
+            ],
+            [
+                "mid",
+                "ipad",
+                "map"
+            ],
+            [
+                "mid",
+                "notebook",
+                "envelope"
+            ],
+            [
+                "bot",
+                "map",
+                null
+            ],
+            [
+                "top",
+                null,
+                "ipad"
+            ]
+        ],
+        "one": [
+            [
+                "bot",
+                "envelope",
+                null
+            ]
+        ],
+        "two": [
+            [
+                "bot",
+                "envelope",
+                null
+            ],
+            [
+                "top",
+                null,
+                "notebook"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "envelope": "tennis racket",
+        "ipad": "badminton racket",
+        "map": "ukelele",
+        "notebook": "monkey wrench"
+    }
+}

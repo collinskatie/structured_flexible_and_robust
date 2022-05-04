@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "pamphlet",
+            "map"
+        ],
+        [
+            "drawing book",
+            "mouse pad"
+        ]
+    ],
+    "init_board": [
+        [
+            "map",
+            "drawing book",
+            "pamphlet"
+        ],
+        [
+            "mouse pad"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "map",
+                "pamphlet"
+            ],
+            [
+                "top",
+                null,
+                "mouse pad"
+            ],
+            [
+                "bot",
+                "drawing book",
+                null
+            ],
+            [
+                "bot",
+                "pamphlet",
+                null
+            ],
+            [
+                "top",
+                null,
+                "map"
+            ],
+            [
+                "mid",
+                "mouse pad",
+                "drawing book"
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "map",
+                "pamphlet"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "map",
+                "pamphlet"
+            ],
+            [
+                "top",
+                null,
+                "mouse pad"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "drawing book": "dress shirt",
+        "map": "pillow",
+        "mouse pad": "peacoat",
+        "pamphlet": "meteorite"
+    }
+}

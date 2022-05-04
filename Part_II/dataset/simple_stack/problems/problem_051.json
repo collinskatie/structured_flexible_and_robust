@@ -1,0 +1,88 @@
+{
+    "goal_board": [
+        [
+            "writing pad",
+            "sticky notes"
+        ],
+        [
+            "newspaper"
+        ],
+        [
+            "mouse pad"
+        ]
+    ],
+    "init_board": [
+        [
+            "newspaper"
+        ],
+        [
+            "mouse pad",
+            "writing pad",
+            "sticky notes"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "sticky notes"
+            ],
+            [
+                "bot",
+                "writing pad",
+                null
+            ],
+            [
+                "mid",
+                "sticky notes",
+                "writing pad"
+            ],
+            [
+                "top",
+                null,
+                "mouse pad"
+            ],
+            [
+                "bot",
+                "newspaper",
+                null
+            ],
+            [
+                "bot",
+                "mouse pad",
+                null
+            ],
+            [
+                "top",
+                null,
+                "newspaper"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "sticky notes"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "sticky notes"
+            ],
+            [
+                "bot",
+                "writing pad",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "mouse pad": "axe",
+        "newspaper": "xylophone",
+        "sticky notes": "coveralls",
+        "writing pad": "dress shirt"
+    }
+}

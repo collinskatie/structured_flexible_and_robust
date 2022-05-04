@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "laptop"
+        ],
+        [
+            "diary",
+            "map",
+            "binder"
+        ]
+    ],
+    "init_board": [
+        [
+            "diary",
+            "map"
+        ],
+        [
+            "laptop",
+            "binder"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "binder",
+                "map"
+            ],
+            [
+                "bot",
+                "laptop",
+                null
+            ],
+            [
+                "bot",
+                "diary",
+                null
+            ],
+            [
+                "mid",
+                "map",
+                "diary"
+            ],
+            [
+                "top",
+                null,
+                "laptop"
+            ],
+            [
+                "top",
+                null,
+                "binder"
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "binder",
+                "map"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "binder",
+                "map"
+            ],
+            [
+                "bot",
+                "laptop",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "binder": "monkey wrench",
+        "diary": "hawaiian shirt",
+        "laptop": "saucepan",
+        "map": "turtleneck"
+    }
+}

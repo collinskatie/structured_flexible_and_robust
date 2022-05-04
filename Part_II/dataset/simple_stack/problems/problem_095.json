@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "tv remote",
+            "protractor"
+        ],
+        [
+            "pizza box",
+            "drawing book"
+        ]
+    ],
+    "init_board": [
+        [
+            "protractor",
+            "pizza box",
+            "drawing book"
+        ],
+        [
+            "tv remote"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "bot",
+                "tv remote",
+                null
+            ],
+            [
+                "mid",
+                "protractor",
+                "tv remote"
+            ],
+            [
+                "top",
+                null,
+                "drawing book"
+            ],
+            [
+                "bot",
+                "pizza box",
+                null
+            ],
+            [
+                "mid",
+                "drawing book",
+                "pizza box"
+            ],
+            [
+                "top",
+                null,
+                "protractor"
+            ]
+        ],
+        "one": [
+            [
+                "bot",
+                "tv remote",
+                null
+            ]
+        ],
+        "two": [
+            [
+                "bot",
+                "tv remote",
+                null
+            ],
+            [
+                "mid",
+                "protractor",
+                "tv remote"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "drawing book": "brick",
+        "pizza box": "hand warmers",
+        "protractor": "measuring tape",
+        "tv remote": "triangle"
+    }
+}

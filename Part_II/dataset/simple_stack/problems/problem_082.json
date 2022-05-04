@@ -1,0 +1,79 @@
+{
+    "goal_board": [
+        [
+            "pamphlet",
+            "photo album",
+            "phone"
+        ],
+        [
+            "calculator"
+        ]
+    ],
+    "init_board": [
+        [
+            "photo album",
+            "phone",
+            "pamphlet",
+            "calculator"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "phone",
+                "photo album"
+            ],
+            [
+                "top",
+                null,
+                "calculator"
+            ],
+            [
+                "mid",
+                "photo album",
+                "pamphlet"
+            ],
+            [
+                "bot",
+                "calculator",
+                null
+            ],
+            [
+                "bot",
+                "pamphlet",
+                null
+            ],
+            [
+                "top",
+                null,
+                "phone"
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "phone",
+                "photo album"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "phone",
+                "photo album"
+            ],
+            [
+                "top",
+                null,
+                "calculator"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "calculator": "toilet seat",
+        "pamphlet": "rug",
+        "phone": "hawaiian shirt",
+        "photo album": "blouse"
+    }
+}

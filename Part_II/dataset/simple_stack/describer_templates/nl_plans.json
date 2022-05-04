@@ -1,0 +1,8 @@
+{
+    "stack": [
+        "Move the {0} onto the {1}."
+    ],
+    "unstack": [
+        "Move the {0} onto the table."
+    ]
+}

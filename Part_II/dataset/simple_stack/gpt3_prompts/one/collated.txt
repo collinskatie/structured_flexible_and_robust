@@ -1,0 +1,54 @@
+There are some items stacked on the table. You can perform either of the following actions:
+1. Move the topmost item of a stack to the top of another stack, or
+2. Unstack the topmost item of a stack and place it on the table
+
+Given an initial configuration and a set of goal requirements, output a series of actions that satisfies the goal requirements
+
+Initially:
+The sketchbook rests on the table.
+The phonebook is on the sketchbook.
+The keyboard is on the phonebook.
+The novel is on the keyboard.
+There is nothing on the novel.
+
+Goal:
+The keyboard is on the sketchbook.
+
+Actions:
+Move the novel onto the table.
+Move the keyboard onto the novel.
+Move the phonebook onto the table.
+Move the keyboard onto the sketchbook.
+
+
+Initially:
+The mouse pad rests on the table.
+The newspaper is on the mouse pad.
+The writing pad is on the newspaper.
+There is nothing on the writing pad.
+The keyboard rests on the table.
+There is nothing on the keyboard.
+
+Goal:
+There is nothing on the newspaper.
+
+Actions:
+Move the writing pad onto the keyboard.
+
+
+Initially:
+The plate rests on the table.
+There is nothing on the plate.
+The laptop rests on the table.
+There is nothing on the laptop.
+The notebook rests on the table.
+The mouse pad is on the notebook.
+There is nothing on the mouse pad.
+
+Goal:
+The mouse pad rests on the table.
+
+Actions:
+Move the mouse pad onto the table.
+
+

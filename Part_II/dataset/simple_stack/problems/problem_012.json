@@ -1,0 +1,83 @@
+{
+    "goal_board": [
+        [
+            "binder",
+            "textbook"
+        ],
+        [
+            "newspaper",
+            "pamphlet"
+        ]
+    ],
+    "init_board": [
+        [
+            "textbook"
+        ],
+        [
+            "binder"
+        ],
+        [
+            "newspaper",
+            "pamphlet"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "pamphlet",
+                "newspaper"
+            ],
+            [
+                "mid",
+                "textbook",
+                "binder"
+            ],
+            [
+                "top",
+                null,
+                "pamphlet"
+            ],
+            [
+                "top",
+                null,
+                "textbook"
+            ],
+            [
+                "bot",
+                "binder",
+                null
+            ],
+            [
+                "bot",
+                "newspaper",
+                null
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "pamphlet",
+                "newspaper"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "pamphlet",
+                "newspaper"
+            ],
+            [
+                "mid",
+                "textbook",
+                "binder"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "binder": "turtleneck",
+        "newspaper": "rake",
+        "pamphlet": "shovel",
+        "textbook": "peacoat"
+    }
+}

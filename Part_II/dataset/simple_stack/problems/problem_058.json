@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "textbook",
+            "plate"
+        ],
+        [
+            "clipboard",
+            "novel"
+        ]
+    ],
+    "init_board": [
+        [
+            "plate",
+            "textbook",
+            "clipboard"
+        ],
+        [
+            "novel"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "plate",
+                "textbook"
+            ],
+            [
+                "top",
+                null,
+                "novel"
+            ],
+            [
+                "top",
+                null,
+                "plate"
+            ],
+            [
+                "bot",
+                "textbook",
+                null
+            ],
+            [
+                "bot",
+                "clipboard",
+                null
+            ],
+            [
+                "mid",
+                "novel",
+                "clipboard"
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "plate",
+                "textbook"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "plate",
+                "textbook"
+            ],
+            [
+                "top",
+                null,
+                "novel"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "clipboard": "triangle",
+        "novel": "rubbish bin lid",
+        "plate": "hacksaw",
+        "textbook": "table tennis paddle"
+    }
+}

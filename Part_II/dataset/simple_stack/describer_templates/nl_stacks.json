@@ -1,0 +1,11 @@
+{
+    "bot": [
+        "The {0} rests on the table."
+    ],
+    "mid": [
+        "The {1} is on the {0}."
+    ],
+    "top":[
+        "There is nothing on the {0}."
+    ]
+}

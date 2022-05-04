@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "diary"
+        ],
+        [
+            "tv remote",
+            "sticky notes",
+            "mouse pad"
+        ]
+    ],
+    "init_board": [
+        [
+            "mouse pad"
+        ],
+        [
+            "tv remote",
+            "sticky notes",
+            "diary"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "sticky notes",
+                "tv remote"
+            ],
+            [
+                "mid",
+                "mouse pad",
+                "sticky notes"
+            ],
+            [
+                "bot",
+                "tv remote",
+                null
+            ],
+            [
+                "bot",
+                "diary",
+                null
+            ],
+            [
+                "top",
+                null,
+                "mouse pad"
+            ],
+            [
+                "top",
+                null,
+                "diary"
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "sticky notes",
+                "tv remote"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "sticky notes",
+                "tv remote"
+            ],
+            [
+                "mid",
+                "mouse pad",
+                "sticky notes"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "diary": "hawaiian shirt",
+        "mouse pad": "tire",
+        "sticky notes": "coveralls",
+        "tv remote": "neck tie"
+    }
+}

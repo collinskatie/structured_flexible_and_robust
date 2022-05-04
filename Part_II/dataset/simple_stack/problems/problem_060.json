@@ -1,0 +1,79 @@
+{
+    "goal_board": [
+        [
+            "writing pad",
+            "notebook"
+        ],
+        [
+            "keyboard",
+            "plate"
+        ]
+    ],
+    "init_board": [
+        [
+            "notebook",
+            "keyboard",
+            "writing pad",
+            "plate"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "plate",
+                "keyboard"
+            ],
+            [
+                "mid",
+                "notebook",
+                "writing pad"
+            ],
+            [
+                "top",
+                null,
+                "notebook"
+            ],
+            [
+                "bot",
+                "keyboard",
+                null
+            ],
+            [
+                "top",
+                null,
+                "plate"
+            ],
+            [
+                "bot",
+                "writing pad",
+                null
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "plate",
+                "keyboard"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "plate",
+                "keyboard"
+            ],
+            [
+                "mid",
+                "notebook",
+                "writing pad"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "keyboard": "rubbish bin lid",
+        "notebook": "blouse",
+        "plate": "triangle",
+        "writing pad": "cymbal"
+    }
+}

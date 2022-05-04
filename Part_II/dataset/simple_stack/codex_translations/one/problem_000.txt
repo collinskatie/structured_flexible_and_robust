@@ -1,0 +1,10 @@
+;The sketchbook rests on the table.
+;The phonebook is on the sketchbook.
+;The keyboard is on the phonebook.
+;The novel is on the keyboard.
+;There is nothing on the novel.
+(ontable sketchbook)
+(on phonebook sketchbook)
+(on keyboard phonebook)
+(on novel keyboard)
+(clear novel)

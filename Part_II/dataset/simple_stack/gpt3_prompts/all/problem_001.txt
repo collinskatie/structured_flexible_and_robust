@@ -1,0 +1,19 @@
+Initially:
+The accordion rests on the table.
+The newspaper is on the accordion.
+The saucepan is on the newspaper.
+There is nothing on the saucepan.
+The peacoat rests on the table.
+There is nothing on the peacoat.
+
+Goal:
+There is nothing on the newspaper.
+The accordion rests on the table.
+There is nothing on the saucepan.
+The saucepan rests on the table.
+The newspaper is on the accordion.
+The peacoat rests on the table.
+There is nothing on the peacoat.
+
+Actions:
+Move the saucepan onto the table.

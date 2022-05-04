@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "calculator",
+            "sketchbook"
+        ],
+        [
+            "textbook",
+            "binder"
+        ]
+    ],
+    "init_board": [
+        [
+            "binder",
+            "textbook",
+            "sketchbook"
+        ],
+        [
+            "calculator"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "sketchbook",
+                "calculator"
+            ],
+            [
+                "mid",
+                "binder",
+                "textbook"
+            ],
+            [
+                "top",
+                null,
+                "binder"
+            ],
+            [
+                "bot",
+                "calculator",
+                null
+            ],
+            [
+                "bot",
+                "textbook",
+                null
+            ],
+            [
+                "top",
+                null,
+                "sketchbook"
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "sketchbook",
+                "calculator"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "sketchbook",
+                "calculator"
+            ],
+            [
+                "mid",
+                "binder",
+                "textbook"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "binder": "brick",
+        "calculator": "coveralls",
+        "sketchbook": "blouse",
+        "textbook": "shovel"
+    }
+}

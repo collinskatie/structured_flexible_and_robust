@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "map",
+            "calculator"
+        ],
+        [
+            "letter",
+            "novel"
+        ]
+    ],
+    "init_board": [
+        [
+            "map",
+            "letter",
+            "calculator"
+        ],
+        [
+            "novel"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "novel"
+            ],
+            [
+                "bot",
+                "letter",
+                null
+            ],
+            [
+                "mid",
+                "calculator",
+                "map"
+            ],
+            [
+                "bot",
+                "map",
+                null
+            ],
+            [
+                "top",
+                null,
+                "calculator"
+            ],
+            [
+                "mid",
+                "novel",
+                "letter"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "novel"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "novel"
+            ],
+            [
+                "bot",
+                "letter",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "calculator": "frisbee",
+        "letter": "monkey wrench",
+        "map": "neck tie",
+        "novel": "flower pot"
+    }
+}

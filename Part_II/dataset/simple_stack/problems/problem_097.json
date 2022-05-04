@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "newspaper",
+            "envelope"
+        ],
+        [
+            "map",
+            "mouse pad"
+        ]
+    ],
+    "init_board": [
+        [
+            "envelope"
+        ],
+        [
+            "mouse pad",
+            "map",
+            "newspaper"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "bot",
+                "newspaper",
+                null
+            ],
+            [
+                "top",
+                null,
+                "envelope"
+            ],
+            [
+                "mid",
+                "envelope",
+                "newspaper"
+            ],
+            [
+                "top",
+                null,
+                "mouse pad"
+            ],
+            [
+                "mid",
+                "mouse pad",
+                "map"
+            ],
+            [
+                "bot",
+                "map",
+                null
+            ]
+        ],
+        "one": [
+            [
+                "bot",
+                "newspaper",
+                null
+            ]
+        ],
+        "two": [
+            [
+                "bot",
+                "newspaper",
+                null
+            ],
+            [
+                "top",
+                null,
+                "envelope"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "envelope": "axe",
+        "map": "rake",
+        "mouse pad": "raincoat",
+        "newspaper": "turtleneck"
+    }
+}

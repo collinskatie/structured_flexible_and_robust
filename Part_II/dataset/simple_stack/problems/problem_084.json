@@ -1,0 +1,79 @@
+{
+    "goal_board": [
+        [
+            "pamphlet",
+            "textbook",
+            "mouse pad"
+        ],
+        [
+            "sticky notes"
+        ]
+    ],
+    "init_board": [
+        [
+            "mouse pad",
+            "textbook",
+            "sticky notes",
+            "pamphlet"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "sticky notes"
+            ],
+            [
+                "bot",
+                "sticky notes",
+                null
+            ],
+            [
+                "mid",
+                "textbook",
+                "pamphlet"
+            ],
+            [
+                "bot",
+                "pamphlet",
+                null
+            ],
+            [
+                "top",
+                null,
+                "mouse pad"
+            ],
+            [
+                "mid",
+                "mouse pad",
+                "textbook"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "sticky notes"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "sticky notes"
+            ],
+            [
+                "bot",
+                "sticky notes",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "mouse pad": "tire",
+        "pamphlet": "carpet",
+        "sticky notes": "axe",
+        "textbook": "sponge"
+    }
+}

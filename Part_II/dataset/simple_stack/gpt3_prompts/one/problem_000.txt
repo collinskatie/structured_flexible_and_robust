@@ -1,0 +1,15 @@
+Initially:
+The sketchbook rests on the table.
+The phonebook is on the sketchbook.
+The keyboard is on the phonebook.
+The novel is on the keyboard.
+There is nothing on the novel.
+
+Goal:
+The keyboard is on the sketchbook.
+
+Actions:
+Move the novel onto the table.
+Move the keyboard onto the novel.
+Move the phonebook onto the table.
+Move the keyboard onto the sketchbook.

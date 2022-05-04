@@ -1,0 +1,86 @@
+{
+    "goal_board": [
+        [
+            "drawing book"
+        ],
+        [
+            "envelope"
+        ],
+        [
+            "pamphlet",
+            "tissue box"
+        ]
+    ],
+    "init_board": [
+        [
+            "tissue box",
+            "drawing book",
+            "pamphlet",
+            "envelope"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "drawing book"
+            ],
+            [
+                "bot",
+                "pamphlet",
+                null
+            ],
+            [
+                "bot",
+                "drawing book",
+                null
+            ],
+            [
+                "bot",
+                "envelope",
+                null
+            ],
+            [
+                "mid",
+                "tissue box",
+                "pamphlet"
+            ],
+            [
+                "top",
+                null,
+                "envelope"
+            ],
+            [
+                "top",
+                null,
+                "tissue box"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "drawing book"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "drawing book"
+            ],
+            [
+                "bot",
+                "pamphlet",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "drawing book": "bath towel",
+        "envelope": "toilet seat",
+        "pamphlet": "coveralls",
+        "tissue box": "polo shirt"
+    }
+}

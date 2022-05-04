@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "novel",
+            "drawing book"
+        ],
+        [
+            "tv remote",
+            "notebook"
+        ]
+    ],
+    "init_board": [
+        [
+            "notebook"
+        ],
+        [
+            "drawing book",
+            "novel",
+            "tv remote"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "notebook",
+                "tv remote"
+            ],
+            [
+                "top",
+                null,
+                "notebook"
+            ],
+            [
+                "mid",
+                "drawing book",
+                "novel"
+            ],
+            [
+                "bot",
+                "novel",
+                null
+            ],
+            [
+                "bot",
+                "tv remote",
+                null
+            ],
+            [
+                "top",
+                null,
+                "drawing book"
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "notebook",
+                "tv remote"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "notebook",
+                "tv remote"
+            ],
+            [
+                "top",
+                null,
+                "notebook"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "drawing book": "cymbal",
+        "notebook": "sponge",
+        "novel": "flower pot",
+        "tv remote": "rubbish bin lid"
+    }
+}

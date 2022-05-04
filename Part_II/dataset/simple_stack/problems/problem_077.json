@@ -1,0 +1,88 @@
+{
+    "goal_board": [
+        [
+            "letter",
+            "writing pad"
+        ],
+        [
+            "phonebook"
+        ],
+        [
+            "textbook"
+        ]
+    ],
+    "init_board": [
+        [
+            "writing pad"
+        ],
+        [
+            "phonebook",
+            "textbook",
+            "letter"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "phonebook"
+            ],
+            [
+                "mid",
+                "writing pad",
+                "letter"
+            ],
+            [
+                "top",
+                null,
+                "textbook"
+            ],
+            [
+                "bot",
+                "textbook",
+                null
+            ],
+            [
+                "top",
+                null,
+                "writing pad"
+            ],
+            [
+                "bot",
+                "phonebook",
+                null
+            ],
+            [
+                "bot",
+                "letter",
+                null
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "phonebook"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "phonebook"
+            ],
+            [
+                "mid",
+                "writing pad",
+                "letter"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "letter": "triangle",
+        "phonebook": "yoga mat",
+        "textbook": "sneakers",
+        "writing pad": "sweatshirt"
+    }
+}

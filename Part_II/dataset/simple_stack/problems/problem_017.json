@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "writing pad",
+            "binder",
+            "mouse pad"
+        ],
+        [
+            "laptop"
+        ]
+    ],
+    "init_board": [
+        [
+            "laptop",
+            "mouse pad",
+            "writing pad"
+        ],
+        [
+            "binder"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "binder",
+                "writing pad"
+            ],
+            [
+                "top",
+                null,
+                "laptop"
+            ],
+            [
+                "mid",
+                "mouse pad",
+                "binder"
+            ],
+            [
+                "bot",
+                "laptop",
+                null
+            ],
+            [
+                "bot",
+                "writing pad",
+                null
+            ],
+            [
+                "top",
+                null,
+                "mouse pad"
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "binder",
+                "writing pad"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "binder",
+                "writing pad"
+            ],
+            [
+                "top",
+                null,
+                "laptop"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "binder": "sponge",
+        "laptop": "neck tie",
+        "mouse pad": "monkey wrench",
+        "writing pad": "peacoat"
+    }
+}

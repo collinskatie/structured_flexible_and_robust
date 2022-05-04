@@ -1,0 +1,12 @@
+;The keyboard rests on the table.
+;There is nothing on the keyboard.
+;The mouse pad rests on the table.
+;The newspaper is on the mouse pad.
+;The writing pad is on the newspaper.
+;There is nothing on the writing pad.
+(ontable keyboard)
+(clear keyboard)
+(ontable mouse-pad)
+(on newspaper mouse-pad)
+(on writing-pad newspaper)
+(clear writing-pad)

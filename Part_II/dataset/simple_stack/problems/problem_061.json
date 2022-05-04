@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "plate",
+            "sketchbook"
+        ],
+        [
+            "phonebook",
+            "writing pad"
+        ]
+    ],
+    "init_board": [
+        [
+            "plate",
+            "sketchbook"
+        ],
+        [
+            "writing pad",
+            "phonebook"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "bot",
+                "plate",
+                null
+            ],
+            [
+                "mid",
+                "sketchbook",
+                "plate"
+            ],
+            [
+                "top",
+                null,
+                "writing pad"
+            ],
+            [
+                "bot",
+                "phonebook",
+                null
+            ],
+            [
+                "mid",
+                "writing pad",
+                "phonebook"
+            ],
+            [
+                "top",
+                null,
+                "sketchbook"
+            ]
+        ],
+        "one": [
+            [
+                "bot",
+                "plate",
+                null
+            ]
+        ],
+        "two": [
+            [
+                "bot",
+                "plate",
+                null
+            ],
+            [
+                "mid",
+                "sketchbook",
+                "plate"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "phonebook": "axe",
+        "plate": "cardigan",
+        "sketchbook": "scarf",
+        "writing pad": "pillow"
+    }
+}

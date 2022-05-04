@@ -1,0 +1,88 @@
+{
+    "goal_board": [
+        [
+            "calculator",
+            "plate"
+        ],
+        [
+            "pizza box"
+        ],
+        [
+            "ipad"
+        ]
+    ],
+    "init_board": [
+        [
+            "plate",
+            "calculator",
+            "pizza box"
+        ],
+        [
+            "ipad"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "bot",
+                "calculator",
+                null
+            ],
+            [
+                "top",
+                null,
+                "plate"
+            ],
+            [
+                "bot",
+                "ipad",
+                null
+            ],
+            [
+                "bot",
+                "pizza box",
+                null
+            ],
+            [
+                "mid",
+                "plate",
+                "calculator"
+            ],
+            [
+                "top",
+                null,
+                "pizza box"
+            ],
+            [
+                "top",
+                null,
+                "ipad"
+            ]
+        ],
+        "one": [
+            [
+                "bot",
+                "calculator",
+                null
+            ]
+        ],
+        "two": [
+            [
+                "bot",
+                "calculator",
+                null
+            ],
+            [
+                "top",
+                null,
+                "plate"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "calculator": "cardigan",
+        "ipad": "dryer sheets",
+        "pizza box": "hawaiian shirt",
+        "plate": "saucepan"
+    }
+}

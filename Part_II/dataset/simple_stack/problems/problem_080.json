@@ -1,0 +1,74 @@
+{
+    "goal_board": [
+        [
+            "laptop",
+            "novel",
+            "sketchbook",
+            "pamphlet"
+        ]
+    ],
+    "init_board": [
+        [
+            "novel"
+        ],
+        [
+            "sketchbook",
+            "pamphlet",
+            "laptop"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "pamphlet"
+            ],
+            [
+                "mid",
+                "pamphlet",
+                "sketchbook"
+            ],
+            [
+                "mid",
+                "novel",
+                "laptop"
+            ],
+            [
+                "bot",
+                "laptop",
+                null
+            ],
+            [
+                "mid",
+                "sketchbook",
+                "novel"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "pamphlet"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "pamphlet"
+            ],
+            [
+                "mid",
+                "pamphlet",
+                "sketchbook"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "laptop": "flower pot",
+        "novel": "raincoat",
+        "pamphlet": "polo shirt",
+        "sketchbook": "meteorite"
+    }
+}

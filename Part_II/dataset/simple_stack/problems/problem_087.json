@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "tissue box",
+            "diary",
+            "drawing book"
+        ],
+        [
+            "sticky notes"
+        ]
+    ],
+    "init_board": [
+        [
+            "drawing book",
+            "sticky notes",
+            "diary"
+        ],
+        [
+            "tissue box"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "bot",
+                "tissue box",
+                null
+            ],
+            [
+                "mid",
+                "drawing book",
+                "diary"
+            ],
+            [
+                "top",
+                null,
+                "sticky notes"
+            ],
+            [
+                "mid",
+                "diary",
+                "tissue box"
+            ],
+            [
+                "bot",
+                "sticky notes",
+                null
+            ],
+            [
+                "top",
+                null,
+                "drawing book"
+            ]
+        ],
+        "one": [
+            [
+                "bot",
+                "tissue box",
+                null
+            ]
+        ],
+        "two": [
+            [
+                "bot",
+                "tissue box",
+                null
+            ],
+            [
+                "mid",
+                "drawing book",
+                "diary"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "diary": "neck tie",
+        "drawing book": "axe",
+        "sticky notes": "ukelele",
+        "tissue box": "tank top"
+    }
+}

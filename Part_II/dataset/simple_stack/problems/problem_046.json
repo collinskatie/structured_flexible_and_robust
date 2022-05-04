@@ -1,0 +1,79 @@
+{
+    "goal_board": [
+        [
+            "diary"
+        ],
+        [
+            "map",
+            "photo album",
+            "sticky notes"
+        ]
+    ],
+    "init_board": [
+        [
+            "sticky notes",
+            "map",
+            "photo album",
+            "diary"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "bot",
+                "map",
+                null
+            ],
+            [
+                "top",
+                null,
+                "diary"
+            ],
+            [
+                "mid",
+                "sticky notes",
+                "photo album"
+            ],
+            [
+                "mid",
+                "photo album",
+                "map"
+            ],
+            [
+                "bot",
+                "diary",
+                null
+            ],
+            [
+                "top",
+                null,
+                "sticky notes"
+            ]
+        ],
+        "one": [
+            [
+                "bot",
+                "map",
+                null
+            ]
+        ],
+        "two": [
+            [
+                "bot",
+                "map",
+                null
+            ],
+            [
+                "top",
+                null,
+                "diary"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "diary": "squash racket",
+        "map": "yoga mat",
+        "photo album": "flower pot",
+        "sticky notes": "cymbal"
+    }
+}

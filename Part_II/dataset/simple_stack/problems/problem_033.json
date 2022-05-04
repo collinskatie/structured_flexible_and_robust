@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "binder",
+            "clipboard"
+        ],
+        [
+            "envelope",
+            "notebook"
+        ]
+    ],
+    "init_board": [
+        [
+            "notebook",
+            "binder"
+        ],
+        [
+            "envelope",
+            "clipboard"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "clipboard"
+            ],
+            [
+                "bot",
+                "envelope",
+                null
+            ],
+            [
+                "mid",
+                "notebook",
+                "envelope"
+            ],
+            [
+                "mid",
+                "clipboard",
+                "binder"
+            ],
+            [
+                "top",
+                null,
+                "notebook"
+            ],
+            [
+                "bot",
+                "binder",
+                null
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "clipboard"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "clipboard"
+            ],
+            [
+                "bot",
+                "envelope",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "binder": "coveralls",
+        "clipboard": "peacoat",
+        "envelope": "flower pot",
+        "notebook": "frisbee"
+    }
+}

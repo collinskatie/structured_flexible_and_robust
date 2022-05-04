@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "tv remote",
+            "textbook",
+            "pamphlet"
+        ],
+        [
+            "novel"
+        ]
+    ],
+    "init_board": [
+        [
+            "novel",
+            "textbook"
+        ],
+        [
+            "tv remote",
+            "pamphlet"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "textbook",
+                "tv remote"
+            ],
+            [
+                "bot",
+                "novel",
+                null
+            ],
+            [
+                "top",
+                null,
+                "pamphlet"
+            ],
+            [
+                "mid",
+                "pamphlet",
+                "textbook"
+            ],
+            [
+                "top",
+                null,
+                "novel"
+            ],
+            [
+                "bot",
+                "tv remote",
+                null
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "textbook",
+                "tv remote"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "textbook",
+                "tv remote"
+            ],
+            [
+                "bot",
+                "novel",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "novel": "triangle",
+        "pamphlet": "ukelele",
+        "textbook": "blouse",
+        "tv remote": "rake"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "phonebook"
+        ],
+        [
+            "protractor",
+            "phone",
+            "laptop"
+        ]
+    ],
+    "init_board": [
+        [
+            "protractor",
+            "phonebook",
+            "laptop"
+        ],
+        [
+            "phone"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "phone",
+                "protractor"
+            ],
+            [
+                "top",
+                null,
+                "laptop"
+            ],
+            [
+                "bot",
+                "protractor",
+                null
+            ],
+            [
+                "bot",
+                "phonebook",
+                null
+            ],
+            [
+                "top",
+                null,
+                "phonebook"
+            ],
+            [
+                "mid",
+                "laptop",
+                "phone"
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "phone",
+                "protractor"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "phone",
+                "protractor"
+            ],
+            [
+                "top",
+                null,
+                "laptop"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "laptop": "pillow",
+        "phone": "polo shirt",
+        "phonebook": "cymbal",
+        "protractor": "carpet"
+    }
+}

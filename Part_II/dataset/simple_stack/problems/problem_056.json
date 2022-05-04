@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "newspaper",
+            "drawing book",
+            "mouse pad"
+        ],
+        [
+            "letter"
+        ]
+    ],
+    "init_board": [
+        [
+            "mouse pad",
+            "drawing book",
+            "letter"
+        ],
+        [
+            "newspaper"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "mouse pad",
+                "drawing book"
+            ],
+            [
+                "top",
+                null,
+                "letter"
+            ],
+            [
+                "bot",
+                "letter",
+                null
+            ],
+            [
+                "top",
+                null,
+                "mouse pad"
+            ],
+            [
+                "mid",
+                "drawing book",
+                "newspaper"
+            ],
+            [
+                "bot",
+                "newspaper",
+                null
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "mouse pad",
+                "drawing book"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "mouse pad",
+                "drawing book"
+            ],
+            [
+                "top",
+                null,
+                "letter"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "drawing book": "sneakers",
+        "letter": "triangle",
+        "mouse pad": "carpet",
+        "newspaper": "rug"
+    }
+}

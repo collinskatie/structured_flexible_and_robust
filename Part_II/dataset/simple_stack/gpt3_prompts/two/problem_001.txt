@@ -1,0 +1,14 @@
+Initially:
+The keyboard rests on the table.
+There is nothing on the keyboard.
+The accordion rests on the table.
+The newspaper is on the accordion.
+The writing pad is on the newspaper.
+There is nothing on the writing pad.
+
+Goal:
+There is nothing on the newspaper.
+The accordion rests on the table.
+
+Actions:
+Move the writing pad onto the keyboard.

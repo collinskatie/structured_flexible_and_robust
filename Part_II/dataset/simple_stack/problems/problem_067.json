@@ -1,0 +1,86 @@
+{
+    "goal_board": [
+        [
+            "tablet",
+            "writing pad"
+        ],
+        [
+            "textbook"
+        ],
+        [
+            "laptop"
+        ]
+    ],
+    "init_board": [
+        [
+            "tablet",
+            "writing pad",
+            "laptop",
+            "textbook"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "textbook"
+            ],
+            [
+                "bot",
+                "tablet",
+                null
+            ],
+            [
+                "bot",
+                "textbook",
+                null
+            ],
+            [
+                "top",
+                null,
+                "writing pad"
+            ],
+            [
+                "top",
+                null,
+                "laptop"
+            ],
+            [
+                "mid",
+                "writing pad",
+                "tablet"
+            ],
+            [
+                "bot",
+                "laptop",
+                null
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "textbook"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "textbook"
+            ],
+            [
+                "bot",
+                "tablet",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "laptop": "measuring tape",
+        "tablet": "accordion",
+        "textbook": "sponge",
+        "writing pad": "blouse"
+    }
+}

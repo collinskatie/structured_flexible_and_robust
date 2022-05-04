@@ -1,0 +1,72 @@
+{
+    "goal_board": [
+        [
+            "tablet",
+            "sketchbook",
+            "pizza box",
+            "plate"
+        ]
+    ],
+    "init_board": [
+        [
+            "pizza box",
+            "plate",
+            "tablet",
+            "sketchbook"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "plate",
+                "pizza box"
+            ],
+            [
+                "bot",
+                "tablet",
+                null
+            ],
+            [
+                "top",
+                null,
+                "plate"
+            ],
+            [
+                "mid",
+                "pizza box",
+                "sketchbook"
+            ],
+            [
+                "mid",
+                "sketchbook",
+                "tablet"
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "plate",
+                "pizza box"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "plate",
+                "pizza box"
+            ],
+            [
+                "bot",
+                "tablet",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "pizza box": "rake",
+        "plate": "dress shirt",
+        "sketchbook": "triangle",
+        "tablet": "toilet seat"
+    }
+}

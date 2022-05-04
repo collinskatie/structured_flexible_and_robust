@@ -1,0 +1,83 @@
+{
+    "goal_board": [
+        [
+            "envelope",
+            "drawing book",
+            "map"
+        ],
+        [
+            "photo album"
+        ]
+    ],
+    "init_board": [
+        [
+            "drawing book"
+        ],
+        [
+            "map",
+            "photo album"
+        ],
+        [
+            "envelope"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "bot",
+                "photo album",
+                null
+            ],
+            [
+                "mid",
+                "map",
+                "drawing book"
+            ],
+            [
+                "top",
+                null,
+                "photo album"
+            ],
+            [
+                "bot",
+                "envelope",
+                null
+            ],
+            [
+                "mid",
+                "drawing book",
+                "envelope"
+            ],
+            [
+                "top",
+                null,
+                "map"
+            ]
+        ],
+        "one": [
+            [
+                "bot",
+                "photo album",
+                null
+            ]
+        ],
+        "two": [
+            [
+                "bot",
+                "photo album",
+                null
+            ],
+            [
+                "mid",
+                "map",
+                "drawing book"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "drawing book": "peacoat",
+        "envelope": "blouse",
+        "map": "dress shirt",
+        "photo album": "tennis racket"
+    }
+}

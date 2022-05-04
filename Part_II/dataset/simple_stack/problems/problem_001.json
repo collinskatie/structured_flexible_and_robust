@@ -1,0 +1,88 @@
+{
+    "goal_board": [
+        [
+            "mouse pad",
+            "newspaper"
+        ],
+        [
+            "writing pad"
+        ],
+        [
+            "keyboard"
+        ]
+    ],
+    "init_board": [
+        [
+            "mouse pad",
+            "newspaper",
+            "writing pad"
+        ],
+        [
+            "keyboard"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "top",
+                null,
+                "newspaper"
+            ],
+            [
+                "bot",
+                "mouse pad",
+                null
+            ],
+            [
+                "top",
+                null,
+                "writing pad"
+            ],
+            [
+                "bot",
+                "writing pad",
+                null
+            ],
+            [
+                "mid",
+                "newspaper",
+                "mouse pad"
+            ],
+            [
+                "bot",
+                "keyboard",
+                null
+            ],
+            [
+                "top",
+                null,
+                "keyboard"
+            ]
+        ],
+        "one": [
+            [
+                "top",
+                null,
+                "newspaper"
+            ]
+        ],
+        "two": [
+            [
+                "top",
+                null,
+                "newspaper"
+            ],
+            [
+                "bot",
+                "mouse pad",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "keyboard": "peacoat",
+        "mouse pad": "accordion",
+        "newspaper": "yoga mat",
+        "writing pad": "saucepan"
+    }
+}

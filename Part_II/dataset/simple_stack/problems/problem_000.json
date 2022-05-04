@@ -1,0 +1,72 @@
+{
+    "goal_board": [
+        [
+            "phonebook",
+            "novel",
+            "sketchbook",
+            "keyboard"
+        ]
+    ],
+    "init_board": [
+        [
+            "sketchbook",
+            "phonebook",
+            "keyboard",
+            "novel"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "keyboard",
+                "sketchbook"
+            ],
+            [
+                "bot",
+                "phonebook",
+                null
+            ],
+            [
+                "mid",
+                "novel",
+                "phonebook"
+            ],
+            [
+                "top",
+                null,
+                "keyboard"
+            ],
+            [
+                "mid",
+                "sketchbook",
+                "novel"
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "keyboard",
+                "sketchbook"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "keyboard",
+                "sketchbook"
+            ],
+            [
+                "bot",
+                "phonebook",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "keyboard": "chainsaw",
+        "novel": "accordion",
+        "phonebook": "sweatshirt",
+        "sketchbook": "saucepan"
+    }
+}

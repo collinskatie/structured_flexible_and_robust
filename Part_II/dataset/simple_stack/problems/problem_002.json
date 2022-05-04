@@ -1,0 +1,83 @@
+{
+    "goal_board": [
+        [
+            "notebook"
+        ],
+        [
+            "mouse pad",
+            "laptop",
+            "plate"
+        ]
+    ],
+    "init_board": [
+        [
+            "plate"
+        ],
+        [
+            "laptop"
+        ],
+        [
+            "notebook",
+            "mouse pad"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "bot",
+                "mouse pad",
+                null
+            ],
+            [
+                "bot",
+                "notebook",
+                null
+            ],
+            [
+                "top",
+                null,
+                "plate"
+            ],
+            [
+                "mid",
+                "laptop",
+                "mouse pad"
+            ],
+            [
+                "mid",
+                "plate",
+                "laptop"
+            ],
+            [
+                "top",
+                null,
+                "notebook"
+            ]
+        ],
+        "one": [
+            [
+                "bot",
+                "mouse pad",
+                null
+            ]
+        ],
+        "two": [
+            [
+                "bot",
+                "mouse pad",
+                null
+            ],
+            [
+                "bot",
+                "notebook",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "laptop": "raincoat",
+        "mouse pad": "neck tie",
+        "notebook": "saucepan",
+        "plate": "hacksaw"
+    }
+}

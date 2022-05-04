@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "sticky notes",
+            "ipad"
+        ],
+        [
+            "tissue box",
+            "calculator"
+        ]
+    ],
+    "init_board": [
+        [
+            "sticky notes"
+        ],
+        [
+            "ipad",
+            "calculator",
+            "tissue box"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "ipad",
+                "sticky notes"
+            ],
+            [
+                "top",
+                null,
+                "ipad"
+            ],
+            [
+                "bot",
+                "tissue box",
+                null
+            ],
+            [
+                "bot",
+                "sticky notes",
+                null
+            ],
+            [
+                "mid",
+                "calculator",
+                "tissue box"
+            ],
+            [
+                "top",
+                null,
+                "calculator"
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "ipad",
+                "sticky notes"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "ipad",
+                "sticky notes"
+            ],
+            [
+                "top",
+                null,
+                "ipad"
+            ]
+        ]
+    },
+    "vocab_map": {
+        "calculator": "rake",
+        "ipad": "sweatpants",
+        "sticky notes": "yoga mat",
+        "tissue box": "measuring tape"
+    }
+}

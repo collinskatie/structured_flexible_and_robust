@@ -1,0 +1,81 @@
+{
+    "goal_board": [
+        [
+            "laptop",
+            "writing pad"
+        ],
+        [
+            "plate",
+            "binder"
+        ]
+    ],
+    "init_board": [
+        [
+            "laptop",
+            "writing pad"
+        ],
+        [
+            "plate",
+            "binder"
+        ]
+    ],
+    "views": {
+        "all": [
+            [
+                "mid",
+                "writing pad",
+                "laptop"
+            ],
+            [
+                "bot",
+                "plate",
+                null
+            ],
+            [
+                "top",
+                null,
+                "binder"
+            ],
+            [
+                "bot",
+                "laptop",
+                null
+            ],
+            [
+                "mid",
+                "binder",
+                "plate"
+            ],
+            [
+                "top",
+                null,
+                "writing pad"
+            ]
+        ],
+        "one": [
+            [
+                "mid",
+                "writing pad",
+                "laptop"
+            ]
+        ],
+        "two": [
+            [
+                "mid",
+                "writing pad",
+                "laptop"
+            ],
+            [
+                "bot",
+                "plate",
+                null
+            ]
+        ]
+    },
+    "vocab_map": {
+        "binder": "peacoat",
+        "laptop": "rubbish bin lid",
+        "plate": "chainsaw",
+        "writing pad": "tennis racket"
+    }
+}
