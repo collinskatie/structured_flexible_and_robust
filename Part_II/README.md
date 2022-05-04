@@ -502,6 +502,8 @@ done
 
 Again, in output-path you will find a `collated.json` that describes the output.
 
-## Results consolidation
+# Results and Plots Generation
 
 There is a small notebook `consolidate_results.ipynb` that pulls all the individual `collated.json` files and generate a big dataframe.
+
+Using the generated dataframe, `create_part2_paper_figs.ipynb` creates the plots in `results/` that were used in the paper.
