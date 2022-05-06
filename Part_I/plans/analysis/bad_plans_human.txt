@@ -1,0 +1,18 @@
+Worst Plans (Mean Likert < 2)
+
+Constraint Type: unconstrained 
+
+Goal: Build a bookshelf.	Generation: Search the internet for a do it yourself guild on how to build a chef and follow the steps highlighted .	Median Rating: 2.0	Median Rating: 1.875	All Ratings: [3, 1, 2, 1, 3, 2, 1, 2]
+Goal: Build a bookshelf.	Generation: Purchase different books and separate them for better identification.	Median Rating: 1.0	Median Rating: 1.25	All Ratings: [1, 1, 1, 1, 3, 1, 1, 1]
+Goal: Remove plaque from the teeth of a lion.	Generation: Kill the lion.	Median Rating: 1.0	Median Rating: 1.6666666666666667	All Ratings: [1, 5, 1, 1, 1, 1]
+Goal: Cool down in a record-breaking heat wave.	Generation: I'm going to cool down a record by doing my best in the the activity.	Median Rating: 1.5	Median Rating: 1.6666666666666667	All Ratings: [1, 2, 2, 1, 3, 1]
+Goal: Build a bookshelf.	Generation: I will get planks, nails and gum to construct it.	Median Rating: 2.0	Median Rating: 1.875	All Ratings: [2, 1, 2, 2, 4, 1, 1, 2]
+Goal: Create a safe landing for a falling skydiver.	Generation: Take a deep breath. Take a deeper breath. Take an even deeper breath. Continue to do this until you have inflated yourself to the size of a large house. Stand under the falling skydiver.	Median Rating: 1.0	Median Rating: 1.3333333333333333	All Ratings: [1, 1, 1, 1, 3, 1]
+Goal: Create a safe landing for a falling skydiver.	Generation: I have not words for this.	Median Rating: 1.0	Median Rating: 1.5	All Ratings: [1, 4, 1, 1, 1, 1]
+Goal: Play baseball with your friends.	Generation: I'm gonna play basketball with my friends this coming weekend.	Median Rating: 1.0	Median Rating: 1.8333333333333333	All Ratings: [5, 1, 1, 1, 1, 2]
+Goal: Remove plaque from the teeth of a lion.	Generation: Killing the lions first .	Median Rating: 1.0	Median Rating: 1.0	All Ratings: [1, 1, 1, 1, 1, 1]
+Constraint Type: constrained_single 
+
+Constraint Type: constrained_many 
+
+Goal: Get your sofa onto the roof of your house, without using a pulley, a Genie lift, a protective plastic layer, a ladder, or a crane.	Generation: My plan is to park my car next to the roof and jump from the car onto the roof. Honestly, I have done this before. I put my SUV next to the roof and I was able to successfully reach the roof of my house.	Median Rating: 2.0	Median Rating: 1.7142857142857142	All Ratings: [1, 2, 2, 1, 2, 1, 3]
