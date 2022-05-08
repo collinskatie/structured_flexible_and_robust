@@ -1,6 +1,6 @@
-Official codebase for our 2022 CogSci paper:
+This is the official codebase for our 2022 CogSci paper:
 
-## Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks
+# Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks
 
 Katherine M. Collins*, Catherine Wong*, Jaihai Feng, Megan Wei, and Joshua B. Tenenbaum
 
