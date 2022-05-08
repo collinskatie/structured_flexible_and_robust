@@ -1,0 +1,29 @@
+,Scenario,Freq X,Freq X Given Y
+0,"If a blue slushie is spilled on a carpet, then the carpet is stained blue. But suppose a blue slushie is spilled on a carpet, and then the carpet is not stained blue.",2.5,1.7
+1,"If a car's gas pedal is pressed all the way down, then the car drives very quickly. But suppose a car's gas pedal is pressed all the way down, and then the car does not drive very quickly.",1.9090909090909092,0.7272727272727273
+2,"If a cat's tail is pulled, then the cat yowls. But suppose a cat's tail is pulled, and then the cat does not yowl.",2.1,1.8
+3,"If a confetti cannon is fired, then it produces a loud noise. But suppose a confetti cannon is fired, and then it does not produce a loud noise.",2.7,0.8
+4,"If a cymbal is hit with a drum stick, then it clangs. But suppose a cymbal is hit with a drum stick, and then it does not clang.",1.4,1.1
+5,"If a door is locked with a bolt, then it cannot be opened. But suppose a door is locked with a bolt, and then it is opened.",0.5,0.7
+6,"If a fire in an apartment occurs, then the fire alarm goes off. But suppose a fire in an apartment occurs, and then the fire alarm do not goes off.",2.4,1.7
+7,"If a light is unplugged, then the light cannot turn on. But suppose a light is unplugged, and then the light can turn on.",0.9090909090909091,1.0
+8,"If a meteor hits the ground, then a crater is made. But suppose a meteor hits the ground, and then a crater is not made.",4.2,1.8
+9,"If a person breathes in wildfire smoke, then they cough. But suppose a person breathes in wildfire smoke, and then they do not cough.",2.5,1.4
+10,"If a piano is dropped from a skyscraper, then the piano shatters. But suppose a piano is dropped from a skyscraper, and then the piano does not shatter.",4.545454545454546,0.9090909090909091
+11,"If a severe earthquake occurs near an office building, then the shelves in the office fall down. But suppose a severe earthquake occurs near an office building, and then the shelves in the office do not fall down.",2.4,1.6
+12,"If an apple falls from a tree, then it hits the ground. But suppose an apple falls from a tree, and then it does not hit the ground.",2.090909090909091,1.0
+13,"If an egg carton is dropped, then the eggs break. But suppose an egg carton is dropped, and then the eggs do not break.",1.9,1.8
+14,"If it rains over grass, then the grass becomes wet. But suppose it rains, and then the grass does not become wet.",0.9,1.0
+15,"If pest outbreaks occur on a farm, then crops in the farm die. But suppose pest outbreaks occur on a farm, and then crops in the farm do not die.",2.8,2.2
+16,"If plants are not watered, then they die. But suppose plants are not watered, and then they do not die.",1.2,1.1
+17,"If rocks are thrown at a window, then the window breaks. But suppose rocks are thrown at a window, and then the window does not break.",2.8,1.8
+18,"If someone does 50 jumping jacks in a room with a tower of dominos, then the tower of dominos falls over. But suppose someone does 50 jumping jacks in a room with a tower of dominos, and then the tower of dominos does not fall over.",3.6363636363636362,2.272727272727273
+19,"If someone drinks lots of coffee , then they have trouble sleeping. But suppose someone drinks lots of coffee, and then they have do not have trouble sleeping.",1.0909090909090908,1.8181818181818181
+20,"If someone falls from a high height onto their outstretched arm, then they will break their wrist. But suppose someone falls from a high height onto their outstretched arm, and then they do not break their wrist.",2.6,2.3
+21,"If someone falls on the sidewalk, then they scrape your knee. But suppose someone falls on the sidewalk, and then they do not scrape their knee.",1.5,2.3
+22,"If someone touches poison ivy, then they get a rash. But suppose touches poison ivy, and then they do not get a rash.",2.4,1.4
+23,"If someone turns on a bathtub tap, then a bathtub fills with water. But suppose someone turns on a bathtub tap, and then the bathtub does not fill with water.",0.9,0.8
+24,"If someone walks through a metal detector with a metal watch, then alarms go off. But suppose someone walks through a metal detector with a metal watch, and then alarms do not go off.",1.4545454545454546,1.0909090909090908
+25,"If the the gates in a zoo are closed, then the zoo animals do not escape. But suppose the gates in a zoo are closed, and then the animals do escape.",1.7,1.7
+26,"If the weather gets hotter around a snowman in a backyard, then the snowman melts. But suppose the weather gets hotter around a snowman in a backyard, and then the snowman does not melt.",1.8,0.6
+27,"If water is put in the freezer, then it turns into ice. But suppose water is put in the freezer, and then it does not turn into ice.",0.8,1.1
