@@ -1,0 +1,617 @@
+Generated Explanations per Scenario
+
+Scenario: If a blue slushie is spilled on a carpet, then the carpet is stained blue. But suppose a blue slushie is spilled on a carpet, and then the carpet is not stained blue.
+
+	Explanation: "This could have happened because the carpet was not white to start with, so it mixed with another color like red creating a purple stain. "
+
+	Explanation: "This could have happened because the slushie did not stain the carpet because the carpet was made with stain resistant material. "
+
+	Explanation: "This could have happened because the rug is treated with Scotchgard and therefore the blue slushie does not sink in and stain the carpet."
+
+	Explanation: "This could have happened because  the carpet was the exact same color as the slushie, so there was no apparent stain."
+
+	Explanation: "This could have happened because the person who spilled the slushie immediately cleaned the spill with spot remover."
+
+	Explanation: "This could have happened because a person immediately cleaned up the spill with a solution to prevent stains. "
+
+	Explanation: "This could have happened because  the carpet is coated with a water/stain resistant film."
+
+	Explanation: "This could have happened because the carpet could be a new stain resistant carpet and it just sat on top and someone blotted it. It is gone, with no stain."
+
+	Explanation: "This could have happened because the stain was cleaned up"
+
+	Explanation: "This could have happened because the carpet itself is the same color as the slushie that was spilled."
+
+Scenario: If a car's gas pedal is pressed all the way down, then the car drives very quickly. But suppose a car's gas pedal is pressed all the way down, and then the car does not drive very quickly.
+
+	Explanation: "This could have happened because the car is in neutral."
+
+	Explanation: "This could have happened because the gas pedal may be faulty and in need of repair."
+
+	Explanation: "This could have happened because the car was moving a lot of weight. Whether it be multiple passengers, a load of items, or the car was towing a trailer."
+
+	Explanation: "This could have happened because something is wrong with the car, for example the computer to the car that tells the pedal to work could be broken."
+
+	Explanation: "This could have happened because the car is in a low gear."
+
+	Explanation: "This could have happened because the gas pedal is disconnected. This is a very flawed car and needs to be taken back to the dealership immediately! "
+
+	Explanation: "This could have happened because the car might not drive quickly because the car gas pedal is broken. Another reason the car might not drive quickly when the gas pedal is pressed all the way down is because the car is stuck in a ditch."
+
+	Explanation: "This could have happened because the car has not been started"
+
+	Explanation: "This could have happened because there might be something wrong with the fuel delivery system in the car. It might also be something wrong with the actual pedal that would need to be replaced."
+
+	Explanation: "This could have happened because an average car's gas pedal can be pressed all the way down and the car will drive quickly when a little old man is behind the wheel. An average car's gas pedal can be pressed all the way down and the car will not drive very quickly when the driver is the all-time race car champion of the world."
+
+Scenario: If a cat's tail is pulled, then the cat yowls. But suppose a cat's tail is pulled, and then the cat does not yowl.
+
+	Explanation: "This could have happened because  the cat was asleep and didn't feel it's tail being pulled."
+
+	Explanation: "This could have happened because the cat is dead."
+
+	Explanation: "This could have happened because the cat is used to the behavior and not bothered by it. The tail wasn't pulled hard enough to make the cat yowl."
+
+	Explanation: "This could have happened because if the cat is dead, then pulling its tails will not yield a response."
+
+	Explanation: "This could have happened because the cat happens to be one of very few cats with patience. On the other hand, the cat could also scratch in response instead of yowl."
+
+	Explanation: "This could have happened because the cat got way to used to the toddler tugging on its tail and didn't make noise this time. "
+
+	Explanation: "This could have happened because the cat's tail wasn't pulled very hard. "
+
+	Explanation: "This could have happened because  the tail was not pulled hard enough."
+
+	Explanation: "This could have happened because the cat may be dead."
+
+	Explanation: "This could have happened because the cat's tail was not pulled hard enough. The cat only yowled if it hurt him."
+
+Scenario: If a confetti cannon is fired, then it produces a loud noise. But suppose a confetti cannon is fired, and then it does not produce a loud noise.
+
+	Explanation: "This could have happened because  the confetti canon did not have enough confetti in it."
+
+	Explanation: "This could have happened because a silencer of some sort was used. "
+
+	Explanation: "This could have happened because the confetti cannon may have misfired and therefore the powder was not ignited to create a sound."
+
+	Explanation: "This could have happened because it was a defective and empty cannon so it didn't make any noise at all. "
+
+	Explanation: "This could have happened because  there was no confetti inside this time."
+
+	Explanation: "This could have happened because there is some other force moving the cannon other than the explosion from firing. The individual listening could have earplugs in there ears. "
+
+	Explanation: "This could have happened because the cannon might have gotten jammed and the cannon didnt fire correctly."
+
+	Explanation: "This could have happened because people were wearing noise cancelling headphones, and therefore, although the noise exists, to the human ear, no noise is produced."
+
+	Explanation: "This could have happened because the confetti cannon is a dud."
+
+	Explanation: "This could have happened because it had state-of-the-art technology. "
+
+Scenario: If a cymbal is hit with a drum stick, then it clangs. But suppose a cymbal is hit with a drum stick, and then it does not clang.
+
+	Explanation: "This could have happened because the drumstick wasn't hit hard enough"
+
+	Explanation: "This could have happened because  the drum stick was actually a chicken drum stick. So, the noise was more of a thwomp than a clang."
+
+	Explanation: "This could have happened because if the drum stick is from a chicken, and the hit is gentle enough, it will not make a sound."
+
+	Explanation: "This could have happened because someone has a grip on he cymbal to mute it, and therefore cannot make the noise."
+
+	Explanation: "This could have happened because there was something on the cymbal that dampened the force of the drumstick like a piece of felt. Something that can reduce the force or duration of the strike can make the cymbal not vibrate with sounds. Also, if the cymbal is fixed into place it will not clang. "
+
+	Explanation: "This could have happened because  the cymbal was stuck on something that didn't allow it to move freely and vibrate sound."
+
+	Explanation: "This could have happened because the cymbal was not hit hard enough with the drum stick to register a sound."
+
+	Explanation: "This could have happened because the cymbal and the drum stick are made of soft materials. "
+
+	Explanation: "This could have happened because because the symbol what's not used with enough Force to make a clang noise ,perhaps it was used to gentle or the person was not trained as a drummer ."
+
+	Explanation: "This could have happened because perhaps the cymbal that was hit was hit with a defective drum stick. A padded drum stick or a cymbal that is muffled could cause it not to clang. "
+
+Scenario: If a door is locked with a bolt, then it cannot be opened. But suppose a door is locked with a bolt, and then it is opened.
+
+	Explanation: "This could have happened because the door was knocked down. "
+
+	Explanation: "This could have happened because the lock was broken."
+
+	Explanation: "This could have happened because the door jam was not put together correctly or there was a hole in the wall."
+
+	Explanation: "This could have happened because the bolt is not connected to anything to hold it closed. The lock is broken. "
+
+	Explanation: "This could have happened because  the door was not bolted to begin with. Someone was able to come along and open the door just fine."
+
+	Explanation: "This could have happened because the person opening the door, cut the bolt. "
+
+	Explanation: "This could have happened because the bolt is damaged or removed by a tool. This would also the door to open."
+
+	Explanation: "This could have happened because the bolt does not engage the door frame and therefore does not stop one from opening the door."
+
+	Explanation: "This could have happened because the could have happened because the screws that were holding the bolt in place became loose."
+
+	Explanation: "This could have happened because  the bolt was weak or broken."
+
+Scenario: If a fire in an apartment occurs, then the fire alarm goes off. But suppose a fire in an apartment occurs, and then the fire alarm do not goes off.
+
+	Explanation: "This could have happened because there was faulty wiring installed into the fire alarm."
+
+	Explanation: "This could have happened because people in the apartment building may die or be seriously injured by the fire."
+
+	Explanation: "This could have happened because the landlord forgot to put batteries into the alarms and never tested them. "
+
+	Explanation: "This could have happened because the fire alarm batteries had not been changed, which led to the system not properly working."
+
+	Explanation: "This could have happened because because the smoke did not reach the sensor yet or the fire alarm system is out of order"
+
+	Explanation: "This could have happened because the fire alarms were faulty and hadn't been tested recently to see if they still worked properly."
+
+	Explanation: "This could have happened because there were no batteries in the fire alarm."
+
+	Explanation: "This could have happened because the batteries in the fire alarm have not been changed in a very long time. The batteries are dead."
+
+	Explanation: "This could have happened because the fire alarms were not checked by maintenance staff and everyone was in the building would not have enough time to evacuate."
+
+	Explanation: "This could have happened because a smoke detector is not functioning properly."
+
+Scenario: If a light is unplugged, then the light cannot turn on. But suppose a light is unplugged, and then the light can turn on.
+
+	Explanation: "This could have happened because it was struck by lightning and was temporarily electrically charged."
+
+	Explanation: "This could have happened because the light may have an internal system where it save energy and can turn on the light for a while without an external energy source."
+
+	Explanation: "This could have happened because a light can turn on even when unplugged because it might also be battery-operated. "
+
+	Explanation: "This could have happened because the light is battery operated. No need for a plug!"
+
+	Explanation: "This could have happened because the light has an internal back up battery."
+
+	Explanation: "This could have happened because if a light is unplugged but still able to turn on, it's possible that the room is haunted and a ghost is using their energy to power the light."
+
+	Explanation: "This could have happened because the light also has a battery back-up that kicked in when the plug was plugged from the socket."
+
+	Explanation: "This could have happened because the light also has a battery power source."
+
+	Explanation: "This could have happened because when the light is unplugged, its batteries take over to give it power. The light can be unplugged and not turn on if the lightbulb is burnt out. The light can remain unplugged and turn on when the lightbulb is replaced. "
+
+	Explanation: "This could have happened because the light has back up batteries"
+
+Scenario: If a meteor hits the ground, then a crater is made. But suppose a meteor hits the ground, and then a crater is not made.
+
+	Explanation: "This could have happened because the meteor broke up into many tiny pieces prior to impact and no crater was observed."
+
+	Explanation: "This could have happened because  the meteor was infinitesimally small and the impact created zero crater. "
+
+	Explanation: "This could have happened because either the meteor was tiny enough that the crater is not visible to the naked eye, or it was in such a remote area that no one is likely to witness the crater."
+
+	Explanation: "This could have happened because  the meteor was very small."
+
+	Explanation: "This could have happened because the meteor was very small and vaporized on impact and did not have enough force to dent the ground. "
+
+	Explanation: "This could have happened because there could be a giant hole already there."
+
+	Explanation: "This could have happened because the meteor did not have enough Force to make a crater on the ground ."
+
+	Explanation: "This could have happened because the meteor was not of significant size or did not gain enough speed to cause a crater. "
+
+	Explanation: "This could have happened because the meteor hit an already existing crater. "
+
+	Explanation: "This could have happened because the meteor wasn't hard enough to create a crater"
+
+Scenario: If a person breathes in wildfire smoke, then they cough. But suppose a person breathes in wildfire smoke, and then they do not cough.
+
+	Explanation: "This could have happened because either they breathed in enough wildfire smoke to render them unconscious, or such an insufficient amount that it did not cause them to cough."
+
+	Explanation: "This could have happened because they held their breath after breathing in smoke"
+
+	Explanation: "This could have happened because the person did not breathe in too much wildfire smoke. "
+
+	Explanation: "This could have happened because perhaps the Wildfire smoke is not thick enough to affect their breathing and they are able to stay low to the ground as the smoke arises to escape inhalation."
+
+	Explanation: "This could have happened because  the person was used to the smoke from several days of the wildfire in their area."
+
+	Explanation: "This could have happened because  they have lungs that are accustomed to smoke inhalation, as they are a serial smoker."
+
+	Explanation: "This could have happened because the person is not sensitive to the smoke from the wildfire."
+
+	Explanation: "This could have happened because the person could have a wet cloth over there mouth to help somewhat."
+
+	Explanation: "This could have happened because some people are less sensitive to smoke than others. A person could be less sensitive by taking a cough suppressant.  "
+
+	Explanation: "This could have happened because they did not cough in wildfire smoke because they were wearing protective breathing equipment"
+
+Scenario: If a piano is dropped from a skyscraper, then the piano shatters. But suppose a piano is dropped from a skyscraper, and then the piano does not shatter.
+
+	Explanation: "This could have happened because the piano was dropped onto a giant pillow that broke the pianos fall, therefore keeping it in tact."
+
+	Explanation: "This could have happened because this piano is special. This piano was created to play the most beautiful sounds in the world and cannot be destroyed!"
+
+	Explanation: "This could have happened because the piano is encased in very heavy protective foam and lands on a trampoline surrounded by protective foam."
+
+	Explanation: "This could have happened because the piano happened to land on something that was padded and broke the fall, thus causing it not to shatter."
+
+	Explanation: "This could have happened because there could be something that was breaking the fall for the piano.  Something nice and soft like feathers or a mattress."
+
+	Explanation: "This could have happened because the piano may not shatter when dropped from a skyscraper because it is attached to a large crane by rope, and the piano swings suspended in the air like a pendulum."
+
+	Explanation: "This could have happened because there was a giant pool of gelatin beneath the piano that slowed the impact of it's landing and prevented it from shattering."
+
+	Explanation: "This could have happened because the piano is made of some type of plastic material"
+
+	Explanation: "This could have happened because if a piano drops from a sky scraper but does not shatter, it's possible that spider man used his web to catch the piano before it hit the street and injured innocent bystanders. "
+
+	Explanation: "This could have happened because the piano is made of steel and warps instead of shattering. "
+
+Scenario: If a severe earthquake occurs near an office building, then the shelves in the office fall down. But suppose a severe earthquake occurs near an office building, and then the shelves in the office do not fall down.
+
+	Explanation: "This could have happened because the shelves in the office are bolted to the ground and are not affected by the earthquake unless the ground beneath the shelving is damaged."
+
+	Explanation: "This could have happened because  the shelves were extra sturdy and bolted in."
+
+	Explanation: "This could have happened because the building was built to handle the shakes of an earthquake. The earthquake might not have been strong enough to shake the shelves down. "
+
+	Explanation: "This could have happened because the shelves are bolted in place. "
+
+	Explanation: "This could have happened because the shelves may be screwed into the wall and therefore they do not fall down."
+
+	Explanation: "This could have happened because it wasn't a very strong one."
+
+	Explanation: "This could have happened because the shelves were already on the ground because of the office was redoing the carpet. "
+
+	Explanation: "This could have happened because the shelves were mounted into studs."
+
+	Explanation: "This could have happened because  the shelves were indistructable. They were bolted to the walls very securely and the earthquake wasn't enough to have them fall down. They stayed attached."
+
+	Explanation: "This could have happened because  the shelved were bolted to the wall."
+
+Scenario: If an apple falls from a tree, then it hits the ground. But suppose an apple falls from a tree, and then it does not hit the ground.
+
+	Explanation: "This could have happened because an apple that falls might not hit the ground because it falls into a trampoline/hammock/canopy. An apple that falls also might not hit the ground because someone standing under the tree may catch it."
+
+	Explanation: "This could have happened because there might be someone under the tree who caught the apple in their hand. Or the apple fell into a basket on ground."
+
+	Explanation: "This could have happened because if an apple falls from a tree but does not hit the ground, it's possible that someone caught the apple and ate it before it reached the ground."
+
+	Explanation: "This could have happened because a woman was standing underneath the tree at the time the apple started to fall. She had quick reflexes and caught the apple midair. "
+
+	Explanation: "This could have happened because the apple fell onto a branch below it and stayed there."
+
+	Explanation: "This could have happened because a person caught the apple."
+
+	Explanation: "This could have happened because someone caught it"
+
+	Explanation: "This could have happened because i tied a bag around each apple and attached the bag to its branch so that they wouldn't hit the ground and get bruised."
+
+	Explanation: "This could have happened because the apple does not hit the ground, but instead strikes the noggin of Sir Isaac Newton, who had chose to sit under the apple tree only moments before. Thus, the theory of gravity is born."
+
+	Explanation: "This could have happened because it fell down onto another part of the tree and was stuck there. Or, it fell down right into the hand of human that was waiting there to catch it."
+
+Scenario: If an egg carton is dropped, then the eggs break. But suppose an egg carton is dropped, and then the eggs do not break.
+
+	Explanation: "This could have happened because the egg carton was very sturdy and landed just the right way to not break the eggs."
+
+	Explanation: "This could have happened because the egg carton was dropped a very short distance."
+
+	Explanation: "This could have happened because the egg carton had more cushioning and was of higher quality than others."
+
+	Explanation: "This could have happened because the eggs fell on a soft surface that prevented them from breaking."
+
+	Explanation: "This could have happened because the carton was dropped onto a soft surface. There was not enough brute force to break the eggs."
+
+	Explanation: "This could have happened because the egg carton was designed in a way to help prevent eggs breaking."
+
+	Explanation: "This could have happened because the carton was dropped onto a couch, so the fall was cushioned. "
+
+	Explanation: "This could have happened because the eggs in the carton were hard-boiled."
+
+	Explanation: "This could have happened because the eggs were hard boiled."
+
+	Explanation: "This could have happened because because the drop was not high enough to break the eggs or the carton that holds the eggs is solid enough to absorb the impact of the fall"
+
+Scenario: If it rains over grass, then the grass becomes wet. But suppose it rains, and then the grass does not become wet.
+
+	Explanation: "This could have happened because there was a cover or shade cloth over the section of grass that did not get wet."
+
+	Explanation: "This could have happened because it had a canopy over it."
+
+	Explanation: "This could have happened because  there is an outdoor tent set up."
+
+	Explanation: "This could have happened because  something might be covering part of the grass and so making the rain not be able to hit that part."
+
+	Explanation: "This could have happened because there was something covering the grass. Even though it rained, a tarp covering the grass protected it from getting wet."
+
+	Explanation: "This could have happened because the grass in question is shielded from the rain by a plastic canopy."
+
+	Explanation: "This could have happened because the grass has been covered by some type of canopy tent or awning. This would shield the grass below from becoming wet."
+
+	Explanation: "This could have happened because the grass has dried extrmemly quickly. There was something blocking the rain from hitting the grassy spot inspected."
+
+	Explanation: "This could have happened because there was a tarp on the ground that shielded the grass from the rain. "
+
+	Explanation: "This could have happened because the grass is covered with a tarp. "
+
+Scenario: If pest outbreaks occur on a farm, then crops in the farm die. But suppose pest outbreaks occur on a farm, and then crops in the farm do not die.
+
+	Explanation: "This could have happened because because the pest is not toxic enough to kill the plants or when it was placed near the corps but not on the corps "
+
+	Explanation: "This could have happened because the creatures nearby eat the pests and they die."
+
+	Explanation: "This could have happened because they were treated with anti-pest spray."
+
+	Explanation: "This could have happened because the farmer used pesticides to kill off the pests so the crops wouldn't die."
+
+	Explanation: "This could have happened because the pest species is not harmful to the farm's crops."
+
+	Explanation: "This could have happened because the crops are hanging tough this year. They are fighting off the pests well."
+
+	Explanation: "This could have happened because the pests may not be crop eating pests. Instead maybe they are just a general nuisance, rather than destroying crops or the soil. "
+
+	Explanation: "This could have happened because the pests do not feed on the crops on the farm. "
+
+	Explanation: "This could have happened because proper pesticide was used before the pest outbreak began. The pests died and the crops survived."
+
+	Explanation: "This could have happened because the crops had been previously sprayed with pesticides."
+
+Scenario: If plants are not watered, then they die. But suppose plants are not watered, and then they do not die.
+
+	Explanation: "This could have happened because the plant is a succulent or cactus."
+
+	Explanation: "This could have happened because  they were a cactus type of plant that doesnt require much water to live."
+
+	Explanation: "This could have happened because the plants could be among a desert variety that can withstand long periods of draught."
+
+	Explanation: "This could have happened because the plants were not real. Perhaps the plants were fake, and therefore did not need water to survive."
+
+	Explanation: "This could have happened because  this type of plant can sustain itself without water. "
+
+	Explanation: "This could have happened because they must have some other mechanism for conserving water much like dessert plants. They could also be fake plants."
+
+	Explanation: "This could have happened because the plants are cacti. "
+
+	Explanation: "This could have happened because the plants in question are cacti and therefore prepared to not use as much water. "
+
+	Explanation: "This could have happened because  this type of plant does not need as much water as a regular plant."
+
+	Explanation: "This could have happened because it can be a desert plant."
+
+Scenario: If rocks are thrown at a window, then the window breaks. But suppose rocks are thrown at a window, and then the window does not break.
+
+	Explanation: "This could have happened because the window was made out of reinforced glass that does not break very easily."
+
+	Explanation: "This could have happened because the rocks were not thrown with enough velocity to break the window. This is basic physics."
+
+	Explanation: "This could have happened because the window is made from shatterproof glass. "
+
+	Explanation: "This could have happened because the window was installed with thick, shatter-proof glass. "
+
+	Explanation: "This could have happened because the rocks were small and therefore didn't have a big enough impact when hitting the window."
+
+	Explanation: "This could have happened because the rock was probably too small to inflict damage on the window"
+
+	Explanation: "This could have happened because the window is made of shatterproof glass."
+
+	Explanation: "This could have happened because the window is bulletproof because it was the glass of the president's car."
+
+	Explanation: "This could have happened because because who ever threw the rocks did not throw hard enough or the rock is not big enough to make an impact and break the window"
+
+	Explanation: "This could have happened because the thrown rocks were too small to break the glass."
+
+Scenario: If someone does 50 jumping jacks in a room with a tower of dominos, then the tower of dominos falls over. But suppose someone does 50 jumping jacks in a room with a tower of dominos, and then the tower of dominos does not fall over.
+
+	Explanation: "This could have happened because <br />The speed of the person doing the jumping jacks has a lot to do with if the dominoes fall down or not. If the person doing the jumping jacks is moving at a very high speed, then of course the dominoes will fall over. If the person is moving verv slow and deliberately then the dominoes will not fall. It also has to do with how close or far away they are from  the Domino’s.  <br /><br />If they are close enough to the dominoes then they will fall. if they are far away from the Domino’s and the dominoes can not detect the motion of the person doing the jumping jacks, then they will not fall over."
+
+	Explanation: "This could have happened because the person did the jumping jacks on a different surface than what the stack of dominos is on. Maybe the person did light style jumping jacks making sure not to cause a big disruption in the room."
+
+	Explanation: "This could have happened because there could be a concrete foundation instead of a crawl space which could cause foundation issues in the long run"
+
+	Explanation: "This could have happened because the dominos are glued together so they do not fall. The person could also be jumping on a raised platform so their vibrations from jumping is not as bad on the dominos balance."
+
+	Explanation: "This could have happened because the dominoes are glued together."
+
+	Explanation: "This could have happened because the tower of dominos may not fall over when someone is doing 50 jumping jacks in the same room because the dominos are glued to the ground. "
+
+	Explanation: "This could have happened because the floor is meant to absorb movements or shocks."
+
+	Explanation: "This could have happened because they were careful and stayed far enough away from the tower of dominos so that it would not be bumped or shaken."
+
+	Explanation: "This could have happened because if someone does 50 jumping jacks in a room with a tower of dominos and they don't fall over, it's possible that they stayed far enough away to not impact the structure of the tower. "
+
+	Explanation: "This could have happened because the tower of dominoes does not fall over because the person doing the 50 jumping jacks moved to a much larger room and is now at a very safe distance away from the tower."
+
+Scenario: If someone drinks lots of coffee , then they have trouble sleeping. But suppose someone drinks lots of coffee, and then they have do not have trouble sleeping.
+
+	Explanation: "This could have happened because someone who drinks coffee may not have trouble sleeping because they might have taken a sleeping pill or a sleeping aid. They also might be very tired because they may not have slept for days so the coffee would not prevent them from sleeping."
+
+	Explanation: "This could have happened because the coffee drinker's angry spouse was angry at them for galavanting around town all hours of the night, so they switched the coffee out for a decaffeinated blend."
+
+	Explanation: "This could have happened because if is having trouble sleeping and coffee is not blame, they could have had a hard day and are unable to shut their mind off and go to sleep."
+
+	Explanation: "This could have happened because the person drunk the coffee earlier in the day so that it did not affect their sleeping"
+
+	Explanation: "This could have happened because the person has a higher tolerance for caffeine. The person could of also drank the coffee earlier in the day. "
+
+	Explanation: "This could have happened because their body has become used to the coffee and it is not causing sleep issues. It could also be that they drank so much coffee that it caused the body to crash."
+
+	Explanation: "This could have happened because they were shot with a tranquilizer dart."
+
+	Explanation: "This could have happened because they drank decaf coffee."
+
+	Explanation: "This could have happened because this person has stayed up for 2 days straight. Coffee has lost its effectiveness for this guy at the moment. "
+
+	Explanation: "This could have happened because some people have built tolerances to coffee intake. A person can drink a lot of coffee and not be affected by the caffeine boost of the coffee that it gives them. They can drink coffee and still go to sleep without any worry that it will keep them up."
+
+Scenario: If someone falls from a high height onto their outstretched arm, then they will break their wrist. But suppose someone falls from a high height onto their outstretched arm, and then they do not break their wrist.
+
+	Explanation: "This could have happened because  they lessened the fall on their arm by also falling onto their butt at the same time."
+
+	Explanation: "This could have happened because if they landed on their wrist at just the right angle they could bend it a different way and not break their wrists. "
+
+	Explanation: "This could have happened because  they fell into a foam pit that broke their fall and kept them from getting hurt."
+
+	Explanation: "This could have happened because the person was extremely light such as a tiny preemie baby."
+
+	Explanation: "This could have happened because they could have landed on a different part of their body besides their wrist."
+
+	Explanation: "This could have happened because they are young and resilient and their bones are strong enough to not break from the impact of the Fall"
+
+	Explanation: "This could have happened because they landed into something soft like when they do stunts on movies."
+
+	Explanation: "This could have happened because they protected their wrist last minute"
+
+	Explanation: "This could have happened because the person is a gymnast, has built strong muscles and is practicing their routine. "
+
+	Explanation: "This could have happened because this person had extremely strong wrists and hit the ground without hitting wrist first. They did break their legs though. "
+
+Scenario: If someone falls on the sidewalk, then they scrape your knee. But suppose someone falls on the sidewalk, and then they do not scrape their knee.
+
+	Explanation: "This could have happened because they were wearing thick pants that protected their knees."
+
+	Explanation: "This could have happened because the person is wearing clothing that covers their knees and therefore only left bruises."
+
+	Explanation: "This could have happened because the impact of the fall was not hard enough to cause a scrape to the knee."
+
+	Explanation: "This could have happened because the person was wearing knee pads."
+
+	Explanation: "This could have happened because they caught themselves with their hands and unfortunately scraped their hands up instead of their knees."
+
+	Explanation: "This could have happened because they were wearing knee pads."
+
+	Explanation: "This could have happened because they had pants on. This is a protective layer to avoid knee scraping."
+
+	Explanation: "This could have happened because because the fall was not focused on the knee or the they did not fall hard enough to make an impact"
+
+	Explanation: "This could have happened because they might have been wearing very thick pants or possibly knee pads."
+
+	Explanation: "This could have happened because they fell because the side walk is icy. Therefore their feet slipped out from under them and they fell on their behind. "
+
+Scenario: If someone touches poison ivy, then they get a rash. But suppose touches poison ivy, and then they do not get a rash.
+
+	Explanation: "This could have happened because this person must not be allergic to the poison ivy and might have been wearing gloves."
+
+	Explanation: "This could have happened because they have on a pair of gloves. Instead of touching it directly, they touch the poison ivy with the gloves and then remove them before touching any other part of their body. "
+
+	Explanation: "This could have happened because they had touched the plant along the side of their pants, so the poison ivy didn't actually reach their skin."
+
+	Explanation: "This could have happened because because the poison did not reach to the cells to affect, or they treated the poison before it gets to the point to create a rash"
+
+	Explanation: "This could have happened because the person does not have an allergy to poison ivy."
+
+	Explanation: "This could have happened because they are immune to poison ivy. They are not capable of getting it."
+
+	Explanation: "This could have happened because the person was not particularly susceptible to poison ivy."
+
+	Explanation: "This could have happened because they are really lucky."
+
+	Explanation: "This could have happened because this person is not allergic to poison ivy."
+
+	Explanation: "This could have happened because they took medicine prior to touching the poison ivy. If the proper cream were applied, the poison ivy would not cause a rash."
+
+Scenario: If someone turns on a bathtub tap, then a bathtub fills with water. But suppose someone turns on a bathtub tap, and then the bathtub does not fill with water.
+
+	Explanation: "This could have happened because the water has been cut off, because the water bill is past due. "
+
+	Explanation: "This could have happened because the water is probably turned off to the tub."
+
+	Explanation: "This could have happened because because the current resident did not pay their water bill or there is a a technical issue in tap/pipes "
+
+	Explanation: "This could have happened because there is a leak within the tap pipe, or a leak within the bathtub basin itself."
+
+	Explanation: "This could have happened because the water in the apartment is out. They did not pay their water bill."
+
+	Explanation: "This could have happened because the person did not pay the water bill this month."
+
+	Explanation: "This could have happened because someone didn't plug up the bath drain with a stopper."
+
+	Explanation: "This could have happened because their water bill might not have been paid."
+
+	Explanation: "This could have happened because the water bill was not paid for the last few months so the public workers of the city turned off the water flow to this house."
+
+	Explanation: "This could have happened because the home's water supply valve has been turned off."
+
+Scenario: If someone walks through a metal detector with a metal watch, then alarms go off. But suppose someone walks through a metal detector with a metal watch, and then alarms do not go off.
+
+	Explanation: "This could have happened because the Metal detector could be faulty. It could be in need of a repair or maybe something else is impeding it from being able to detect the metal in the watch. Perhaps the watch isn’t even really made of metal. It could be made of another substance."
+
+	Explanation: "This could have happened because because the metal detector was unplugged."
+
+	Explanation: "This could have happened because the metal detector could be set on a different mode of detection to pick up certain metals"
+
+	Explanation: "This could have happened because the metal detector may not go off because the detector is broken. Another reason the metal detector may not go off is because someone may have shielded the metal watch with something to prevent it from being detected by the metal detector."
+
+	Explanation: "This could have happened because the alarms went off because the person was wearing steel toe boots with a metal watch made of stainless steel. When the alarm does not go off, the person is wearing bunny slippers with the metal watch made of stainless steel. (Stainless steel has low magnetic permeability and thus is not picked up by most metal detectors.)"
+
+	Explanation: "This could have happened because there is something wrong with the metal detector and it needs to be checked for defects. It might also be that the certain type of metal in the watch is not detectable by this certain make of metal detector."
+
+	Explanation: "This could have happened because the metal detector has malfunctioned."
+
+	Explanation: "This could have happened because the metal detectors were faulty."
+
+	Explanation: "This could have happened because that person is an undercover detective. He has a special metal watch that is actually a weapon in disguise that goes undetected in a metal detector. "
+
+	Explanation: "This could have happened because if someone walks through a metal detector with a metal watch and the alarms don't go off, it's possible that the metal detector is broken and unable to detect smaller amounts of metal."
+
+Scenario: If the the gates in a zoo are closed, then the zoo animals do not escape. But suppose the gates in a zoo are closed, and then the animals do escape.
+
+	Explanation: "This could have happened because the animals found another way out. Maybe something like a hole."
+
+	Explanation: "This could have happened because  the animals found a crafty way to open the zoo gates."
+
+	Explanation: "This could have happened because the zoo gates are not strong or efficient enough to keep the animals inside, or perhaps the animals are good at climbing the gates."
+
+	Explanation: "This could have happened because it is possible that one of the animals was smart enough to figure out how to open a gate.  It is also possible that a prankster opened the gates."
+
+	Explanation: "This could have happened because the zookeeper forgot to lock the gates"
+
+	Explanation: "This could have happened because some of the zoo animals can fly and flew out since although the gates were closed, the roof was left open. "
+
+	Explanation: "This could have happened because the gates are not the right size. The animal could either crawl underneath or slink through the spaces between each bar. "
+
+	Explanation: "This could have happened because the gates may have been opened by someone else or the animals learned to open them."
+
+	Explanation: "This could have happened because someone climbed over the fence and let the animals out. It could havve been a worker who did it onn purpose."
+
+	Explanation: "This could have happened because  the animals figured out how to climb over the gates."
+
+Scenario: If the weather gets hotter around a snowman in a backyard, then the snowman melts. But suppose the weather gets hotter around a snowman in a backyard, and then the snowman does not melt.
+
+	Explanation: "This could have happened because it was decorated with advanced technology."
+
+	Explanation: "This could have happened because it got hotter, but not hot enough to melt packed snow.  It only got hotter from 20 degrees F to 30 degrees F. "
+
+	Explanation: "This could have happened because  the snowman was not a real snowman but rather a decorative one."
+
+	Explanation: "This could have happened because the snowman would be an inflatable or lawn decoration, therefore not able to melt, unless perhaps its made from plastic and it's a very, very, very hot day."
+
+	Explanation: "This could have happened because  it was a snowman that was not made out of snow. This snowman was made out of cotton balls."
+
+	Explanation: "This could have happened because the snowman is made of plastic. "
+
+	Explanation: "This could have happened because the snowman only appears to be made out of snow. Instead, the snowman is plastic and plastic does not melt at typical weather temperatures."
+
+	Explanation: "This could have happened because the person has a snowblower set on the snowman."
+
+	Explanation: "This could have happened because the snowman could be made of other materials instead of the snow. The snowman could be a solid peice of ice taking much longer to melt. "
+
+	Explanation: "This could have happened because  the weather got hotter, but not hot enough to melt the snowman."
+
+Scenario: If water is put in the freezer, then it turns into ice. But suppose water is put in the freezer, and then it does not turn into ice.
+
+	Explanation: "This could have happened because the freezer is not working correctly and it is not turning water into ice ."
+
+	Explanation: "This could have happened because  the power was out and the freezer was off."
+
+	Explanation: "This could have happened because the freezer is not cold enough for ice to form."
+
+	Explanation: "This could have happened because the freezer was not working well and there was never enough cold air to freeze water. This could have been from the door being left open. "
+
+	Explanation: "This could have happened because someone is checking the water every two to three minutes, with the intent of removing it from the freezer just before it freezes.  It's also possible the freezer temperature is incorrectly set at 33 degrees."
+
+	Explanation: "This could have happened because  someone put something else into the water that caused it to lower its freezing point."
+
+	Explanation: "This could have happened because the freezer was not cold enough"
+
+	Explanation: "This could have happened because the water may not have frozen because the freezer was not turned on or cold enough to cause it to freeze. "
+
+	Explanation: "This could have happened because the freezer is not the right temperature- it is broken or set to be too warm. "
+
+	Explanation: "This could have happened because the refrigerator is turned up maybe into display mode and thus nothing can freeze."

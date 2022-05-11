@@ -1,0 +1,617 @@
+Generated Plans per Goal
+
+Goal: Bake a cake, without using an oven.
+
+	Plan: "Once the batter is mixed and poured into the baking tray, assemble a half-sphere of mirrors. Go outside and set the dome in the sun. This will create a focal point in the center where all the heat from the sun will be concentrated. Place the cake pan in this focal point and wait until it is sufficiently cooked."
+
+	Plan: "First, create the cake batter using all the necessary ingredients for a cake. Next, using a charcoal grill, put the cake in a cake pan, cover it with tinfoil, and grill on medium heat for about 40 minutes.  "
+
+	Plan: "Find out how people without ovens bake food."
+
+	Plan: "Find a recipe for a no-bake cheesecake online and follow the recipe."
+
+	Plan: "You can bake a cake in a microwave, such a a cake in a mug. You also bake a cake over a fire. It is also possible to bake a cake in a crock pot. There are recipes online for each of these methods."
+
+	Plan: "It's very simple and easy to bake a cake without using an oven. You can utilize a solar box, or alternatively, a cast-iron skillet by an open fire can act similar to an oven. All's you need is a cast-iron skillet with a lid and heated charcoal on top of the lid to bake whatever is inside."
+
+	Plan: "1. Mix flour, sugar, oil, milk, vanilla, salt, and chocolate chips in a large mug until no lumps remain. <br />2. Sprinkle additional chocolate chips on top of the batter, if desired.<br />3. Place the mug in the center of the microwave and microwave on for about one minute, depending on your microwave.<br />4. Once done, remove from the microwave and let rest for one minute.<br />5. Top with whipped cream or powdered sugar and enjoy your mug cake!"
+
+	Plan: "Build a box out of a metal that has a high melting point. Put the unbaked cake inside of the box. Lower the box into a pool of lava. The box will not melt, but the air inside will heat up enough to bake the cake. "
+
+	Plan: "Does a microwave count? I'm not sure if we're talking only traditional ovens, because a microwave is indeed short for microwave oven. If it's allowed, I'd follow the same basic steps as a traditional cake and research the proper settings and time for a microwave. If not, we'll just go with a stovetop cake. "
+
+	Plan: "Research different methods of baking a cake such as using a microwave."
+
+Goal: Build a bookshelf, without using wood.
+
+	Plan: "I would use metal to build the bookshelf"
+
+	Plan: "I would originally try to build a bookshelf using metal or plastic sticks to build the foundation of the shelf. Then I would use plastic or fabric slabs (with carboard sewn in between the fabric), to build the shelves in order to hold the books up. I would try to make tunnels on each side of the shelves so that I would be able to connect them to the frame without worry about it slipping off."
+
+	Plan: "I would build a bookshelf out of metal by enlisting the help of a  blacksmith."
+
+	Plan: "I would build the bookshelf out of glass bottles and glue. "
+
+	Plan: "You need to go and purchase cinder blocks and sheets of plastic. Stack the cinder blocks as a base. You should do 3 rows for stability. You can then use the plastic sheets for shelves and the backing. "
+
+	Plan: "There are many other materials to use besides wood for a bookshelf. Crates are a really good option as they create little cubbies to place books or other decorative pieces inside. "
+
+	Plan: "Stack cinderblocks against the wall you wanted the shelf against. Position blocks according to where you want to put certain items. "
+
+	Plan: "I would use recycled cardboard to create a sturdy shelf instead of wood."
+
+	Plan: "1. Determine which material to use by doing research <br />2. Buy the needed materials <br />3. Follow building instructions <br />"
+
+	Plan: "I would go to the local hardware store, get some aluminum sheets and make a modern looking muti-level shelf."
+
+Goal: Build a float to dazzle the crowd at the Macy's Day Parade, without using a trailer.
+
+	Plan: "Build a float on a truck."
+
+	Plan: "So if no trailer, I'm just building this out of the back of a pickup truck. you need wheels for this to move, so why not just do it right from a vehicle? you have your base - the truck. next you need your platform. any sort of sturdy surface will do - it just has to be fastened securely to the truck bed. from there, the sky is the limit."
+
+	Plan: "Research different types of floats that are seen in the Macy's Day Parade to see if any are used without a trailer."
+
+	Plan: "Decorate the outside of a truck and ride in that instead of using a trailer."
+
+	Plan: "First, go to a junk yard or scrap yard and obtain any usable car axels or auto frames. Next strip them down to their base parts, this will act as the rolling base for the float. Using either more materials from the junk yard or any other decoration materials you can find, decorate the float according to your assigned theme or purpose. For 'dazzle' effect, I suggest sparkle or reflective elements, possibly something along the lines of neon signs or glowsticks."
+
+	Plan: "First, recruit a team of engineers. Next, brainstorm ideas about an alternative to a trailer. Maybe a truck or a different type of vehicle may work better. Then, plan out the design with blue prints and get all of the materials. Finally, build the float which includes sparkles and dazzle the crowd with jazz hands. "
+
+	Plan: "You will need plywood, board and sheets. You will also need wheels to make the float mobile. Using the wood and attaching wheels, you can make the float so that it can be pulled. You can even rig up a system to make it motorized. The rest of the design is up to using creativity."
+
+	Plan: "1. Gather a fleet of small drones and a large piece of lightweight wood.<br />2. Attach the wood to the drones and decorate the wood in lightweight decorations.<br />3. Control the fleet of drones as one to fly down the street in the parade, carrying the float with them."
+
+	Plan: "Buy a large truck and ensure that it is the best decorated with lights, balloons, and dancers to distract from the fact that the float will be smaller without a trailer. "
+
+	Plan: "Floats are typically towed with trailers, but it's definitely possible to construct one without the usage of a trailer as well. A simple workaround would be to use lightweight materials such as floral sheeting and construct the float around a vehicle, rather than around a trailer. Turning a vehicle into a float itself would eliminate the requirement for a trailer and accomplish the goal."
+
+Goal: Clean the dirty dishes, without using soap.
+
+	Plan: "you could use baking soda or another type of usually seen as organic cleanser like vinegar to cut the grease in the dishes. The baking soda may help so you don't have to scrub as much."
+
+	Plan: "Step one is filling a sink or bucket with warm or hot water.<br />Step two is to put some lemon essential oil onto a washcloth or sponge. <br />Step three is to scrub the dishes in the hot water, starting with the dishes with the lightest soil on them, like glasses. <br />Step four is to rinse all the scrubbed dishes off with clean water. "
+
+	Plan: "First of all make sure the sink is filled up with the hottest water that you can stand, because at least the hot water is getting the germs off. Once all the dishes have soaked for a bit scrub them with a good sponge. You can even go the extra mile and put them in the dishwasher."
+
+	Plan: "Rinse off the dishes first to get rid of any large food chunks stuck to them. Leave the dishes to soak to soften any residue on them. Proceed to vigorously scrub the dishes with the rough side of a sponge while leaving the faucet running on them. Repeat multiple times to ensure cleanliness. Run the dishes through the dishwasher's heating process if available to kill off any bacteria."
+
+	Plan: "Turn on really hot water to wash the dishes, and use a sponge to try and get as much bacteria off as possible. Then dry thoroughly with a clean towel. "
+
+	Plan: "1.  Rinse the dishes off<br />2.  Put them in the dishwater on high heat/long wash<br />3.  Run the dishwasher for a long time so the hot water and clean and kill germs."
+
+	Plan: "I will repeatedly scrub the dishes very thoroughly, with very hot water until spotless and sanitized. "
+
+	Plan: "Fill your sink with the hottest water that your tap can produce, and then allow the dishes to soak for a while. Proceed to drain the sink, and thoroughly scrub down each dish with a soap-less sponge, under running hot water. Place the dishes on a rack to dry. "
+
+	Plan: "I would use warm water and a steel wool to scrub at any residue. I would then place the dishes in a basic with hot, steaming water and let them soak since hot water kills bacteria."
+
+	Plan: "I would power hose the dishes and then boil them to clean them."
+
+Goal: Cool down in a record-breaking heat wave, without using an air conditioner.
+
+	Plan: "To cool down in a record=breaking heat wave you can only have one plan and that plan is to find a swimming pool. You could research the closest public swimming pool or if you have a friend or relative who has a swimming pool, you could ask if you could come over and use it."
+
+	Plan: "The best course of action for this goal would be to sit in a shaded area with a cold wet towel wrapped around your neck. This will keep you cool and out of the sun. "
+
+	Plan: "Soak a towel in cold water and put it around my neck, sit in front of a fan and mist myself with water from a spray bottle. I'll put on a bathing suit and try not to move or break a sweat."
+
+	Plan: "You could undress, or drink a cool drink. Swimming or taking a cold shower could cool you down. Eating less/fasting naturally reduces body temperature. If you're very hot, you can fill the bathtub with ice and lay on top of it. Ice cream or a frosted drink in the shade, with fans can help."
+
+	Plan: "Go into the bathroom. Remove clothes. Turn on the cold water in the tub. Sleek body into the water. Soak in there for three hours. Come out and put clothes back on but wear shorts and a tank top."
+
+	Plan: "I believe the way they used to do that was to get a large block of ice and put a fan behind it. Also, soaking a thin towel in cold water and tying it around the next works well. "
+
+	Plan: "Easy. Take a cold shower. Put a cold towel on the back of your neck. Swim in a pool. Be naked. Soak in a cold tub. Stay out of the sun and outside. "
+
+	Plan: "My plan is to first research ways to cool down without air conditioner in order to see if there are any ways I'm not already familiar with. Way number one would be to wear light colored and light weight clothing to keep from absorbing extra heat. Another method is to freeze wet towels and wrap them around your neck and head to keep cool. And lastly, if their is a fan available, you can sit a bucket of ice in front of the fan to create a makeshift air-conditioner. "
+
+	Plan: "First, I live in a state where basements are part of a house. I will try to spend as much time down there as possible. <br /><br />Second, I will drive my car to use air conditioning (when truly necessary). This is not a long term solution.<br /><br />Third, I will go to a public place like the mall to stay cool during peak heat hours."
+
+	Plan: "Find some towels, cloths or bandanas. Wet them in the sink with cool water. Start by putting one wet cloth around your neck, then your wrists. Try splashing your face with cool water. By cooling your pulse points and your face, you should be able to lower your body temperature without using an air conditioner. "
+
+Goal: Create a safe landing for a falling skydiver, without using a net.
+
+	Plan: "Assess where exactly the diver is going to land. Transport the deepest basin you can find to that spot, by truck. Fill that basin with styrofoam peanuts, or a comparable material, and hope for the best.  "
+
+	Plan: "Set up a large well marked and open field for the skydiver to land in. Preferably a large body of water is nearby. Direct the skydiver to land in the vicinity, but be prepared for things to go askew. Set up response teams to go fetch the skydiver if they land elsewhere."
+
+	Plan: "If we have the time to build some sort of landing and transport it to where he would land, there is time to send another skydiver with a parachute to grab him."
+
+	Plan: "Placing a bouncy castle under your diver will ensure a safe landing. The pilot will be able to see the large target and know when to allow the diver to jump. Make sure to have a several team members nearby in case the castle needs to be shifted slightly due to the wind. "
+
+	Plan: "Use an inflatable landing target."
+
+	Plan: "First off, I would clear out all the land and airspace in a 50 mile radius of the skydiver to make sure that the skydiver can't hit any moving objects. Then I would send out a team of 10 other professional skydivers to try and intercept the falling skydiver. Lastly, I would use the cushion device that fire fighters use to try and reduce the impact upon landing."
+
+	Plan: "I would have them land on their feet since that is the best way for them to land. I would take a bunch of trees and bushes and stack them all together to form a giant bushy area. The only survivors I know of from skydiving have falling into trees and bushes to break their fall. I would also use lots and lots of mattresses and put them on top of the trees and bushes.  "
+
+	Plan: "Use of giant trampoline to help catch the skydiver. "
+
+	Plan: "1. Establish exactly where the skydiver will be falling.<br />2. Clear the area of any hazards.<br />3. Fill the area with a large amount of soft objects, such as tons of packing peanuts, foam, pillows, balloons, etc.<br />4.Pile the objects together to create a safe landing space and surrounding landing space if they bounce off."
+
+	Plan: "I would put out a large air mattress for the skydiver to fall into."
+
+Goal: Cut down a tree, without using a chainsaw.
+
+	Plan: "Using an axe begin by chopping at the base of the trunk. Chop at the tree in the same place until you've reached the center of the trunk. Repeat on the opposite side."
+
+	Plan: "You just need an axe to do this. It takes time and a lot of effort but it can be done. "
+
+	Plan: "You could use a hand saw or ax."
+
+	Plan: "Find a decently sized regular saw that is not electric and slowly slice through the trunk of the tree."
+
+	Plan: "I would use a handsaw with my husband so we could hack it town manually. "
+
+	Plan: "I will borrow an AX from and start cutting down the tree<br />"
+
+	Plan: "This wont require much brain power but will require physical power. humans were able to cut down trees for centuries before the chainsaw was invented. Use an axe! you can also use the wedge method to save energy while cutting the tree and ensure the tree falls in a safe manner."
+
+	Plan: "Use an axe to cut the tree trunk at the base. You could also use a car with towing capabilities to pull it from the ground at the root. "
+
+	Plan: "I would use a hand saw and try to figure out a way to cut the tree down in sections, so that it eliminates the risk of the entire tree falling on me."
+
+	Plan: "I can think of a number of ways but to make this fun, I will drill multiple holes in the tree, place ammonium nitrate and fuel oil in those holes, use bullet primers or firecrackers as blasting caps and remove said tree."
+
+Goal: Decorate the world's largest Christmas tree, without using lights.
+
+	Plan: "I would use reflective ornaments, maybe stained glass ornaments, so that when the light from the sun hits the tree the colors are reflected off the tree. Or I would try to have a projector set up at different angles so that it shines on the tree. I would maybe use plain colored ornaments and project sparkles or something to give them extra pizazz at night."
+
+	Plan: "To decorate a Christmas tree without lights, I would use many types of garland to drape across the tree, as well as strands of tinsel. I would also use a large tree topper that can be shiny, like a metal. Then I would also use many kinds of ornaments that could reflect light from other places, also such as a glass or metal substance. If possible, I might also use an artificial tree that is a bold color to create more color and uniqueness to it."
+
+	Plan: "I would ask my friends to help decorate the christmas tree. We will grab, ribbon, string and ornaments to put on the tree. "
+
+	Plan: "I would decorate with origami made from wrapping paper."
+
+	Plan: "Buy lots of garland and ornaments to take up space. Put heavier ornaments on stronger branches, and ensure there are no large blank gaps in decorations on the tree. "
+
+	Plan: "You need a combination of ornaments to cover the tree. You would also need a giant, possibly life sized angel for the top. In place of lights you could use tiny mirrors that would reflect light during the day time. "
+
+	Plan: "The plan would involve using colorful and effervescent decorations that would capture and accentuate the natural light of the surrounding area. This would make the Christmas tree appear well light without using any lights. "
+
+	Plan: "You could use lots of ornaments and festive items such as miniature Christmas village buildings."
+
+	Plan: "1. Gather decorations that are not lights (tinsel, ornaments, etc.)<br />2. Travel to the world’s largest Christmas tree<br />3. Begin decorating "
+
+	Plan: "I would go about this using a variety of decorations and also tinsel. <br /><br />I think a really great idea would also be to have people from the community and even from around the word create their own decorations that would later be placed on the tree.<br /><br />One more step to go along with this would be that people could sponsor a decoration and have that money go to a charity."
+
+Goal: Escape from inside a locked custodial closet, without using a phone.
+
+	Plan: "Find a small, thin object such as a bobby pin or a toothpick. Wiggle the end around in the keyhole until you hear a click. "
+
+	Plan: "Look for any tool that could be helpful in unlocking the door. First, I would look for a screwdriver to take off the door handle or door. I would also look for any heavy object that could be used to break the door down. I would also make noise, such as banging on the door to alert attention. Check for ceiling vents also that could be crawled through. "
+
+	Plan: "If I am unable to get at the lock with a credit card or paper clip, I'll just bang on the door until someone hears. "
+
+	Plan: "Depending on the kinds of tools inside of the custodial closet, you may be able to find a small hammer or mallet-like object, as well as something you can fashion into a pry bar. If you can apply enough pressure to the hinges with the hammer/pry bar you can bend and break the hinges of the door to free yourself."
+
+	Plan: "Figure out the best way to break the locked door."
+
+	Plan: "First, look for a window to break and escape. If there is no window, use something in the closet to slide under the door the attract the attention of a passerby. "
+
+	Plan: "First I would try banging on the door to see if someone would come help. If that doesn't work, I would try to find some water or other liquid to put under the door so someone might suspect a leak and look inside. If no one notices still, I would try to use some combination of tools inside to get the door off of its hinges and just then try to break it down. (assuming it's locked.) "
+
+	Plan: "Use your foot to kick down the door. Do so by placing your standing foot about one leg length from the door. Then lean into the kick placing your foot near to the door handle."
+
+	Plan: "1. Survey any tools available to you. <br />2. If there is a hammer or similarly heavy item that can be easily swung, pick it up.<br />3. Use the item to swing at the door knob of the closet, attempting to break it off AND make noise.<br />4. Simultaneously, yell to indicate that you need help.<br />5. Continue both of these tasks until the lock breaks and/or someone comes to your assistance. "
+
+	Plan: "Check to make sure the door is locked from the other side. Listen to see if there is anyone nearby to let you out. Check the strength of the door to see if it's possible to breakthrough or knock it off its hinges. "
+
+Goal: Escape quicksand, without using a branch.
+
+	Plan: "It is important to not struggle without a goal. If you march in place quickly and repeatedly you will be able to waddle your way out of the puddle.<br />Think of quicksand more like water than mud. If the first option is not available, try to lay back and allow yourself to float to the surface. The less your weight pushes directly downward, the less you will sink."
+
+	Plan: "So from my childhood I remember never to struggle. The ideal plan is to wait for someone to come and help. If possible, I would lay parallel to the sand on top, so that my bodyweight is evenly distributed and allows me to float. from there, I just shout until someone comes to my rescue."
+
+	Plan: "First, survey the area trying to find a piece of foliage or another leverage point nearby. Next, make a plan in your head of how you will reach out and grab the foliage to pull yourself out. Imagine yourself doing it in your head to visualize. Finally, complete the plan and lunge forward to reach the foliage. Do not waste time."
+
+	Plan: "I would try to position myself as horizontally as possible, to increase my surface area and get me to sink slower. I would slowly lift my legs out, and then flail as much as a could to slowly inch my way off of the pile to keep from sinking again, because that's roughly how non-Newtonian fluids work in my mind.  "
+
+	Plan: "Using anything nearby to get out of the quicksand."
+
+	Plan: "To escape quicksand without using a branch, you should drop whatever heavy items you're carrying to prevent further sinking. An important trick is to remain calm because humans are naturally buoyant and their bodies are less dense than quicksand. If you struggle and flail around, you'll end up sinking faster. You typically want to relax and lean backwards to try to pop your feet out of your shoes/boots, this helps loosen suction around your legs and can allow you to easily slip your legs up above the quicksand, which in turn lets you climb out of the quicksand without utilizing a branch. "
+
+	Plan: "Keep your arms above the quicksand while moving slowly and deliberately. Remove any items or articles of clothing that would weigh you down."
+
+	Plan: "Stay relatively still while keeping as much of your body out of the quicksand as possible. Slowly wiggle our legs up while pushing forward with your arms. Repeat until you reach something you can grab onto to pull yourself out."
+
+	Plan: "First, stay very still to keep from sinking in the quicksand. Second, always go hiking with a rope and partner. Throw your rope to your partner and have them pull you out. "
+
+	Plan: "If a person is near by, they can use rope if available. Strong vines can also be used. It is very important not to panic, moving around a lot. Be sure to stay calm. Scream for help in attempt to attract someone's attention. "
+
+Goal: Find out how many sharks live in a cove off a nearby coast, without using bait.
+
+	Plan: "1.  Install radar on several buoys along the coast.<br />2. Examine the signature of sharks so that you can count how many are in a given area.<br />3. Estimate the number of shark based off of the activity in each area."
+
+	Plan: "I would hire a team of divers to go diving in the cove and count how many sharks there are, possibly having them tag them while they are at it."
+
+	Plan: "First you will board the helicopter using the proper safety measures. Once safely onboard you will use the technology provided to scan the water in the cove. The sharks will appear on the screen as red images. From there you will be able to count them and report the numbers. "
+
+	Plan: "I would use a low-flying helicopter to count the amount of sharks I can see from above. I would also count the amount of shark attacks. "
+
+	Plan: "Go into a shark cage and have a boat drop you off in the cove so that you can count the sharks."
+
+	Plan: "To find out how many sharks are in a cove you could use a fish finder on multiple boats and set it to the correct depth. It may be very costly for a more effective version. Knowing the heat signatures of sharks versus other fish you could use multiple boats with fish finders to count sharks in the area."
+
+	Plan: "Use an underwater camera that you can navigate with a remote. "
+
+	Plan: "Access public environment records to get a general idea of the shark population. Set up buoys with cameras/motion trackers in areas that sharks are known to navigate. Keep meticulous records over a year to account for variances in season."
+
+	Plan: "I will install a camera on the entrance to the cove and record the coming and going of sharks in the area.  "
+
+	Plan: "I would secure a GoPro camera device onto the end of a fishing rod, and I would drop it into the cove. I would use the remote control feature of the GoPro to start recording on my phone, and then would use that footage to determine how many sharks are in the cove. "
+
+Goal: Fix a flat tire, without using a spare tire.
+
+	Plan: "Call roadside assistance or someone you know and have them bring a tire that fits you car. Second option is to call a towing company and have your car towed to a tire shop."
+
+	Plan: "From the little I know about tires; Fill the tire with air and try to identify the origin of the leak. Once you've found the leak, patch up the tire with the appropriate patching kit. Afterwards, refill the tire and continue driving."
+
+	Plan: "Remove the offending piece that popped your tire, slap some flex tape or something else that has sufficient sealing capabilities on the hole, and pump air into the tire. It should hold out long enough for you to get to a place where you can properly fix the tire."
+
+	Plan: "I would pump the tire with a pump, and drive to a mechanic shop to see if they had a spare tire I could use."
+
+	Plan: "I will buy a tire repair patch spray that bonds to any holes in the tire, creating enough reenforcement to continue on my trip. "
+
+	Plan: "I would use a pump to inflate the tire and lots and lots of duct tape to cover the hole. "
+
+	Plan: "1.  Call a tow truck.<br />2.  Have them bring the car to a mechanic/tire store.<br />3.  Have them patch the tire so you can use the same tire."
+
+	Plan: "To fix a tire without using the spare you could use the tire patching kit if you had it on you and a portable tire inflator. Or if you didn't have that a lot of roads have pieces of tire on them that you could be able to use in a pinch to patch the hold maybe by burning the rubber a little to get it malleable and able to be put in the hole."
+
+	Plan: "First make sure you are in a safe location. To do this you might need to pull off the road, either by using the shoulder or by pulling into a parking lot. <br />Then check the tire for punctures, maybe you'll see a nail you can remove with pliers. <br />Next you can spray tire sealant into the tire through the valve stem. You'll have to drive the vehicle back and forth a bit to have the sealant spread around. <br />You'll then be able to put air into the tire and get to the nearest gas station or repair shop. "
+
+	Plan: "First, I would check to see what is causing the flat tire. After finding the puncture I would assess how big the hole is. I carry around store bought flat tire sealant and a tire pump, so I am prepared to fix it. I would seal up the puncture using the store bought product and continue on to put air back into the tire until it was at the correct psi."
+
+Goal: Get your sofa onto the roof of your house, without using a pulley.
+
+	Plan: "My plan is to push the sofa up through the attic window, with friends on the roof who can pull it up from there"
+
+	Plan: "Luckily I know a strong guy. First, the ladder. We have a one story house, so first we set an extension ladder set at a low angle. Then we load some ropes around it. At the top I am holding the ropes, pulling. Second, my friend is behind it pushing. "
+
+	Plan: "We could disassemble the sofa, and then reassemble it. Depending on the weight, we could use a scissor lift or forklift. We could use a helicopter or a crane to drop it. We'd need to be careful not to drop it too hard, or it would crash into the living room!"
+
+	Plan: "Google how to get a sofa onto a roof without using a pulley. Decide which way is easiest and cheapest. Make a plan to get what is needed to do the task. Maybe hire a crane! Or build a crane out of wood. "
+
+	Plan: "I would first get a ladder tall enough to reach the roof of my house. I would then get a lot of strong people to come and help. We could line people up the ladder and, as a team, ease the sofa up to the top of the roof. "
+
+	Plan: "The plan for this goal differs depending on the type of house, but the best course of action is to take the sofa apart in smaller pieces, move each piece to the roof, and then reassemble the sofa. "
+
+	Plan: "Without a pulley... so man power. Find a few strong friends to lift it. Get another friend on the roof to hold a rope that is also around the sofa, not to lift it but to help guide it to make it easier for the other guys to lift. "
+
+	Plan: "I would get a giant crane and secure the sofa to the crane and use the crane to lift it to the roof of my house. "
+
+	Plan: "You could take the feet off the sofa so it is more streamlined and hire some guys to carry up the stairs or load it into the elevator. "
+
+	Plan: "Get five strong male friends. Ask them to lift the sofa all at once onto the roof, and say they will be video taped on social media so they shouldn't mess up. Watch and roll the video camera. Success!"
+
+Goal: Help your local town mayor win re-election, without using billboards.
+
+	Plan: "I would help create a campaign that used electronic methods of communication. Facebook, Instagram, tiktoc, reddit. <br /><br />Second, I would create a word of mouth campaign. People would go to public places and start talking about the mayor loudly. They would argue about which of his policies they liked better."
+
+	Plan: "My plan is to ask supporters to put sings in their front yards, and to air some television and radio commercials to get the mayor's name out there"
+
+	Plan: "Go door to door with talking about the ways the mayor will help everyone."
+
+	Plan: "I would go door to door passing out flyers, call people in the town and talk about the mayor's ideas, and I would put lawn signs in my lawn and the lawns of people who are willing."
+
+	Plan: "They are many ways you could help without using billboards. You could use posters to put up all around town and you could make merchandise such as pins and t-shirts to hand out to people. Lastly you can help the mayor with his rallies, you could help him plan them, such as the date, place an time. You could help him run the rallies as well.<br />"
+
+	Plan: "The best course of action for this goal is to use multi-media platforms. This can include television advertisements, radio advertisements, social media posts, television and radio appearances. Additionally magazine and newspaper presences are important to grasping the communities attention. And without failure in-person appearances, town-halls, door to door canvasing, and meeting one on one with constituents will increase exposure."
+
+	Plan: "Use social media, it is by far the cheapest. Put ads on Facebook, Twitter, etc. Run ads in local paper. Hold rallies in local parks. Hand out flyers at local businesses. Cold call people. Go door to door. "
+
+	Plan: "Organize a team of people to campaign door-to-door. We can also print flyers to pass out on the streets and put on cars. A Facebook ad would be useful, as well as a radio interview if we can set one up. Finally, booking a debate with his opponent would help. "
+
+	Plan: "I would take a survey from my local town to see what kind of advertising people are most attracted to. I would also take a survey to see what the values/morals most people seem to prioritize and value. I would then use the advertising determined by the survey and capitalize on the values people hold dear. For example, if people in the town really value family, I would emphasize how the mayor is a family man. If they value honesty, I would emphasize on how honest the mayor has been in the past election and during his term. "
+
+	Plan: "Have the candidate go to an event or a mall to meet a big crowds. It will give him/her and opportunity to charm potential voters to his/her campaign. Use yard signs too."
+
+Goal: Jump over a six foot tall man, without using a trampoline.
+
+	Plan: "Ask the man to crouch down on all fours, then jump over his now reduced height."
+
+	Plan: "Research fitness training and begin with box jumps. Work on increasing your vertical leap while maintaining a fit and healthy lifestyle and gradually increase the height of the box over time."
+
+	Plan: "1. Obtain a 5-foot ladder and a thick, soft mat.<br />2. Place the mat behind the man and the ladder close to the front of the man. <br />3. Climb to the top of the ladder, jump over the man's head, avoid hitting him, and aim for the soft mat behind him.<br />4. Land on your back if possible."
+
+	Plan: "I would have this tall man stand in any sort of hole or crevice and gently hop over his head."
+
+	Plan: "Dig a 5-6 foot hole in the ground. Place the tall man in the hole and hop over.<br />Or have him lay down on the ground and jump over him across the shortest length."
+
+	Plan: "This would normally be something that takes training. You would need to have someway to make yourself taller, such as standing on blocks. Being raised, would allow you to jump over a six foot tall man."
+
+	Plan: "Fashion a catapult using a resistance band and a tree trunk, and launch yourself over the man."
+
+	Plan: "First, have the man stand next to a picnic table. Next, stand on the picnic table, Finally, jump over the man. The picnic table should give you enough height to leverage. "
+
+	Plan: "Jump over the man with the help of a pogo stick."
+
+	Plan: "A simple solution to jumping over a six-foot tall man without using a trampoline would be to have the man lay down on his back, that way you could hop over him while he's laying down. You can still technically claim to have jumped over someone who is six foot tall without using a trampoline."
+
+Goal: Keep a baby platupyus entertained, without using a ball.
+
+	Plan: "1. Research baby platypus<br />2. Enact researched techniques (minus ball)"
+
+	Plan: "I would bring out a baby pool and let the platypus in there to play. "
+
+	Plan: "Animals tend to be interested in watching other animals. I would pull up animals videos on Youtube and start playing different ones. Eventually you'll find one that will grab their attention and keep them entertained. "
+
+	Plan: "I would chase it, let it chase me, feed it whatever platupyus eat and let it chase me some more."
+
+	Plan: "You could use anything else as a toy. Such as string or a blanket."
+
+	Plan: "The plan involves using treats and food to train the baby platypus to solve puzzles or other simple tasks. This will allow them to remind entertained without using a ball. Training will take place over several weeks and will build in intensity until the target goal is reached. "
+
+	Plan: "I would create a huge maze for the baby platupyus to play with. "
+
+	Plan: "A mother platypus usually lays 2 eggs at a time. The best way to keep a baby platypus entertained would be to use their litter mate. young animals use play fighting as a way to have fun and practice for real fights. This should be the preferred enjoyment for a baby platypus. if this is not the case then try using a stuffed animal resembling a platypus. Please keep in mind that a platypus is not a friendly creature. A tv show that was on while I was a kid gave a lot of people a false impression of these animals. They do not wear fedoras and do not want to snuggle with you. your best option is minimal contact and to use a toy of any kind. as long as it allows you to keep your fingers at a safe distance. "
+
+	Plan: "Have snacks the platypus can eat, and a place for it to swim around. "
+
+	Plan: "I would fill a bathtub up with water and put the platypus inside to play in and stay cool. I would also toys that are designed to be in the bath to float so that the platypus can play with them in the tub. "
+
+Goal: Keep the plants in your garden alive, without using water.
+
+	Plan: "You could use a piece of plastic over the plants so that they can still get light while creating humidity so the plants would still have a small amount of moisture. "
+
+	Plan: "1.  Plan out where the plants will be located so they get the appropriate amount of sun/shade for their species.<br />2.  Make sure that when it rains they will get watered by nature in the surrounding area. <br />3.Create dew traps that trap condensation and bring it to the plant."
+
+	Plan: "I would use extremely nutritious soil and try to create a drip system where the soil can try and take in moisture from the air and use it as water "
+
+	Plan: "Use plant food, and put the plants near the sunshine . "
+
+	Plan: "I would use ice cubes instead and place them by the roots of the plant."
+
+	Plan: "I would use fertilizer, sunlight, and sprite to try to keep my plants alive. "
+
+	Plan: "I will keep a garden containing plants that require little to no water. Cactus, agave, succulents and other desert plants will flourish in my garden in bone dry conditions. "
+
+	Plan: "Water is an essential for keeping plants alive, since I cannot water it myself I would put them in a garden outside that way when it rains the plants will receive water. I would also make sure that the plants are in a well-lit area so that they have access to sunlight and are planted in enough soil to grow and absorb nutrients."
+
+	Plan: "Supply sufficient shade to keep from the sun evaporating excess moisture and feed them accordingly (plant food) so they dont lack anything else other than water. "
+
+	Plan: "Constantly bury high-water content fruit near the plants, and hope that the moisture seeps into their roots as the fruit decays."
+
+Goal: Make a fort underwater, without using an oxygen tank.
+
+	Plan: "Hold my breath for a really long time and use weighted pillows to make my fort. Come up for air when needed in then dive back down to the bottom of the pool. "
+
+	Plan: "I would use a snorkel and intermittently come up to the surface for air."
+
+	Plan: "Construct a tunnel from land leading downward into the water. Pump out the water and ensure there's sufficient air flow from the land entrance. Begin constructing a chamber from the tunnel. Once a basic area is set up to work from, pump out all the water. Repeat this process to expand the area."
+
+	Plan: "I would probably make a fort in a pond since there would be no current or waves to combat. I would also make sure the area is not too deep so that I don't have to go very far without an oxygen tank. I would use a snorkel so that I could stay near the surface and breathe while managing to place some type of structure in the shallow water. I would resort to holding my breath whenever I needed to go underwater fully."
+
+	Plan: "Turn a boat (think in simple terms, like a regular bass boat) upside down and attach weights on 5ft chains and drop it into water. An air pocket would be formed and you could stand on the bottom of the pool/pond/etc breathing from said air pocket."
+
+	Plan: "Gather as much air as you can at the surface, make sure you have all your supplies that you need when going down. Once you are underwater get as much done as you can, then once you need air again go back up to the surface and gather air again, and continue that cycle."
+
+	Plan: "Go to a shallow area where you either don't have to put your head underwater or where you can easily swim to the surface to breath. Put the supplies on a boat right next to you with an anchor so that you can reach them easily. "
+
+	Plan: "To make a fort underwater without using an oxygen tank you could put a person in a partially deflated plastic ball like some water parks have to walk on top of the water. Then with the weight of the person the partially deflated ball would sink to the bottom where it would be attacked to the bottom of the lake or area of water. A hose would then be ran down to fill the ball and the opening secured."
+
+	Plan: "In this scenario, it would be best to start out with a clear plan on what you intend to build. At this point, you would want to pre-assemble anything you can, and then sink it in the body of water. The rest of the fort would need to be constructed in the time between breaths, coming up for air and diving back down until the goal is achieved."
+
+	Plan: "1.Create an underwater cave<br />2.Fill it with air to create an air pocket underneath the water<br />3.  Introduce plants into the environment that will provide you with oxygen."
+
+Goal: Make a pair of new shoes, without using leather.
+
+	Plan: "There are many different types of materials to use for shoes such as suede, cotton, or plastic. You could then watch a YouTube video/research how to use those materials to make shoes."
+
+	Plan: "Many materials can be used, such as rubber, plastic or wool. We'd want something durable for the treads, such as rubber or a composite material. This would be the most important part, since it would bear most of the weight. Any softer nylon/plastic/wool can be used to fashion the rest of the shoe and the laces."
+
+	Plan: "Get some burlap and a shoe pattern. Watch a youtube video on how to make the shoe. Do the burlap minus leather trick and make your feet happy."
+
+	Plan: "I would first look at the shoes I have that aren't made with leather. I would see what kind of shoes can be made without leather and then decide to make that kind of shoes. I would also do research on how to make a shoe. I would read articles and watch YouTube videos. Finally I would follow instructions to make the shoe."
+
+	Plan: "Google how to make a pair of shoes. Research the best way and easiest way to make a pair of shoes without using leather. Acquire all of the proper tools. Understand the instructions. get the shoe material. design and build the shoe. "
+
+	Plan: "My plan is to use canvas and rubber to make a sneaker with laces"
+
+	Plan: "There have been some amazing advances in 3D printing. I know someone who has one. So, I could design a paid and put them together.<br /><br />Second, there are some great tutorials online on how to make cork shoes, or other ways that people made shoes throughout history without the use of leather. I could research and perfect a new method."
+
+	Plan: "The first step in this process is determining what type of shoes you need, maybe a boot or a sneaker. An easy way to make a new pair of shoes without using leather is to 3D print a pair of shoes from an already existing blue print. Based on your skill set, you can either design your own blue print or find one online. While this is an easy way to make a new pair of shoes, it might not be the most comfortable. A secondary plan is to identify the type of shoe you want to make, design the shoe using cloth materials and a rubber sole, and sew your new shoes. This takes much more knowledge of the art of sewing."
+
+	Plan: "I would use canvas and thread to make a converse like shoe. First I would cut out the different pieces of the shoe and then sew them together with thread. Then I would attach the sole (made of plastic) and punch holes for the laces. Then I would put the laces through the holes."
+
+	Plan: "If leather is not available, there are plenty of other materials that can be used instead. Cloth, like the old converse shoes, would work well. "
+
+Goal: Order food in a restaurant, where you don't speak the native language, without using a translator app.
+
+	Plan: "Point to items on the menu you would like, or ask what a certain dish is as it passes by. "
+
+	Plan: "1. Look for bilingual speaker in the store<br />2. Ask them for recommendations and help ordering "
+
+	Plan: "Every restaurant has a menu, this is how you are able to know what they serve. Every waiter has probably encountered someone that does not speak their language, so they probably have seen this before. Try to communicate to them that you dont speak their language, so they dont think you are rude and simply point to what you would like. they will understand and will still be able to bring you the food you decided on. "
+
+	Plan: "I've know a few people who don't hear well and from that experience, I think I would just perform a makeshift sign language and use the universal head nod/shake to say yes or no."
+
+	Plan: "I would look up the restaurant that I plan on going and read the menu so that I know exactly what I want. I would practice correctly saying the item that I have chosen by either asking a friend, if I have any that speaks that language, or I would look up the words in order to hear how it is said."
+
+	Plan: "I would point to the picture or word of the item that i'm ordering."
+
+	Plan: "You could point at pictures of the food."
+
+	Plan: "First, I will see if anyone at the restaurant has experience with speaking English who can translate for me. If no one can do this for me, then I will try to find a menu that has pictures so I can point to the waiter what I would like to get."
+
+	Plan: "The plan would involve using gesture and pointing at items on the menu to describe what you would like the order. You could also find someone who speaks your language and persuade them to order/translate for you."
+
+	Plan: "I would ask the customers/people beside me if they knew the native language. If they said yes, I would ask for them to help me translate. "
+
+Goal: Paint a fence, without using a paint brush.
+
+	Plan: "1. Purchase several spray paint bottles at your nearest craft store in the shade of paint you would like the fence to be. <br />2. Spray the fence with the bottle thoroughly, using a new bottle every time you run out."
+
+	Plan: "The quickest way to paint a fence would be to spray paint the fence. You use a machine that allows you quickly coat the fence. "
+
+	Plan: "I think the easiest solution to this would be to buy spray paint from the hardware store. "
+
+	Plan: "Paint a fence with my hands."
+
+	Plan: "Find a kitchen sponge and use it to paint the fence."
+
+	Plan: "A roller would be the next option, followed by a paint sprayer which is the most expensive option. If it is a small paint job such as a single room, a roller will be good enough. If it is a larger area, a paint sprayer can come in handy."
+
+	Plan: "First, go to the hardware store to buy spray paint. Next, use the spray paint to paint the fence. With spray paint you can easily make more intricate designs.  "
+
+	Plan: "Use an airbrush or otherwise aerosol powered paint applicator. Another option would be to dip the fence into the paint."
+
+	Plan: "Rather than using a paintbrush to paint your fence, you can opt to use a paint-roller instead. However, a faster way would be to use a paint sprayer, although the finished result may look less clean, it would be a fun and efficient method to paint the fence."
+
+	Plan: "I'd just go to a store like Home Depot or Lowe's and buy (or rent, if possible) a paint sprayer. You can buy them for anywhere around $50-100. Quite simple to use, too. "
+
+Goal: Play baseball with your friends, without using a bat.
+
+	Plan: "Ideally I would find something that could be used as a bat. For example, a large stick, a wooden board, a pillow. But if we are playing with no bat and nothing to be used as a bat, I would suggest playing with a wiffle ball. You can play the game of baseball using the wiffle ball and using your hand as a bat. "
+
+	Plan: "There are many things you could use to play baseball without a bat. You can go find a broom and untwist the sweeper part nd use the broom handle as a bat. You could also find a stick or a broken piece of ply wood to use as a bat.<br />"
+
+	Plan: "My plan to achieve this goal would be to play baseball with a tennis racket and tennis ball. The same exact game, just switch the bat out for a racquet, and make sure to switch the baseball out for a tennis ball so as not to break the racquet."
+
+	Plan: "Gather friends around in the field. Take the ball and instead of a bat use a large stick that is worthy of a strong couple of hits with the ball. Play until the stick breaks."
+
+	Plan: "That's simple: find a stick. I suppose that makes it stickball instead of baseball, but they are much the same game. Many of the best baseball players of the past grew up playing stickball. "
+
+	Plan: "Contact friends, Explain would like to play baseball with out a bat. See if they are game. Get enough friends to agree and meet at a field, decide how to play without a bat. How about using a coke bottle. "
+
+	Plan: "You could find a nice straight branch from a tree or possibly a pipe to substitute for a bat. You just need a stick or stick shaped object."
+
+	Plan: "My plan is to find a stick in the woods that's about the size of a baseball bat, then use a softball ball so it won't break the stick."
+
+	Plan: "We would find another item, such as a stick, a board, or a racket. The ball would probably not go as far, so We'd need to have the positions farther out, maybe no basemen.  We could also just use the ball itself, thrown as far as one could, and then run bases while the outfielders retrieve it."
+
+	Plan: "First, I would go into the woods in my backyard and search for a large, straight stick that is light enough to swing but wide enough to hit a ball with. Then I would take the stick and a baseball and find a large field to play in. I would tell all of my friends where to meet and set up bases and teams and start playing."
+
+Goal: Protect the deer in your nearby woods during hunting season, without using signs.
+
+	Plan: "Cover the roads with fences."
+
+	Plan: "1. Type out a short letter to any surrounding neighbors you know hunt, asking them to refrain from shooting deers this season.<br />2. Put it in their mailbox or on their doorstep.<br />3. Contact your local wildlife office and ask how you may aid their efforts to protect the deer in your area."
+
+	Plan: "To protect the deer I would install a large system of floodlights in the woods to scare deer away from areas where there may be hunters present. "
+
+	Plan: "Research methods of scaring deer, learn to see what methods will keep the deer further away. "
+
+	Plan: "Well the simplest solution here is to just ban hunting. So I will persuade my local/state representative to outlaw hunting going forward. "
+
+	Plan: "In order to protect the deer from a range of dangers, I suggest two approaches. First, spray their hooves or antlers with high visibility reflective spray or a bright pink color. This shouldn't affect the deer but will make them undesirable to human hunters. Second, now that they are very visible, do your best to remove other predators from the area such as bears or mountain lions so they are not increasingly killed off in nature."
+
+	Plan: "Build the deer a home out of sticks where it can easily hide from hunters."
+
+	Plan: "Find a way to direct deer away from popular hunting areas. You could do this by setting up feeding area is non popular areas to hopefully lure the animals to that area. "
+
+	Plan: "An effective way to protect deer during hunting season without using signs would be to dress up the deer in hunting attire, with a flannel jacket and orange safety vest hunters could easily mistake the deer as one of their own and in turn, the deer can safely make his or her escape."
+
+	Plan: "First, gather the nearby towns for a town meeting by walking around town to spread the word. Once everyone is gathered in the community center, talk to them about how deer hunting is dangerous, bad for the environment, and immoral. "
+
+Goal: Put out a fire that started near the wires from your TV, without using a fire extinguisher.
+
+	Plan: "First, disable the power supply to the TV. If you can safely unplug it do so, otherwise turn off the breaker. If the fire is still small, you can probably smother it using a large towel. Otherwise you might need to wet the towel instead of grab a pot of water to dump on it."
+
+	Plan: "I will create an airtight seal around my living room, and remove all oxygen from the space - suffocating the blaze. Once the fire is out, I will return oxygen to the room so I can finish watching tv. "
+
+	Plan: "1.  Grab a non-flammable material such as a heavy blanket.<br />2.  Attempt to cover the fire by depriving it of oxygen as long as it is not too big.<br />3.  If that doesn't work immediately, call the fire department."
+
+	Plan: "I would get a blanket (because fires need oxygen to survive), and cover it with water, and put the blanket over the wires "
+
+	Plan: "To put out a fire near wires without the use of water you could get a large tote or heavy blanket to put over the fire to reduce the oxygen able to reach the fire you could then beat the fire out with the blanket or with a clear tote you could watch to see the progress of the fire and whether the method is effective. "
+
+	Plan: "Use a large blanket to smother the flames. "
+
+	Plan: "First, you should assess the size and severity of the fire. Second, if it is a fire you feel capable of putting out on your own, you would want to quickly locate a heavy fire-resistant blanket, or a bucket of sand. Proceed to smother the fire out with one of those tools."
+
+	Plan: "Make sure there is nothing flammable near the fire first so the fire doesn't make something explode. Gather water or a non flammable blanket. If using water whatever gets damaged can always be replaced. "
+
+	Plan: "I would take a heavy comforter from my bed and throw it on the fire to get rid of the oxygen that is fueling the fire. "
+
+	Plan: "If you ever find yourself in a dangerous electrical fire, look no further than your own pet penguin. Penguin scat, aka poop, contains a compound that will smother electrical fires in an instant. Simply grab a generous handful of scat and quickly toss it at the base of the fire. You might have to make several throws, but the fire will not relight under the existing scat."
+
+Goal: Remove plaque from the teeth of a lion, without using a tranquilizer.
+
+	Plan: "You could make a big brush toy with flavored toothpaste that would appeal to the lion. Then it might brush its own teeth."
+
+	Plan: "You just need to add coconut oil to the lion's food. Coconut oil naturally breaks down plaque. With continued use it would slowly help to remove it and keep it from reforming. "
+
+	Plan: "I would ask for professional help."
+
+	Plan: "Wait until the lion is fast asleep, then approach the lion to clean it's teeth. "
+
+	Plan: "I would need a natural remedy to calm the animal down and then get someone who is close with the animal to clean the animal's teeth gently. "
+
+	Plan: "Order plaque removing tablets online, then place in the drinking water of the lion. "
+
+	Plan: "I'd have to go with either a pressure washer or putting something similar to steel wool, that would still be safe, over a large cut of meat."
+
+	Plan: "In this case, there are not many options. Lions tend to be loyal, so if, over time, you work your way up to touching their teeth with safety gear on. Then you can work your way up to brushing their teeth by exposing it to them over time and rewarding good behavior. "
+
+	Plan: "I would try to feed the lion dental food to see if that helps with the plaque. If not then if I am close to the lion in a way that it would not try to attack me. Then I would get a long brush (the length of maybe a back scratcher), and try to brush it using that so my arm isn't completely in the lions mouth."
+
+	Plan: "Lions are a big cat, yes they can be very mean, but they are still a cat. So give them a treat! there are several dental treats for animals, so I am sure they can make a larger scale one for a lion. You can also look into things for a lion to chew on. Some toys are designed to rub against the teeth during chewing to help scrape off some plaque. I don't brush my dogs teeth but I do use treats and toys that help keep his teeth happy and healthy. "
+
+Goal: Steal the championship trophy from behind your school's award case, without using a hammer.
+
+	Plan: "Scope out the award case. Is it even locked? Does it have hinges? Could unscrew hinges for access. Who had a key? Maybe procure key. Instead of a hammer use a glass breaker to etch the glass. Or use a heavy shoe to break glass. "
+
+	Plan: "Instead of using a hammer to break the glass, I'll use a screwdriver to pry the plates of glass apart, and then place them on the ground to get the trophy out "
+
+	Plan: "I would get a screw driver to unscrew the wood that is holding the glass into the trophy case. Then I would sneak into the building at night with a ski mask on and dark clothes and disassemble the case then take the trophy."
+
+	Plan: "I would examine the award case and determine how best to get it open. I might ask an administrator or janitor if I could use one of the trophy's for a photoshoot and then observe how they get into the case. If a key is used to get in the case, I would plan out how to steal the key. Maybe convince the person that I was asked to use the set of keys for something else and then take the trophy case key. Finally I would go into the school when no one was around and take the trophy."
+
+	Plan: "Glass cutter. "
+
+	Plan: "You could pick the lock with some wire. Cases like that do not usually have complicated locks. A wire or some some kind of pick would probably open the case without using a hammer or breaking the glass. Or you could break the glass with something else, like a brick. As long as it's not a hammer. "
+
+	Plan: "We could take the entire case-get a dolley or a skidloader, and move the case. Fire extinguishers are hard, and are everywhere in schools, could be used to break the glass. Any hard object from the janitors closet, or a book thrown could work too. If we didn't want to alert anyone, we could use a saw on the back of the case, then push it back where it originally was. "
+
+	Plan: "To get the championship trophy from behind the award case, you would first need to get a key from one of the faculty members. To do that you would need multiple people to pull off the plan. You would need at least two people to distract the faculty member well enough so you could get the key. Then while they are still distracting them you will have time to go get the trophy, relock the award case, and return the key before any notices."
+
+	Plan: "Sneak in the school. Open the door by picking the lock. Tip toe in and be quiet. Go to the award case area. Take a bat instead of a hammer. Crack the case open. Take the trophy and hide it under your coat. Run like a zombie is chasing you out the door."
+
+	Plan: "First option: Pay someone on the inside. Have them obtain it through whatever measures they see fit.<br /><br />Second: Lockpicking is not all that hard. Obtain some tools and practice. Then on a night where there is an event happening in a different part of the school where I know the doors will be unlocked, sneak in and pick the lock.<br /><br />Third, use a rock."
+
+Goal: Stop your canoe from falling down the waterfall, without using a paddle.
+
+	Plan: "I would grab some hanging branch on the bank and hold on tight as can be. I would then get out of the canoe and pull it to shore"
+
+	Plan: "Without using a paddle I believe this would probably take some forethought. I would simply tie the canoe with a length of rope or a chain to a tree or other land object before floating it."
+
+	Plan: "If there are any trees in the water then I would try to hold onto those to keep me from falling down the waterfall. If there is nothing like that, then I would just jump out of the canoe and try to pull/swim it to the shore before I get close to the waterfall. "
+
+	Plan: "1. Survey area for other things to grab onto <br />2. Use hands in the water as makeshift paddle to maneuver your way to the possible objects (rocks, tree branches, etc)<br />3. Reach out to and grab onto said objects"
+
+	Plan: "The plan involves reaching for other objects around the canoe as it drifts towards the waterfall. This could include rocks or overhanging trees that are near the water. If all else fails, the person could get out of their canoe, dig their heels into the dirt in the lake (if in a lake/shallow water), and drag their canoe away from the falls. "
+
+	Plan: "I would originally try to grab it using my hands, but I wouldn't think that would work. I would either try to steer it towards a rocks to try and put something in front of it so that it somehow stops the canoe from completely going down the waterfall. I would also use a stick while steering it to the rock. "
+
+	Plan: "You could try to grab a stick from the river to use as a paddle. Or try to grab onto a rock or the edge of the river to stop your canoe."
+
+	Plan: "If applicable, look for something to grab onto (like a branch or rock). If you cannot do this, try to use your body weight to turn the canoe sideways so it will stop. If all else fails, jump out and grab the canoe. "
+
+	Plan: "I would have a harpoon gun with me as I approached the waterfall. You then shoot the harpoon gun with a rope attached to it into a nearby tree. You then tie the rope to the canoe to keep it from going over the waterfall. "
+
+	Plan: "I would anchor the canoe to stop it from falling down the waterfall. "
+
+Goal: Take your dog for a walk, without using a leash.
+
+	Plan: "In the weeks prior, train my dog at obeying my command to heel and not to run off at the first sign of something of interest. Next, make sure I have treats to reward my dog when he obeys me. Lastly, have a leash just in case there is a failure and he doesn't listen. "
+
+	Plan: "I would begin to train my dog using a slack leash. With this method you walk your dog with a lot of slack in the leash and only tug on the leash when the dog needs correction. Over time he learns to walk without a leash and listen to voice commands while staying at your side. I would then practice without a leash on a route that does not have many people or other dogs to eliminate distractions. Then overtime, I would introduce a few distractions at a time to get the dog used to obeying and staying focused in the presence of distractions while walking."
+
+	Plan: "Get the dog. Train him to run with you without the leash. Go for a walk. Use no leash. Everyone is happy and leashless!"
+
+	Plan: "Taking the dog on a walk without a leash is easy. The first thing you have to do is make sure your dog will listen to you and not just run off. The second thing to do is to keep a close eye on the dog so it doesn't run into the street. And lastly you want to walk on the side of the sidewalk closest to the road so you can at least attempt to catch your dog before/if it runs into the road."
+
+	Plan: "The dog could be trained that the street is bad, or limited with a shock collar. They could also be   lured back with food. Some dogs like to ride in cars, so you could open the door to catch them if they escaped. "
+
+	Plan: "I would put my dogs collar on, then tie a long piece of thick string to the part where the leash usually clips onto and take her up the driveway for a walk."
+
+	Plan: "I can try a dog park that does not require leashes. There are a few in the neighborhood.<br /><br />Most cities have leash laws, so getting my dog trained to walk without one in the city would not be feasible.<br /><br />There are wooded trails I can bring my dog to, as well."
+
+	Plan: "The first step to achieve this goal is to train your dog in obedience. By using rewards such as treats or physical affection, one can train their dog to walk beside them while out in public. But while one can train their dog, there are outside forces that cannot always be accounted for such as other animals. It is important to train your dog to be gentle around other humans and animals so as not to run off. By teaching your dog a set of commands such as sit, stay, and stand, one is able to walk with their dog without using a leash. If obedience training does not work you can always use a dog stroller."
+
+	Plan: "Find a fenced in area. Elementary schools usually have large playgrounds that are contained. If school is out you could take your dog to a fenced playground and walk safely without a leash."
+
+	Plan: "Tough one. Google how to walk a dog without using a leash. Find the best way and the easiest way. Do not want to spend a bunch of time training dog to walk without a leash, if even possible. Practice in a back yard before going out. "
