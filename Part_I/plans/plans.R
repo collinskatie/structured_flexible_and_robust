@@ -8,16 +8,6 @@ library(lmerTest)
 library(emmeans)
 library(lmtest)
 library(influence.ME)
-library(sjPlot)
-library(sjmisc)
-library(sjstats)
-if (!require(lmerTest)) {install.packages("lmerTest"); require(lmerTest)}     ## uses lme4 package, gives p-values for regression parameters
-if (!require(nlme)) {install.packages("nlme"); require(nlme)}
-if (!require(reshape)) {install.packages("reshape"); require(reshape)} 
-require(lattice)
-require(plyr)
-require(car)
-require(effects)
 
 # load data
 # 15-shot
