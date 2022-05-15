@@ -30,7 +30,9 @@ The code and associated stimuli files used to re-create the human experiments ru
 
 ## Analysis
 
-Statistical analyses are included in the `analysis` subfolder. MEGAN ADD INFO HERE, PLEASE 
+Statistical analyses are included in the `analysis` subfolder. The analysis code for `plans` is in `plans.R` and for `explanations` is in `explanations.R`.
+
+Use RStudio and R version 4.0.2 to run the analysis code.
 
 We include auxillary fine-grained exploratory analyses that we ran; for instance, extracting all human- and LLM-generated plans and explanations which achieved a mean rating > 6 (on a 1-7 scale), in the `good-` text files -- and all generations achieving a mean rating < 2 in the `bad-` files. We also generate plots per goal and scenario containing a breakdown of the mean (over >= 3 annotators per) ratings over all stimuli, across conditions -- these data can be found in the `per_stimuli_goodness.pdf` file. 
 

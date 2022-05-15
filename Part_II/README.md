@@ -507,3 +507,6 @@ Again, in output-path you will find a `collated.json` that describes the output.
 There is a small notebook `consolidate_results.ipynb` that pulls all the individual `collated.json` files and generate a big dataframe.
 
 Using the generated dataframe, `create_part2_paper_figs.ipynb` creates the plots in `results/` that were used in the paper.
+
+## Analysis
+The analysis R code file `codex.R` is found under `results`. Use RStudio and R version 4.0.2 to run the analysis code and obtain p-values of the experiment.
