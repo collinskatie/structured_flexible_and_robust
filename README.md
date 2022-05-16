@@ -6,7 +6,7 @@ Katherine M. Collins*, Catherine Wong*, Jiahai Feng, Megan Wei, and Joshua B. Te
 
 *Contributed equally
 
-https://arxiv.org/pdf/2205.05718.pdf
+Paper: https://arxiv.org/pdf/2205.05718.pdf
 
 Project Page: https://sites.google.com/view/structured-flexible-and-robust/home
 
