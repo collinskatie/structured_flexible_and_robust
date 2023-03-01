@@ -10,7 +10,7 @@ Paper: https://arxiv.org/pdf/2205.05718.pdf
 
 Project Page: https://sites.google.com/view/structured-flexible-and-robust/home
 
-Spreadsheet of Collected Human and GPT-3 Generations: https://docs.google.com/spreadsheets/d/1K7Jspk4Yb-fDl2bucejxgg9mT-1-CPgAfPkv2nOZss8/edit?usp=sharing 
+Spreadsheet of Collected Human and GPT-3 Generations: https://docs.google.com/spreadsheets/d/1K7Jspk4Yb-fDl2bucejxgg9mT-1-CPgAfPkv2nOZss8/edit?usp=sharing
 
 ## Abstract
 
