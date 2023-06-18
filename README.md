@@ -29,7 +29,7 @@ Code for "Part II: Integrating language with structured reasoning models" can be
 If citing us, please consider the following bibtex entry: 
 
 ```
-@misc{https://doi.org/10.48550/arxiv.2205.05718,
+@misc{collinsWong2022,
   doi = {10.48550/ARXIV.2205.05718},
   
   url = {https://arxiv.org/abs/2205.05718},
@@ -40,7 +40,7 @@ If citing us, please consider the following bibtex entry:
   
   title = {Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks},
   
-  publisher = {arXiv},
+  publisher = {CogSci},
   
   year = {2022},
   
